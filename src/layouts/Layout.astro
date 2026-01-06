@@ -133,12 +133,14 @@ const structuredData = {
     <script
       is:inline
       type="application/javascript"
-    >{`
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-LWP7W6YYF1');
-    `}</script>
+    >
+      {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-LWP7W6YYF1');
+      }
+    </script>
 
     <ClientRouter />
 
