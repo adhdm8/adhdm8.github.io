@@ -3,35 +3,26 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+# About ADHD m8
 
-![Astro Paper](public/astropaper-og.jpg)
+Hey there! 👋 I'm ADHD m8, a digital wanderer navigating the vast landscape of technology, creativity, and life with ADHD. This blog is my digital garden where I share thoughts, experiences, and insights about living with ADHD while pursuing tech interests and creative endeavors. Warning: Side effects of reading this blog may include sudden urges to reorganize your entire digital life and try 47 different productivity apps in one weekend.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## Who am I?
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+I'm someone who's learned to channel the unique energy and perspective that comes with ADHD into productive and creative outlets. Whether it's diving deep into code, exploring new technologies, or sharing experiences about managing attention and focus, this space is where I document my journey. Think of me as that friend who starts 10 projects simultaneously but somehow manages to finish at least 3 of them (on a good day).
 
-## Features
+## What you'll find here
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+This blog covers a range of topics that interest me:
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+- **Tech & Development**: Thoughts on programming, tools, and digital workflows that work well for neurodivergent minds
+- **ADHD Life Hacks**: Practical strategies for managing daily life with ADHD (and yes, some of them might actually work)
+- **Productivity**: Systems and approaches that actually work for different types of brains (emphasis on "actually" – I've tested way too many)
+- **Creative Projects**: Personal projects and experiments that I'm tinkering with (read: things I'll probably abandon in favor of the next shiny idea)
+- **Reflections**: Personal thoughts and experiences navigating life with ADHD (with a healthy dose of "what was I thinking?" moments)
 
-and so much more.
+## Why "ADHD m8"?
 
-## Show your support
+The name "ADHD m8" reflects both my focus on ADHD-related topics and my casual, friendly approach to sharing. "m8" is Australian slang for "mate" – emphasizing that this is a space for connection and community, not just another blog preaching from a pedestal. Plus, "ADHD Mate" sounded like I was looking for a dating site for people with attention issues (which, honestly, might not be the worst idea).
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+Thanks for stopping by! 🙏🏼
