@@ -1,0 +1,25 @@
+---
+author: ADHD m8
+pubDatetime: 2026-01-08T01:08:21Z
+modDatetime: 2026-01-08T01:08:21Z
+title: Why starting this blog
+slug: why-starting-this-blog
+featured: true
+draft: false
+tags:
+  - docs
+description:
+  Some rules & recommendations for creating or adding new posts using AstroPaperr
+  theme.
+---
+
+I have ADHD. I've got a million ideas—but struggle to follow through. Sound familiar?
+
+Instead of fighting my brain, I'm learning to work with it. Short workouts (I prefer cardio), tiny tasks, clear routines—and less self-criticism.
+
+This blog will share what actually helps me stay focused, move forward, and feel less overwhelmed. No fluff. Just real experiments from real life.
+
+If you're also trying to build a life that fits your brain—not someone else's rulebook—you're not alone.
+
+—
+1-minute read. Zero perfection required.
