@@ -7,10 +7,9 @@ slug: why-starting-this-blog
 featured: true
 draft: false
 tags:
-  - docs
-description:
-  Some rules & recommendations for creating or adding new posts using AstroPaperr
-  theme.
+  - adhd
+  - personal
+description: Sharing my journey with ADHD and strategies that help me stay focused and move forward.
 ---
 
 I have ADHD. I've got a million ideas—but struggle to follow through. Sound familiar?
