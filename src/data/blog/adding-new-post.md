@@ -1,9 +1,9 @@
 ---
-author: ADHD m8
-pubDatetime: 2026-01-08T01:08:21Z
-modDatetime: 2026-01-08T01:08:21Z
-title: Why starting this blog
-slug: why-starting-this-blog
+author: Sat Naing
+pubDatetime: 2026-01-08T15:22:00Z
+modDatetime: 2026-01-08T16:52:45.934Z
+title: Why am I starting this blog
+slug: why-am-i-starting-this-blog
 featured: true
 draft: false
 tags:
