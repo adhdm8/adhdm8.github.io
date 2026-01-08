@@ -1,8 +1,8 @@
 export const SITE = {
   website: "https://www.adhdm8.com/", // replace this with your deployed domain
   author: "ADHD m8",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  profile: "https://www.adhdm8.com/",
+  desc: "A minimal, ADHD-friendly blog for you",
   title: "ADHD m8",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,

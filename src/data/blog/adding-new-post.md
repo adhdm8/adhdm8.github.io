@@ -1,5 +1,5 @@
 ---
-author: Sat Naing
+author: ADHD m8
 pubDatetime: 2026-01-07T15:22:00Z
 modDatetime: 2026-01-07T16:52:45.934Z
 title: Why am I starting this blog
