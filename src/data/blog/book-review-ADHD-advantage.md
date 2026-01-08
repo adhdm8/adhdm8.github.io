@@ -15,7 +15,7 @@ description: Unlocking the ADHD Advantage - Great book for understanding why you
 
 ![book cover](../../assets/images/Unlocking%20the%20ADHD%20Advantage.png)
 
-#### The ADHD brain wasn’t designed to sit still for eight hours. It was designed to move, adapt, and act—fast. 
+#### The ADHD brain wasn’t designed to sit still for eight hours. It was designed to move, adapt, and act—fast
 
 If you’ve ever felt like your brain just doesn’t fit in today’s world—like you’re wired for action, exploration, and intensity while everyone else seems content ticking boxes in quiet cubicles—then Unlocking the ADHD Advantage by Dr. Eric Green might feel like someone finally turned on the lights.
 
@@ -51,7 +51,7 @@ Green’s hunter metaphor is powerful—but it’s not the whole story. ADHD is 
 Final Thought
 Unlocking the ADHD Advantage doesn’t promise a cure. It offers something better: clarity. Your brain isn’t wrong—it’s just built for a different kind of world. And with the right mindset and tools, you can make modern life work for you, not against you.
 
-#### Your restlessness isn’t impatience. It’s your body reminding you: ‘There’s more out there.
+#### Your restlessness isn’t impatience. It’s your body reminding you: ‘There’s more out there
 
 ### Rating: ⭐⭐⭐⭐ (4/5)
 
