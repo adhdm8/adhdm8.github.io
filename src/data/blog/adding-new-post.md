@@ -1,7 +1,7 @@
 ---
 author: Sat Naing
-pubDatetime: 2026-01-08T15:22:00Z
-modDatetime: 2026-01-08T16:52:45.934Z
+pubDatetime: 2026-01-07T15:22:00Z
+modDatetime: 2026-01-07T16:52:45.934Z
 title: Why am I starting this blog
 slug: why-am-i-starting-this-blog
 featured: true
