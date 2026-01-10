@@ -14,7 +14,7 @@ description: Online resources to help with ADHD.
 
 ## Evidence-based information
 
-- CHADD – Children and Adults with ADHD: https://chadd.or
+- CHADD – Children and Adults with ADHD: https://chadd.org
 - CDC – ADHD information and free materials: https://www.cdc.gov/adhd/communication-resources/index.html
 - NIMH – ADHD shareable resources: https://www.nimh.nih.gov/get-involved/digital-shareables/shareable-resources-on-adhd
 
@@ -33,7 +33,7 @@ description: Online resources to help with ADHD.
 ## Practical tools and apps
 
 - Inflow – ADHD management app: (listed in online ADHD app roundups) https://www.verywellmind.com/best-online-advice-for-adhd-6455751
-- Headspace – mindfulness & focus app: https://www.headspace.co
+- Headspace – mindfulness & focus app: https://www.headspace.com
 - Online ADHD management tools for adults: https://add.org/adhd-tools-for-adults
 
 ## Parents, teens, and relationships
