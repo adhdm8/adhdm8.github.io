@@ -7,7 +7,8 @@ slug: the-mystery-of-time-blindness-why-the-adhd-brain-struggles-with-the-future
 featured: true
 draft: false
 tags:
-  - others
+  - adhd
+  - time-blindness
 description: A blog post about ADHD and personal experiences.
 ---
 
