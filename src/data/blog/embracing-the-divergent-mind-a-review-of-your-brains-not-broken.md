@@ -18,24 +18,33 @@ In a landscape where ADHD is often reduced to clinical checklists of inattention
 Buy here: https://amzn.to/4qhBM3j
 
 #### The Overlooked Emotional Core
-While many resources focus on executive functioning, the sources highlight that one of this book's core strengths is its focus on **emotional regulation**. Rosier argues that people with ADHD process almost everything through an emotional lens first. She explains that the **"just do it" button**—the part of the prefrontal cortex that initiates tasks—is often offline in the ADHD brain, forcing individuals to find emotional motivations, such as anger or shame, to spark task initiation. By addressing the "big emotions" and "thought traps" that ADHDers face, the book provides a map for climbing toward emotional health and reducing shame.
+
+While many discussions of ADHD focus on executive functioning, one of the book’s greatest strengths is its emphasis on emotional regulation. Rosier argues that people with ADHD tend to experience the world through an emotional lens first. She explains that the familiar “just do it” button—the part of the prefrontal cortex responsible for task initiation—is often offline in the ADHD brain. As a result, individuals may rely on emotional triggers like urgency, anger, or shame to get moving. By directly addressing the “big emotions” and common “thought traps” ADHDers face, the book offers a clear path toward emotional health and a meaningful reduction in shame.
 
 #### Divergent vs. Convergent Thinking
-The sources describe a breakthrough concept in the book: the distinction between **divergent and convergent thinking**.
-*   **Divergent Thinking:** This is the ADHD brain’s natural state, taking one idea and blowing it up into millions of connected pieces.
-*   **Convergent Thinking:** This is sequential, deductive thinking (like that of Sherlock Holmes), which the ADHD brain often finds "insanely boring".
-Rosier encourages readers to enjoy their divergent thinking while learning how to "trick" themselves into convergent thinking when necessary to get work done.
+
+A key insight in the book is the distinction between divergent and convergent thinking.
+
+Divergent Thinking: The ADHD brain’s natural mode—taking a single idea and expanding it into countless interconnected possibilities.
+
+Convergent Thinking: Sequential, deductive thinking (the Sherlock Holmes style), which often feels “insanely boring” to the ADHD mind.
+Rather than framing divergent thinking as a flaw, Rosier encourages readers to embrace it, while also learning how to gently “trick” themselves into convergent thinking when focus and follow-through are required.
 
 #### Practical Tools for Growth
-Rather than just providing information, the book offers concrete approaches to increasing functionality:
-*   **The Solve-It Grid:** This 4x4 grid helps readers operationalize their lives by breaking tasks down into four categories based on their level of fun and **"emotional intensity"**.
-*   **Personal Metaphors:** Rosier suggests that once an individual identifies their personal metaphor for ADHD (e.g., running a three-legged race with a version of yourself that has no prefrontal cortex), they can more easily find solutions to their specific behavioral problems.
-*   **Parts Work:** The book introduces "parts work," where readers identify the "ADHD version" of themselves and the "non-ADHD version," allowing these internal characters to negotiate and care for one another.
+
+Beyond theory, the book provides concrete tools for increasing day-to-day functionality:
+
+The Solve-It Grid: A 4×4 framework that helps readers break tasks into categories based on enjoyment and emotional intensity, making decisions more actionable.
+
+Personal Metaphors: By identifying a personal metaphor for ADHD—such as running a three-legged race with a version of yourself that lacks a prefrontal cortex—readers can better understand their challenges and design solutions that actually fit.
+
+Parts Work: The book introduces a form of “parts work,” encouraging readers to recognize both their ADHD and non-ADHD selves, allowing these internal parts to communicate, negotiate, and care for one another.
 
 #### A Compassionate Perspective with Caveats
-According to the sources, the book is highly valued for providing a **nuanced understanding** that ADHD is more than just a disorder of focus. It is particularly praised by high-IQ adults who feel "out of step" with their peers. However, some readers noted that the book contains occasional **religious references** that felt misplaced or jarring in a logic-based text. Additionally, while the content is life-changing for many, some found the physical book structure difficult to pull information from quickly, noting that it might be a **challenging read** for those with severe ADHD symptoms.
 
-Ultimately, *Your Brain's Not Broken* reinforces the idea that having ADHD is about learning how to **harness a unique brain** rather than seeing oneself as limited. It guides readers toward a more fulfilling life rooted in **empowerment and self-acceptance**.
+The book is widely appreciated for offering a nuanced understanding of ADHD as more than a simple attention deficit. It resonates strongly with high-IQ adults who have long felt “out of step” with their peers. That said, some readers may find the occasional religious references unexpected or out of place in an otherwise logic-driven framework. Others note that while the content itself is powerful, the book’s structure can make it harder to quickly extract key ideas—potentially a challenge for readers with more severe ADHD symptoms.
+
+Ultimately, Your Brain’s Not Broken reframes ADHD as a matter of learning to work with a unique brain, not fixing a broken one. It points readers toward a more fulfilling life grounded in self-understanding, empowerment, and self-acceptance.
 
 ### Rating: ⭐⭐⭐⭐ (4/5)
 
