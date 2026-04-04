@@ -1,7 +1,7 @@
 ---
 author: ADHD m8
 pubDatetime: 2026-02-08T12:32:54+08:00
-modDatetime: 2026-02-08T12:32:54.615+08:00
+modDatetime: 2026-04-04T23:30:00+08:00
 title: ADHD and Life Expectancy Understanding the Real World Risks
 slug: adhd-and-life-expectancy-understanding-the-real-world-risks
 featured: true
@@ -45,7 +45,7 @@ The age at which a patient is first diagnosed significantly impacts these risks.
 The most important takeaway for patients and families is that **estimated life expectancy is malleable.** Because the reduction in lifespan is driven by behavior and lifestyle, changing those factors can directly improve quality of life and longevity.
 
 *   **Multimodal Treatment:** Combining **medication** (which acts as a "neurogenetic therapy" to normalize brain circuits) with **CBT and coaching** provides the scaffolding needed to bridge the performance gap.
-*   **Addressing the "First-Order" Factors:** Proactively managing weight, quitting smoking, improving sleep, and increasing exercise are essential components of an ADHD treatment plan.
+* **Addressing the "First-Order" Factors:** Proactively managing weight, quitting smoking, [improving sleep](/posts/adhd-and-sleep-hygiene-science-backed-guide/), and increasing exercise are essential components of an ADHD treatment plan.
 *   **Strict Monitoring:** Because long-term use of stimulants can carry a small (4% per year) increased risk of cardiovascular disease, regular monitoring of **heart rate and blood pressure** every six months is a mandatory safety protocol.
 
 By viewing ADHD as a **chronic developmental disability**—similar to diabetes of the brain—patients can move toward a life of consistent management that protects both their well-being and their future.

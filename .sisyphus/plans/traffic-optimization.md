@@ -126,12 +126,25 @@ Career Guide
 
 - [x] Add `robots.txt` to `public/`
 - [x] Add `og:type` and `og:site_name` to Layout
-- [ ] Add this plan to project
+- [x] Add traffic optimization plan to project
+- [x] Create AGENTS.md documentation
+- [ ] Add `.sisyphus/plans/` to git tracking
 
 ---
 
-## Next Steps
+## In Progress
 
-1. Write **"ADHD and Sleep"** post (big gap, low competition)
+- [ ] Write **"ADHD and Sleep"** post (big gap, low competition)
+  - [x] Create detailed post plan
+  - [ ] Research and gather citations
+  - [ ] Write first draft
+  - [ ] Add internal links
+  - [ ] Publish
+
+---
+
+## Next Steps (After Sleep Post)
+
+1. Write **"Time Estimation Drills"** (template + guide)
 2. Create internal linking between existing posts
 3. Implement per-post SEO overrides (optional, medium effort)
