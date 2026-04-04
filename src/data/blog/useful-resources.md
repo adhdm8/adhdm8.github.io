@@ -1,7 +1,7 @@
 ---
 author: ADHD m8
 pubDatetime: 2026-01-09T15:22:00Z
-modDatetime: 2026-01-09T16:52:45.934Z
+modDatetime: 2026-04-03T16:52:45.934Z
 title: Useful resources for your ADHD
 slug: useful-resources
 featured: true
@@ -17,6 +17,7 @@ description: Online resources to help with ADHD.
 - CHADD – Children and Adults with ADHD: https://chadd.org
 - CDC – ADHD information and free materials: https://www.cdc.gov/adhd/communication-resources/index.html
 - NIMH – ADHD shareable resources: https://www.nimh.nih.gov/get-involved/digital-shareables/shareable-resources-on-adhd
+- Shamieh Law – How Does ADHD Affect Driving? Tips for Driving Safe: https://shamiehlaw.com/adhd-and-driving/
 
 ## Adult-focused ADHD sites
 
