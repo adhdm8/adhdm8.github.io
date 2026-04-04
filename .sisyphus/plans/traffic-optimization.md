@@ -132,19 +132,23 @@ Career Guide
 
 ---
 
-## In Progress
+## Completed Posts
 
-- [ ] Write **"ADHD and Sleep"** post (big gap, low competition)
-  - [x] Create detailed post plan
-  - [ ] Research and gather citations
-  - [ ] Write first draft
-  - [ ] Add internal links
-  - [ ] Publish
+- [x] Write **"ADHD and Sleep"** post
+  - [x] Published: `adhd-and-sleep-hygiene-science-backed-guide.md`
+  - [x] Internal links added
+  - [x] ~1,444 words
+
+- [x] Write **"The Paper Brain"** post (new topic)
+  - [x] Published: `the-paper-brain-why-analog-tools-work-better-for-adhd.md`
+  - [x] Internal links added
+  - [x] ~1,500 words
 
 ---
 
-## Next Steps (After Sleep Post)
+## Next Steps
 
 1. Write **"Time Estimation Drills"** (template + guide)
-2. Create internal linking between existing posts
-3. Implement per-post SEO overrides (optional, medium effort)
+2. Write **"Adult ADHD Diagnosis Guide"**
+3. Create internal linking between existing posts
+4. Implement per-post SEO overrides (optional, medium effort)

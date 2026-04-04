@@ -20,7 +20,7 @@ ADHD is a **performance disorder**, not a knowledge disorder—meaning you likel
 
 ### **1. Externalize Your Working Memory**
 In software engineering, you often have to hold complex logic and multiple variables in your head simultaneously. For an ADHD brain, **internal working memory is often "shot"**. 
-*   **The "Chained" Journal:** Never attend a stand-up or a technical meeting without a notebook. Treat it as an **external prosthesis** for your brain; anything you agree to do should be immediately written down in a journal that is "welded to your body".
+* **The "Chained" Journal:** Never attend a stand-up or a technical meeting without a notebook. Treat it as an **external prosthesis** for your brain; anything you agree to do should be immediately written down in a journal that is "welded to your body". Learn more about why analog tools often work better than digital ones in [The Paper Brain](/posts/the-paper-brain-why-analog-tools-work-better-for-adhd/).
 *   **Physical Problem-Solving:** Don't try to refactor complex code entirely in your head. Use **manual tools** like whiteboards or 3x5 index cards to "mind dump" ideas and manually rearrange them into a logical sequence.
 *   **Low-Friction Capture:** Use digital tools like **Todoist** for quick-capture features so sudden thoughts don't disrupt your current deep-work session.
 

@@ -30,7 +30,7 @@ ADHD is often described as **"time blindness"** or a "nearsightedness to the fut
 Since **working memory** (the ability to hold information "online") is often "shot" in those with ADHD, you must move mental information into the **visual field**.
 
 *   **Digital Memory Recorders:** Carrying a small **voice recorder** allows you to dictate important thoughts or reminders the moment they occur, ensuring they aren't forgotten before you can write them down.
-*   **The "Chained" Journal:** While high-tech tools are great, digital devices are often forgotten or left turned off. A **physical paper journal** "welded to your body" (or even on a chain) is considered one of the most reliable external "memory banks" for an adult with ADHD.
+* **The "Chained" Journal:** While high-tech tools are great, digital devices are often forgotten or left turned off. A **physical paper journal** "welded to your body" (or even on a chain) is considered one of the most reliable external "memory banks" for an adult with ADHD. See [why analog often beats digital](/posts/the-paper-brain-why-analog-tools-work-better-for-adhd/) for ADHD brains.
 *   **Point-of-Performance Cues:** Use **whiteboards, sticky notes, and signs** placed exactly where a task needs to happen. For example, a note on the door to "check for keys" serves as a physical prompt at the exact moment it is required.
 
 ---
