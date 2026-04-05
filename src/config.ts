@@ -4,6 +4,7 @@ export const SITE = {
   profile: "https://www.adhdm8.com/",
   desc: "Evidence-based ADHD tips, strategies, and resources for adults. Practical advice on time management, career, relationships, and thriving with ADHD.",
   title: "ADHD m8 | Practical Tips & Resources for Adults with ADHD",
+  siteName: "ADHD m8",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,

@@ -85,7 +85,7 @@ const structuredData = {
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:image" content={socialImageURL} />
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content={SITE.title} />
+    <meta property="og:site_name" content={SITE.siteName || SITE.title} />
 
     <!-- Article Published/Modified time -->
     {
