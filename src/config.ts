@@ -2,8 +2,8 @@ export const SITE = {
   website: "https://www.adhdm8.com/", // replace this with your deployed domain
   author: "ADHD m8",
   profile: "https://www.adhdm8.com/",
-  desc: "A minimal, ADHD-friendly blog for you",
-  title: "ADHD m8",
+  desc: "Evidence-based ADHD tips, strategies, and resources for adults. Practical advice on time management, career, relationships, and thriving with ADHD.",
+  title: "ADHD m8 | Practical Tips & Resources for Adults with ADHD",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,

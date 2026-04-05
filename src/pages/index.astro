@@ -19,33 +19,40 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 ---
 
-<Layout>
+<Layout
+  title="ADHD m8 | Practical Tips & Resources for Adults with ADHD"
+  description="Evidence-based ADHD tips, strategies, and resources for adults. Practical advice on time management, career, relationships, and thriving with ADHD."
+>
   <Header />
   <main id="main-content" data-layout="index" class="app-layout">
-    <section id="hero" class:list={["pt-8 pb-6", "border-b border-border"]}>
-      <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-        Hello World!
-      </h1>
-      <a
-        target="_blank"
-        href="/rss.xml"
-        class="inline-block"
-        aria-label="rss feed"
-        title="RSS Feed"
-      >
-        <IconRss
-          width={20}
-          height={20}
-          class="scale-125 stroke-accent stroke-3 rtl:-rotate-90"
-        />
-        <span class="sr-only">RSS Feed</span>
-      </a>
+<section id="hero" class:list={["pt-8 pb-6", "border-b border-border"]}>
+  <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
+    Welcome to ADHD m8
+  </h1>
+  <a
+    target="_blank"
+    href="/rss.xml"
+    class="inline-block"
+    aria-label="rss feed"
+    title="RSS Feed"
+  >
+    <IconRss
+      width={20}
+      height={20}
+      class="scale-125 stroke-accent stroke-3 rtl:-rotate-90"
+    />
+    <span class="sr-only">RSS Feed</span>
+  </a>
 
-      <p>
-        Welcome! This blog is your go-to hub for ADHD-friendly tips, 
-        focus-boosting tools, and thoughtfully curated products designed to help you thrive—because living with ADHD shouldn’t mean doing it the hard way. 
-        You belong here!
-      </p>
+  <p>
+    Your evidence-based resource for understanding and thriving with <strong>ADHD in adulthood</strong>. 
+    Discover practical strategies for <strong>time management</strong>, career success, 
+    healthy relationships, and daily productivity—backed by science and lived experience.
+  </p>
+  <p class="mt-2">
+    Whether you're newly diagnosed or have been navigating ADHD for years, 
+    you'll find actionable tips, book reviews, and tools to help you work <em>with</em> your brain, not against it.
+  </p>
       <p class="mt-2">
         Read the blog posts for more info.
       </p>

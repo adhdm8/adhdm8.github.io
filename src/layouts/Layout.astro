@@ -30,13 +30,21 @@ const {
 
 const socialImageURL = new URL(ogImage, Astro.url);
 
+const isBlogPosting = pubDatetime && title !== SITE.title;
 const structuredData = {
   "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  headline: `${title}`,
-  image: `${socialImageURL}`,
-  datePublished: `${pubDatetime?.toISOString()}`,
-  ...(modDatetime && { dateModified: modDatetime.toISOString() }),
+  "@type": isBlogPosting ? "BlogPosting" : "WebSite",
+  ...(isBlogPosting && {
+    headline: `${title}`,
+    image: `${socialImageURL}`,
+    datePublished: pubDatetime?.toISOString(),
+    ...(modDatetime && { dateModified: modDatetime.toISOString() }),
+  }),
+  ...(!isBlogPosting && {
+    name: `${title}`,
+    url: `${canonicalURL}`,
+    description: `${description}`,
+  }),
   author: [
     {
       "@type": "Person",
@@ -120,7 +128,7 @@ const structuredData = {
       href={new URL("rss.xml", Astro.site)}
     />
 
-    <meta name="theme-color" content="" />
+    <meta name="theme-color" content="#3b82f6" />
 
     {
       // If PUBLIC_GOOGLE_SITE_VERIFICATION is set in the environment variable,
