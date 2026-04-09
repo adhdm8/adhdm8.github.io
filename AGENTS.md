@@ -13,9 +13,9 @@ This is an **Astro-based static blog** using the AstroPaper theme, customized fo
 
 ### Key Characteristics
 - **Audience**: Adults with ADHD, parents, partners, healthcare professionals
-- **Tone**: Evidence-based, compassionate, practical, jargon-free
+- **Tone**: The "Expert Mate" — Evidence-based and compassionate, but delivered with a casual, relatable, and slightly humorous personality. Think "knowledgeable friend" rather than "medical textbook."
 - **Content Types**: Science-backed guides, book reviews, resource compilations, personal experiences
-- **Writing Style**: Short paragraphs, clear headings, actionable takeaways
+- **Writing Style**: Short, ADHD-friendly paragraphs, clear H3 headings, actionable takeaways, and a conversational flow.
 
 ---
 
@@ -94,8 +94,9 @@ description: "A concise 1-2 sentence summary for SEO and social sharing."
 3. **Bullet points for lists** — Keep items concise
 4. **Include a "Conclusion" section** — Summarize key takeaways
 5. **Add horizontal rules** — Use `---` to separate major sections
-6. **Keep paragraphs short** — 2-4 sentences max for ADHD readers
-7. **End with engagement prompt** — "What's your experience?" style question
+6. **Keep paragraphs short** — 2-4 sentences max for ADHD readers.
+7. **Use "Personality Callouts"** — Use "Pro-tips" or "ADHD m8" callouts to break up heavy text with quick, relatable wins.
+8. **End with engagement prompt** — "What's your experience?" style question to build community.
 
 ### Markdown Features Available
 
@@ -115,10 +116,11 @@ description: "A concise 1-2 sentence summary for SEO and social sharing."
 | Principle | Implementation |
 |-----------|----------------|
 | **Evidence-based** | Cite research, books, experts. Include links to sources. |
-| **ADHD-friendly** | Short sections, clear headings, actionable steps |
-| **Non-judgmental** | No shaming language. ADHD is neurobiological, not a character flaw. |
-| **Practical** | Every post should have at least 3 actionable takeaways |
-| **Compassionate** | Acknowledge struggle without toxic positivity |
+| **ADHD-friendly** | Short sections, clear headings, actionable steps. Use H3s. |
+| **Non-judgmental** | No shaming language. ADHD is neurobiological. |
+| **Practical** | Every post must have at least 3 actionable takeaways. |
+| **Compassionate** | Acknowledge struggle without falling into toxic positivity. |
+| **The "Mate" Voice** | Use relatable analogies and light humor. Avoid being overly clinical. Be a "digital wanderer" sharing insights, not a lecturer. |
 
 ### Content Pillars (Priority Order)
 
