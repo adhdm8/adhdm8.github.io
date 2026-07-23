@@ -146,21 +146,60 @@ description: "A concise 1-2 sentence summary for SEO and social sharing."
 
 ### Step-by-Step Process
 
-1. **Create file** in `src/data/blog/`
+1. **Define keywords first** (see Section 5a) — one primary keyword + 3-5 long-tail keywords
+
+2. **Create file** in `src/data/blog/`
    - Filename format: `slug-here-kebab-case.md`
    - Example: `adhd-and-sleep-hygiene-guide.md`
+   - Slug should contain the primary keyword where natural
 
-2. **Add frontmatter** following schema above
+3. **Add frontmatter** following schema above
 
-3. **Write content** following formatting rules
+4. **Write content** following formatting rules and keyword placement rules
 
-4. **Add tags** from approved list
+5. **Add tags** from approved list
 
-5. **Set draft: true** initially
+6. **Set draft: true** initially
 
-6. **Preview locally**: `pnpm run dev`
+7. **Preview locally**: `pnpm run dev`
 
-7. **When ready**: Change `draft: false`
+8. **When ready**: Change `draft: false`
+
+---
+
+## 5a. Keyword Requirements (Every New Post)
+
+**Every post must be built around ADHD-specific search intent.** Generic keywords with no "ADHD" tie-in are not acceptable — this blog ranks on ADHD-specific long-tail traffic, not broad productivity/health terms.
+
+### Required Keyword Set
+
+1. **Primary keyword** — always contains "ADHD" plus the specific topic.
+   - Format: `ADHD + [topic]` or `[topic] + ADHD`
+   - Examples: "ADHD time blindness", "adult ADHD diagnosis", "ADHD and sleep hygiene"
+
+2. **Long-tail keywords** — 3-5 per post. These are longer, more specific phrases (4+ words) that mirror real search queries and have lower competition than the primary keyword. Pull from real question phrasing where possible.
+   - Patterns to use:
+     - "how to [do X] with ADHD"
+     - "ADHD [topic] for adults"
+     - "why does ADHD cause [X]"
+     - "best [tool/strategy] for ADHD brain"
+     - "ADHD [topic] symptoms/signs"
+     - "[topic] and ADHD relationship" (for cross-topic pieces)
+   - Example set for a sleep post: "ADHD and insomnia adults", "why can't I fall asleep ADHD", "ADHD sleep hygiene tips", "melatonin for ADHD sleep"
+
+### Placement Rules
+
+| Keyword type | Must appear in |
+|---|---|
+| Primary keyword | `title`, `slug`, `description`, first paragraph, at least one H3 heading |
+| Long-tail keywords | Distributed naturally across H3 headings and body paragraphs — do not force all of them into the intro |
+| Both | Written for humans first — no keyword stuffing. If a sentence reads awkwardly to fit a phrase, rephrase and drop the exact-match wording |
+
+### Before Writing
+
+- Check `.sisyphus/plans/traffic-optimization.md` — Phase 4 ("Keyword Targeting") and Phase 2 ("Content Gaps") list existing target keywords and priorities. Prefer these over inventing new ones from scratch.
+- Avoid duplicating a primary keyword already "owned" by an existing published post (check `src/data/blog/*.md` descriptions/titles) — target a distinct long-tail angle instead to avoid cannibalizing search traffic.
+- Jot the chosen primary + long-tail keyword set as an HTML comment at the top of the draft (e.g. `<!-- keywords: primary: X | long-tail: a, b, c -->`) so it's easy to verify placement before setting `draft: false`, then remove the comment before publishing.
 
 ### File Naming Convention
 
@@ -207,9 +246,10 @@ Reference these for:
 
 ### Per-Post SEO Checklist
 
+- [ ] Primary ADHD keyword defined (see Section 5a) and present in title, slug, description, first paragraph, and 1+ H3
+- [ ] 3-5 long-tail keywords defined and distributed naturally across H3 headings/body
 - [ ] Descriptive title (50-60 characters)
 - [ ] Compelling description (150-160 characters)
-- [ ] Primary keyword in first paragraph
 - [ ] At least 2 internal links to other posts
 - [ ] At least 1 external link to authoritative source
 - [ ] Image with alt text (optional but recommended)
