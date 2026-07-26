@@ -1,21 +1,22 @@
 ---
 author: ADHD m8
 pubDatetime: 2026-02-08T12:32:54+08:00
-modDatetime: 2026-04-04T23:30:00+08:00
-title: ADHD and Life Expectancy Understanding the Real World Risks
+modDatetime: 2026-07-26T14:00:00+08:00
+title: "ADHD and Life Expectancy: Understanding the Real-World Risks"
 slug: adhd-and-life-expectancy-understanding-the-real-world-risks
 featured: true
 draft: false
 tags:
   - adhd
-description: A blog post about ADHD and personal experiences.
+  - health
+description: "ADHD and life expectancy are more linked than most people realize — some studies show an 11-year reduction. Here's what drives the risk and how it's reversible."
 ---
 
-For many years, Attention-Deficit/Hyperactivity Disorder (ADHD) was viewed primarily as an academic or behavioral challenge. However, recent clinical research has revealed a much more serious reality: **ADHD is a significant public health issue that can substantially reduce life expectancy.** Understanding these risks is not meant to cause alarm, but to emphasize the critical importance of consistent, long-term management.
+For many years, Attention-Deficit/Hyperactivity Disorder (ADHD) was viewed primarily as an academic or behavioral challenge. However, recent clinical research has revealed a much more serious reality: the link between **ADHD and life expectancy** is real, and untreated ADHD can substantially shorten your lifespan. Understanding these risks is not meant to cause alarm, but to emphasize the critical importance of consistent, long-term management.
 
 ---
 
-### **The Statistical Impact on Lifespan**
+### **ADHD and Life Expectancy: The Statistical Impact**
 
 Research led by Dr. Russell Barkley and other experts has found that ADHD carries a heavy burden on long-term health. Key findings include:
 

@@ -1,18 +1,18 @@
 ---
 author: ADHD m8
 pubDatetime: 2026-02-08T12:27:25+08:00
-modDatetime: 2026-02-08T12:27:25.327+08:00
-title: Fueling the ADHD Brain A Science Backed Guide to Supplements
+modDatetime: 2026-07-26T14:00:00+08:00
+title: "Fueling the ADHD Brain: A Science-Backed Guide to Supplements"
 slug: fueling-the-adhd-brain-a-science-backed-guide-to-supplements
 featured: true
 draft: false
 tags:
   - adhd
-  - supplements
-description: A blog post about ADHD and personal experiences.
+  - health
+description: "Which ADHD supplements actually have clinical backing? A science-based breakdown of omega-3s, L-tyrosine, and other compounds that support (not replace) treatment."
 ---
 
-While pharmacological treatments are often considered the first-line defense for Attention-Deficit/Hyperactivity Disorder (ADHD), clinical research indicates that certain supplements can play a vital **modulatory or supportive role** in managing symptoms. It is important to understand that while these compounds can enhance focus and mood, they are generally not a replacement for medication but rather "scaffolding" for the brain's executive system.
+While pharmacological treatments are often considered the first-line defense for Attention-Deficit/Hyperactivity Disorder (ADHD), clinical research indicates that certain **ADHD supplements** can play a vital **modulatory or supportive role** in managing symptoms. It is important to understand that while these compounds can enhance focus and mood, they are generally not a replacement for medication but rather "scaffolding" for the brain's executive system.
 
 Here is a breakdown of the supplements that have shown clinical promise for benefiting ADHD patients.
 
@@ -41,7 +41,7 @@ These tools target the acetylcholine system, which acts like a "fire hose" of fo
 
 ---
 
-### **Crucial Considerations**
+### **Crucial Considerations Before Taking ADHD Supplements**
 The "Holy Grail" of ADHD management is building a **"prosthetic environment"** that combines behavioral tools, medication, and nutrition. If you are considering adding supplements to your regimen, keep these three science-backed principles in mind:
 
 1.  **Modulation vs. Mediation:** Supplements generally *modulate* (support) neural circuits rather than *mediate* (directly trigger) them in the way prescription stimulants do.

@@ -1,15 +1,15 @@
 ---
 author: ADHD m8
 pubDatetime: 2026-02-08T13:00:49+08:00
-modDatetime: 2026-02-08T13:00:49.528+08:00
-title: Embracing the Divergent Mind A Review of Your Brains Not Broken
+modDatetime: 2026-07-26T14:00:00+08:00
+title: "Book Review: Your Brain's Not Broken — ADHD & Emotional Regulation"
 slug: embracing-the-divergent-mind-a-review-of-your-brains-not-broken
 featured: true
 draft: false
 tags:
   - adhd
-  - books
-description: A blog post about ADHD and personal experiences.
+  - book-review
+description: "Book review: Your Brain's Not Broken by Dr. Tamara Rosier tackles ADHD and emotional regulation head-on, with practical tools like the Solve-It Grid."
 ---
 
 In a landscape where ADHD is often reduced to clinical checklists of inattention and hyperactivity, Dr. Tamara Rosier’s book, ***Your Brain's Not Broken: Strategies for Navigating Your Emotions and Life with ADHD***, emerges as a compassionate and practical guide for those struggling with the condition. Dr. Rosier, who lives with ADHD herself, seeks to talk directly to the individuals who feel overwhelmed and trapped by self-loathing. Her central message is that an ADHD brain is not incomplete or "wrong"; it is simply **wired differently**, presenting unique challenges that require a unique set of tools.
@@ -17,9 +17,9 @@ In a landscape where ADHD is often reduced to clinical checklists of inattention
 ![book cover](../../assets/images/Your%20brain%20is%20not%20borken.jpg)
 Buy here: https://amzn.to/4qhBM3j
 
-#### The Overlooked Emotional Core
+#### The Overlooked Emotional Core of ADHD
 
-While many discussions of ADHD focus on executive functioning, one of the book’s greatest strengths is its emphasis on emotional regulation. Rosier argues that people with ADHD tend to experience the world through an emotional lens first. She explains that the familiar “just do it” button—the part of the prefrontal cortex responsible for task initiation—is often offline in the ADHD brain. As a result, individuals may rely on emotional triggers like urgency, anger, or shame to get moving. By directly addressing the “big emotions” and common “thought traps” ADHDers face, the book offers a clear path toward emotional health and a meaningful reduction in shame.
+While many discussions of ADHD focus on executive functioning, one of the book’s greatest strengths is its emphasis on **ADHD and emotional regulation**. Rosier argues that people with ADHD tend to experience the world through an emotional lens first. She explains that the familiar “just do it” button—the part of the prefrontal cortex responsible for task initiation—is often offline in the ADHD brain. As a result, individuals may rely on emotional triggers like urgency, anger, or shame to get moving. By directly addressing the “big emotions” and common “thought traps” ADHDers face, the book offers a clear path toward emotional health and a meaningful reduction in shame.
 
 #### Divergent vs. Convergent Thinking
 

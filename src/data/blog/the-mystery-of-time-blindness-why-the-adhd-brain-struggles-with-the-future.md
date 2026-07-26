@@ -1,20 +1,20 @@
 ---
 author: ADHD m8
 pubDatetime: 2026-01-24T23:55:28+08:00
-modDatetime: 2026-01-24T23:55:28.884+08:00
-title: The Mystery of Time Blindness Why the ADHD Brain Struggles with the Future
+modDatetime: 2026-07-26T14:00:00+08:00
+title: "The Mystery of Time Blindness: Why the ADHD Brain Struggles"
 slug: the-mystery-of-time-blindness-why-the-adhd-brain-struggles-with-the-future
 featured: true
 draft: false
 tags:
   - adhd
   - time-blindness
-description: A blog post about ADHD and personal experiences.
+description: "What is ADHD time blindness, and why does 'five minutes' turn into an hour? A plain-English introduction to the condition and practical ways to work around it."
 ---
 
-Have you ever found yourself racing to finish a project at the "11th hour," living your life as a series of avoidable crises?. For many, Attention-Deficit/Hyperactivity Disorder (ADHD) is often reduced to "just not paying attention," but experts in the sources argue that the heart of the disorder is actually **"Time Blindness"**.
+Have you ever found yourself racing to finish a project at the "11th hour," living your life as a series of avoidable crises?. For many, Attention-Deficit/Hyperactivity Disorder (ADHD) is often reduced to "just not paying attention," but experts in the sources argue that the heart of the disorder is actually **ADHD time blindness**.
 
-Understanding this concept is the first step toward moving from frustration to effective management.
+Understanding this concept is the first step toward moving from frustration to effective management. If you want the deeper neuroscience of *why* this happens, we cover that separately in [the science of time blindness](/posts/the-science-of-time-blindness-why-the-adhd-brain-operates-in-now-or-not-now/) — this post is the plain-English starting point.
 
 ---
 

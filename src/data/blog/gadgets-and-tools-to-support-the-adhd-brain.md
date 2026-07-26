@@ -1,23 +1,24 @@
 ---
 author: ADHD m8
 pubDatetime: 2026-02-08T12:49:44+08:00
-modDatetime: 2026-02-08T12:49:44.119+08:00
-title: Gadgets and Tools to Support the ADHD Brain
+modDatetime: 2026-07-26T14:00:00+08:00
+title: "Top ADHD Gadgets and Tools to Support Your Brain"
 slug: gadgets-and-tools-to-support-the-adhd-brain
 featured: true
 draft: false
 tags:
   - adhd
-description: A blog post about ADHD and personal experiences.
+  - resources
+description: "From visual timers to vibrating watches, these ADHD gadgets externalize time, memory, and focus. A science-backed roundup of the best tools for the ADHD brain."
 ---
 
 Attention-Deficit/Hyperactivity Disorder (ADHD) is fundamentally a **performance disorder**, not a disorder of knowledge or intelligence. The ADHD brain often knows what to do but struggles with **"doing what it knows"** at the right time and place. Because the internal "management system" (executive functions) is delayed or impaired, the most effective strategy for success is **externalizing** those functions through **"prosthetic environments"**.
 
-Here are the top science-backed gadgets and tools to help you re-engineer your environment and bridge the "knowing-doing" gap.
+Here are the top science-backed **ADHD gadgets** and tools to help you re-engineer your environment and bridge the "knowing-doing" gap.
 
 ---
 
-### **1. Tools to Conquer "Time Blindness"**
+### **1. ADHD Gadgets to Conquer "Time Blindness"**
 ADHD is often described as **"time blindness"** or a "nearsightedness to the future". Because the internal clock is unreliable, you must make time **physical, visible, and tangible**.
 
 *   **Visual Clocks (The Time Timer):** Standard clocks are often too abstract. Experts recommend a **one-foot clock with a disappearing red disc**. As time passes, the red wedge gets smaller, providing a constant visual reference for how much time remains for a task.

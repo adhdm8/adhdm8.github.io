@@ -1,17 +1,18 @@
 ---
 author: ADHD m8
 pubDatetime: 2026-01-28T22:16:02+08:00
-modDatetime: 2026-01-28T22:16:02.872+08:00
-title: Understanding the Clinical Landscape of ADHD A Comprehensive Overview
+modDatetime: 2026-07-26T14:00:00+08:00
+title: "Understanding the Clinical Landscape of ADHD: A Comprehensive Overview"
 slug: understanding-the-clinical-landscape-of-adhd-a-comprehensive-overview
 featured: true
 draft: false
 tags:
   - adhd
-description: A blog post about ADHD and personal experiences.
+  - clinical
+description: "A comprehensive clinical overview of ADHD: the three presentations, genetic and neurological causes, DSM-5 diagnostic criteria, and modern treatment options."
 ---
 
-Attention Deficit Hyperactivity Disorder (ADHD) is a **neurodevelopmental disorder** defined by persistent patterns of inattention, hyperactivity, impulsivity, and emotional dysregulation. These symptoms are characterized as excessive, pervasive, and developmentally inappropriate, often leading to significant impairment across multiple life contexts. While it was formerly known as Attention Deficit Disorder (ADD), modern diagnostic standards categorize it under the broader ADHD umbrella.
+Attention Deficit Hyperactivity Disorder (ADHD) is a **neurodevelopmental disorder** defined by persistent patterns of inattention, hyperactivity, impulsivity, and emotional dysregulation. These symptoms are characterized as excessive, pervasive, and developmentally inappropriate, often leading to significant impairment across multiple life contexts. While it was formerly known as Attention Deficit Disorder (ADD), modern diagnostic standards categorize it under the broader ADHD umbrella. This **clinical overview of ADHD** covers the presentations, causes, diagnosis, and treatment landscape as they stand today.
 
 #### The Three Presentations of ADHD
 According to the sources, the condition is no longer viewed through rigid subtypes but rather through **three primary presentations** that can evolve over an individual's lifetime.

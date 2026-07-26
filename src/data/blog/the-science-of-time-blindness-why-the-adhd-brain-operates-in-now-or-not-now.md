@@ -1,20 +1,21 @@
 ---
 author: ADHD m8
 pubDatetime: 2026-01-27T21:48:04+08:00
-modDatetime: 2026-01-27T21:48:04.068+08:00
-title: The Science of Time Blindness Why the ADHD Brain Operates in Now or Not Now
+modDatetime: 2026-07-26T14:00:00+08:00
+title: "The Neuroscience of ADHD Time Blindness: Now vs. Not Now"
 slug: the-science-of-time-blindness-why-the-adhd-brain-operates-in-now-or-not-now
 featured: true
 draft: false
 tags:
   - adhd
   - time-blindness
-description: A blog post about ADHD and personal experiences.
+  - science
+description: "Why can't the ADHD brain sense time passing? Go inside the neuroscience of ADHD time blindness — dopamine, the frontal lobe, and the 'now vs. not now' switch."
 ---
 
-Have you ever found yourself racing to finish a project at the "11th hour," living your life as a series of avoidable crises?. For many, Attention-Deficit/Hyperactivity Disorder (ADHD) is often reduced to "just not paying attention," but clinical science suggests that the heart of the disorder is actually **"Time Blindness"**. 
+Have you ever found yourself racing to finish a project at the "11th hour," living your life as a series of avoidable crises?. For many, Attention-Deficit/Hyperactivity Disorder (ADHD) is often reduced to "just not paying attention," but clinical science suggests that the heart of the disorder is actually **"Time Blindness"**. This post goes under the hood of **ADHD time blindness** itself — for a gentler starting point, see [the mystery of time blindness](/posts/the-mystery-of-time-blindness-why-the-adhd-brain-struggles-with-the-future/) first.
 
-#### **What is Time Blindness?**
+#### **The Neuroscience Behind ADHD Time Blindness**
 Dr. Russell Barkley, a leading expert in the field, describes ADHD as the **consummate disorder of time management**. While it is often called a "blindness to time," it is technically more accurate to call it a **"nearsightedness to the future" (temporal myopia)**. Just as a physically nearsighted person can only see objects close to them, an individual with ADHD is largely governed by events in the **"temporal now"** rather than by internal information regarding longer-term, future consequences.
 
 In the ADHD brain, tasks are often categorized simply as **"NOW" or "NOT NOW"**. If a deadline or goal is in the "not now" category, it effectively does not exist in the brain's management system until it becomes an **acute emergency**. This is why individuals with ADHD often struggle with procrastination and are chronically late; they are underestimating time intervals because their internal clock is unreliable.

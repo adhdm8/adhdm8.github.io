@@ -1,18 +1,18 @@
 ---
 author: ADHD m8
 pubDatetime: 2026-01-28T21:48:49+08:00
-modDatetime: 2026-01-28T21:48:49.340+08:00
-title: Beyond the Diagnosis A Summary of Gabor Mats Scattered
+modDatetime: 2026-07-26T14:00:00+08:00
+title: "Book Review: Scattered — ADHD, Attachment, and Childhood"
 slug: beyond-the-diagnosis-a-summary-of-gabor-mats-scattered
 featured: true
 draft: false
 tags:
   - adhd
-  - books
-description: A blog post about ADHD and personal experiences.
+  - book-review
+description: "Book review: Scattered by Dr. Gabor Maté links ADHD to childhood attachment and attunement, and reframes treatment as growth, not a cure, for kids and adults."
 ---
 
-In his groundbreaking book ***Scattered: How Attention Deficit Disorder Originates and What You Can Do About It***, Dr. Gabor Maté—a physician who has both been diagnosed with ADD and raised children with the condition—challenges the traditional "illness model" of Attention Deficit Disorder. Instead of viewing ADD as a fixed, purely genetic disease, the sources describe it as a **developmental impairment** rooted in the complex interplay between biological heredity and early childhood environment.
+In his groundbreaking book ***Scattered: How Attention Deficit Disorder Originates and What You Can Do About It***, Dr. Gabor Maté—a physician who has both been diagnosed with ADD and raised children with the condition—challenges the traditional "illness model" of Attention Deficit Disorder. Instead of viewing ADD as a fixed, purely genetic disease, the sources describe it as a **developmental impairment** rooted in the complex interplay between biological heredity and early childhood environment — the foundation of what Maté frames as **ADHD and attachment**.
 
 #### The Three Hallmarks of ADD
 According to the sources, ADD is defined by three major features, any two of which are sufficient for a diagnosis: **poor attention skills, deficient impulse control, and hyperactivity**. Maté explains that the "hallmark" of the condition is an automatic, unwilled **"tuning out,"** which he identifies as a form of **dissociation**. This mental absence originally serves as a psychological anesthetic, allowing a sensitive infant to survive chronic emotional distress or a lack of "attunement" by disconnecting from overwhelming pain.

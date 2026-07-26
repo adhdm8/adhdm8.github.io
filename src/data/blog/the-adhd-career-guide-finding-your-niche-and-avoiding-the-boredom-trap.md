@@ -1,18 +1,18 @@
 ---
 author: ADHD m8
 pubDatetime: 2026-02-08T12:39:25+08:00
-modDatetime: 2026-02-08T12:39:25.223+08:00
-title: The ADHD Career Guide Finding Your Niche and Avoiding the Boredom Trap
+modDatetime: 2026-07-26T14:00:00+08:00
+title: "The ADHD Career Guide: Finding Your Niche and Avoiding Boredom"
 slug: the-adhd-career-guide-finding-your-niche-and-avoiding-the-boredom-trap
 featured: true
 draft: false
 tags:
   - adhd
-  - jobs
-description: A blog post about ADHD and personal experiences.
+  - career
+description: "This ADHD career guide breaks down which jobs let ADHD adults thrive, which ones quietly burn you out, and how to build a career around focus, not against it."
 ---
 
-For many adults with ADHD, the standard 9-to-5 office job feels less like a career and more like a prison sentence. This isn't due to a lack of ambition or intelligence—ADHD has **nothing to do with IQ**. Instead, it is a **performance disorder** rooted in the brain’s "management system". To thrive professionally, adults with ADHD must engage in **"niche-picking"**—the intentional selection of work environments that align with their unique neurological wiring.
+For many adults with ADHD, the standard 9-to-5 office job feels less like a career and more like a prison sentence. This isn't due to a lack of ambition or intelligence—ADHD has **nothing to do with IQ**. Instead, it is a **performance disorder** rooted in the brain’s "management system". This **ADHD career guide** is about **"niche-picking"**—the intentional selection of work environments that align with their unique neurological wiring.
 
 #### **The Core Principle: Interest vs. Importance**
 The defining characteristic of the ADHD brain is that it is **interest-driven**, not importance-driven. While most people can force themselves to complete a boring task simply because it is important (like filing taxes), an individual with ADHD often cannot engage their executive functions unless a task is **intrinsically interesting, novel, or urgent**. If the interest is there, they may even experience **hyperfocus**, a state of intense, laser-like concentration.
@@ -39,7 +39,7 @@ Environments that require long periods of sedentary, repetitive, or solitary wor
 
 ---
 
-#### **Professional Strategies for Success**
+#### **Professional Strategies for ADHD Career Success**
 Because ADHD is a disorder of **"doing what you know"** rather than "knowing what to do," success depends on re-engineering your work environment.
 
 1.  **Externalize Your Memory:** Since internal working memory is often impaired, you must move information **out of your brain and into your visual field**. This means using sticky notes, digital recorders, or a "journal welded to your body" to record every task immediately.
