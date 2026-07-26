@@ -260,8 +260,31 @@ Reference these for:
 - OG images auto-generated for posts
 - Sitemap auto-generated on build
 - RSS feed at `/rss.xml`
+- `/llms.txt` auto-generated index of all posts for AI agents/crawlers (see Section 7a)
 - Canonical URLs supported
-- Structured data for articles
+- Structured data (JSON-LD `BlogPosting`) for articles, including `keywords`, `dateModified`, `mainEntityOfPage`, and `publisher`
+
+---
+
+## 7a. AI Agent / LLM Discoverability (Answer Engine Optimization)
+
+This site is written to be findable and citable by AI answer engines and agents (ChatGPT, Perplexity, Claude, Google AI Overviews, RAG-based tools), not just classic search. Two things make content AI-agent-friendly: **being crawlable** (handled site-wide, see below) and **being extractable** (a per-post writing habit).
+
+### Site-Wide (already handled, don't break these)
+
+- `robots.txt` allows all crawlers, including AI bots (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, CCBot) — there's no disallow list, so don't add one without a specific reason.
+- `/llms.txt` (`src/pages/llms.txt.ts`) auto-generates a clean markdown index of every published post, grouped by topic, with absolute URLs and descriptions — this regenerates itself from post frontmatter, so it never needs manual updates.
+- All pages are static HTML (Astro SSG) — no JS execution required to read content, which is exactly what most AI crawlers need.
+- JSON-LD `BlogPosting` schema on every post includes `headline`, `datePublished`, `dateModified`, `keywords` (from tags), `description`, and `publisher` — this is what lets AI systems extract structured facts instead of parsing prose.
+
+### Per-Post Writing Habits (apply when writing new posts)
+
+1. **Answer-first paragraphs.** Open each H3 section with a direct, standalone sentence that answers the heading's implicit question — restate the subject noun instead of "it"/"this", since AI agents often extract single paragraphs out of context.
+   - Weak: "This happens because of dopamine." (needs prior context to parse)
+   - Strong: "ADHD time blindness happens because dopamine regulates how the brain perceives time passing."
+2. **Keep "Key Takeaways" bullets factual and self-contained** (already required in Section 3) — this is the single most commonly extracted block by AI summarizers, so each bullet should stand alone as a complete claim.
+3. **Favor explicit numbers and named sources over vague claims** ("11.1-year reduction in life expectancy, per Barkley's research" beats "ADHD can shorten your life") — AI agents preferentially cite content with specific, attributable facts.
+4. **Consider an FAQ-style section** for pillar/guide posts (not required on every post) — a few "Q: ... A: ..." pairs near the end map directly to how users phrase prompts to AI agents, and are the highest-value future addition (FAQPage schema) if this becomes a priority.
 
 ---
 

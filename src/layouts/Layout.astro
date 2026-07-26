@@ -13,6 +13,7 @@ type Props = {
   canonicalURL?: string;
   pubDatetime?: Date;
   modDatetime?: Date | null;
+  tags?: string[];
   scrollSmooth?: boolean;
 };
 
@@ -25,6 +26,7 @@ const {
   canonicalURL = new URL(Astro.url.pathname, Astro.url),
   pubDatetime,
   modDatetime,
+  tags,
   scrollSmooth = false,
 } = Astro.props;
 
@@ -34,16 +36,21 @@ const isBlogPosting = pubDatetime && title !== SITE.title;
 const structuredData = {
   "@context": "https://schema.org",
   "@type": isBlogPosting ? "BlogPosting" : "WebSite",
+  mainEntityOfPage: {
+    "@type": "WebPage",
+    "@id": `${canonicalURL}`,
+  },
+  description: `${description}`,
   ...(isBlogPosting && {
     headline: `${title}`,
     image: `${socialImageURL}`,
     datePublished: pubDatetime?.toISOString(),
-    ...(modDatetime && { dateModified: modDatetime.toISOString() }),
+    dateModified: (modDatetime ?? pubDatetime)?.toISOString(),
+    ...(tags && tags.length > 0 && { keywords: tags.join(", ") }),
   }),
   ...(!isBlogPosting && {
     name: `${title}`,
     url: `${canonicalURL}`,
-    description: `${description}`,
   }),
   author: [
     {
@@ -52,6 +59,11 @@ const structuredData = {
       ...(profile && { url: profile }),
     },
   ],
+  publisher: {
+    "@type": "Organization",
+    name: SITE.siteName || SITE.title,
+    url: SITE.website,
+  },
 };
 ---
 
@@ -77,6 +89,9 @@ const structuredData = {
     <meta name="title" content={title} />
     <meta name="description" content={description} />
     <meta name="author" content={author} />
+    {tags && tags.length > 0 && (
+      <meta name="keywords" content={tags.join(", ")} />
+    )}
     <link rel="sitemap" href="/sitemap-index.xml" />
 
     <!-- Open Graph / Facebook -->
@@ -84,7 +99,7 @@ const structuredData = {
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:image" content={socialImageURL} />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={isBlogPosting ? "article" : "website"} />
     <meta property="og:site_name" content={SITE.siteName || SITE.title} />
 
     <!-- Article Published/Modified time -->
