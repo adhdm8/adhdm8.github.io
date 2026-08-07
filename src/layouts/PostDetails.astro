@@ -4,6 +4,7 @@ import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import Tag from "@/components/Tag.astro";
+import Card from "@/components/Card.astro";
 import Datetime from "@/components/Datetime.astro";
 import EditPost from "@/components/EditPost.astro";
 import ShareLinks from "@/components/ShareLinks.astro";
@@ -81,6 +82,25 @@ const currentPostIndex = allPosts.findIndex(a => a.id === post.id);
 const prevPost = currentPostIndex !== 0 ? allPosts[currentPostIndex - 1] : null;
 const nextPost =
   currentPostIndex !== allPosts.length ? allPosts[currentPostIndex + 1] : null;
+
+/* ========== Related Posts (by shared tags) ========== */
+
+const currentTags = new Set(tags.map(t => slugifyStr(t)));
+
+const relatedPosts = posts
+  .filter(p => !p.data.draft && p.id !== post.id)
+  .map(p => ({
+    post: p,
+    overlap: p.data.tags.filter(t => currentTags.has(slugifyStr(t))).length,
+  }))
+  .filter(({ overlap }) => overlap > 0)
+  .sort(
+    (a, b) =>
+      b.overlap - a.overlap ||
+      b.post.data.pubDatetime.valueOf() - a.post.data.pubDatetime.valueOf()
+  )
+  .slice(0, 3)
+  .map(({ post }) => post);
 ---
 
 <Layout {...layoutProps}>
@@ -126,6 +146,20 @@ const nextPost =
     <BackToTopButton />
 
     <ShareLinks />
+
+    {
+      relatedPosts.length > 0 && (
+        <>
+          <hr class="my-6 border-dashed" />
+          <h2 class="text-xl font-semibold text-accent">Related Posts</h2>
+          <ul>
+            {relatedPosts.map(relatedPost => (
+              <Card {...relatedPost} variant="h3" />
+            ))}
+          </ul>
+        </>
+      )
+    }
 
     <hr class="my-6 border-dashed" />
 
