@@ -14,7 +14,7 @@ description: "The best ADHD podcasts and YouTube channels for adults, from Huber
 
 For many adults with ADHD, keeping a physical planner feels impossible because it relies on the very internal "conductor" and working memory systems that the disorder impairs. Experts suggest that "externalizing" information is key to management—and for many, auditory learning through expert-led **ADHD podcasts** serves as a vital external cue to help understand and regulate the "bionic brain".
 
-Based on the latest clinical science and specialist recommendations, here are the most recommended podcasts and digital video resources for navigating adult ADHD.
+Based on the latest clinical science and specialist recommendations, here are the most recommended podcasts and digital video resources for navigating adult ADHD. Prefer reading? See our companion piece, [Navigating the ADHD Internet](/posts/navigating-the-adhd-internet-top-reliable-resources-for-adults/), for the best websites and text-based resources.
 
 ---
 
@@ -48,6 +48,6 @@ These are the primary advocacy hubs that offer specialized auditory and visual c
 ---
 
 ### **Why These ADHD Podcasts Matter**
-ADHD is often described as a **"performance disorder"**—a split between knowledge and the application of that knowledge. Listening to these experts helps create a **"prosthetic environment"**. By frequently engaging with the "mind's voice" of these experts, adults with ADHD can strengthen their own internal self-speech, which is often delayed or weak.
+ADHD is often described as a **"performance disorder"**—a split between knowledge and the application of that knowledge (the same gap we cover in [bridging the knowing-doing gap](/posts/bridging-the-knowing-doing-gap-science-backed-tools-for-managing-adhd/)). Listening to these experts helps create a **"prosthetic environment"**. By frequently engaging with the "mind's voice" of these experts, adults with ADHD can strengthen their own internal self-speech, which is often delayed or weak.
 
 **Final Tip from the Experts:** Don’t feel pressured to listen to everything at once. Use the **time-stamped batches** provided by podcasts like the Huberman Lab to digest information in small, manageable quotas.

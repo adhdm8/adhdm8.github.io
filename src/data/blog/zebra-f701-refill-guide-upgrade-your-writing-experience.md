@@ -12,7 +12,7 @@ tags:
 description: "The Zebra F-701 is great out of the box, but the real magic happens when you swap the refill. Here are the best upgrades for every writing style and ADHD need."
 ---
 
-You have your [Zebra F-701](https://amzn.to/4cbplRN). The weight feels perfect in your hand. The metal body is reassuringly solid. But the ink? It is fine. Just fine.
+You have your [Zebra F-701](https://amzn.to/4cbplRN) — maybe after reading [why it's the perfect ADHD journaling pen](/posts/zebra-f701-the-perfect-pen-for-adhd-brain-dump-journaling/). The weight feels perfect in your hand. The metal body is reassuringly solid. But the ink? It is fine. Just fine.
 
 **Here is the secret most people miss**: The F-701 is merely a delivery system. The refill is where the writing experience actually lives. And because the F-701 accepts several standard refill formats, you can customize your pen to match exactly how your ADHD brain wants to write.
 
@@ -187,7 +187,7 @@ The beauty of this system is experimentation. Try the OHTO for a week. Switch to
 
 ---
 
-**Next step**: Order one upgraded refill. Just one. Install it tonight. Write three pages tomorrow. Notice the difference.
+**Next step**: Order one upgraded refill. Just one. Install it tonight. Write three pages tomorrow. Notice the difference. Looking for other analog tools to pair it with? See our [ADHD gadgets and tools roundup](/posts/gadgets-and-tools-to-support-the-adhd-brain/).
 
 ---
 

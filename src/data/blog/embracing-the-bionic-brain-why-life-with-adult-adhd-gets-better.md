@@ -25,7 +25,7 @@ It is not just wishful thinking — it is a pattern researchers actually see. Th
 ### **1. Stop Trying Harder, Start Building "Ramps"**
 One of the most liberating insights from clinical research is that ADHD is a **disorder of "doing what you know," not "knowing what to do"**. You likely possess all the skills and knowledge of your peers, but a "meat cleaver" has effectively split your brain between where knowledge is stored and where it is applied.
 
-The solution is not to "try harder"—which is like asking someone with poor eyesight to "squint harder"—but to **externalize your executive functions**.
+The solution is not to "try harder"—which is like asking someone with poor eyesight to "squint harder"—but to **externalize your executive functions** (we cover the full toolkit in [bridging the knowing-doing gap](/posts/bridging-the-knowing-doing-gap-science-backed-tools-for-managing-adhd/)).
 *   **The External Brain:** Since your internal working memory is often "shot," you must move information out of your head and into your visual field. Carry a journal that is "welded to your body" to record every task and commitment immediately.
 *   **Making Time Physical:** Because of "time blindness," you may feel like the future doesn't exist until it is an emergency. Use **visual timers** and external references (like clocks where the red disc disappears) to make the passage of time tangible.
 *   **Baby Steps:** Break every daunting project into "small quotas." If you focus on doing a "piece a day" with immediate rewards, you bypass the need for a perfectly functioning frontal lobe.
@@ -33,7 +33,7 @@ The solution is not to "try harder"—which is like asking someone with poor eye
 ### **2. Finding Your "Niche"**
 Many adults with ADHD find that their symptoms are context-dependent. You may struggle in a sedentary office job doing repetitive tasks, yet achieve **laser-focus** in environments that are fast-paced, novel, or intrinsically interesting. 
 
-This is called **"niche-picking"**. Many successful adults with ADHD thrive in the trades, sales, emergency medicine, or entrepreneurship because these roles provide the high stimulation and immediate consequences their brains crave. When you find an activity you love, your capacity for **hyper-focus** becomes a genuine asset.
+This is called **"niche-picking"**. Many successful adults with ADHD thrive in the trades, sales, emergency medicine, or entrepreneurship because these roles provide the high stimulation and immediate consequences their brains crave. When you find an activity you love, your capacity for **hyper-focus** becomes a genuine asset. Our [ADHD career guide](/posts/the-adhd-career-guide-finding-your-niche-and-avoiding-the-boredom-trap/) breaks down which niches tend to fit and which quietly burn people out.
 
 ### **3. The "Most Treatable" Disorder**
 ADHD is often described as the **"diabetes of psychiatry"**—a chronic condition that requires daily management but is highly responsive to treatment. In fact, it is considered the most treatable disorder in psychiatry, with a 90% response rate to medication and significant success from psychosocial interventions like **ADHD coaching** and **CBT**.
@@ -44,6 +44,6 @@ ADHD is often described as the **"diabetes of psychiatry"**—a chronic conditio
 ### **4. A New Perspective on Your Identity**
 You are not a "mistake" or a "broken person"; you simply function in a slightly different way. Many adults report that ADHD brings unique strengths: **creativity, high energy, divergent thinking, and a strong sense of justice and empathy**.
 
-**Acceptance**—both from yourself and finding supportive, stable relationships—is the cornerstone of resilience. When you stop blaming yourself for a biological delay in executive functioning and start using **"prosthetic environments"** to support your brain, you unlock the ability to reach your full potential.
+**Acceptance**—both from yourself and finding supportive, stable relationships (see [ADHD and relationships](/posts/adhd-and-relationships-why-connection-feels-hard-and-how-to-make-it-easier/))—is the cornerstone of resilience. When you stop blaming yourself for a biological delay in executive functioning and start using **"prosthetic environments"** to support your brain, you unlock the ability to reach your full potential.
 
 **You are not alone, and your struggles are valid**. With the right tools and a **growth mindset**, you can move from a life of avoidable crises to one of mastery and fulfillment.

@@ -17,7 +17,7 @@ description: "Living in Hong Kong with ADHD? Learn how to navigate the high-pres
 
 If you live in Hong Kong, you already know that "waiting" is a way of life. But when you're struggling with ADHD, "waiting" takes on a whole new, much more frustrating meaning.
 
-Whether you're dealing with the chaos of a high-pressure career or just trying to manage the basic mental clutter of daily life, the question is always the same: *How do I actually get help in this city?*
+Whether you're dealing with the chaos of a high-pressure career or just trying to manage the basic mental clutter of daily life, the question is always the same: *How do I actually get help in this city?* (If you're still weighing whether it's worth pursuing at all, see our take on [ADHD and Hong Kong's work culture](/posts/adhd-and-hong-kong-work-culture/) first.)
 
 In Hong Kong, you essentially face a choice between two very different worlds: the affordable but slow public system, and the fast but expensive private sector. Let's break down how both work so you can decide which path fits your life.
 
@@ -28,7 +28,7 @@ In Hong Kong, you essentially face a choice between two very different worlds: t
 The Hospital Authority (HA) system is the most budget-friendly way to manage ADHD, but you need to prepare for a long game.
 
 **The Pathway:**
-It starts with a referral. You'll typically visit a General Practitioner (GP)—either at a public clinic or a private one—to get a referral letter to a Specialist Outpatient Clinic (SOPC) in a public hospital.
+It starts with a referral. You'll typically visit a General Practitioner (GP)—either at a public clinic or a private one—to get a referral letter to a Specialist Outpatient Clinic (SOPC) in a public hospital. Not sure if it's worth pursuing yet? Our [adult ADHD diagnosis guide](/posts/adult-adhd-diagnosis-guide/) walks through what the clinical process actually looks like, HK-specific system aside.
 
 **The Reality Check:**
 We have to talk about the elephant in the room: **the waiting lists.** For adults, waiting for an initial psychiatric appointment in the public sector can range anywhere from **one to three years**, depending on which hospital cluster you're in.
@@ -72,7 +72,7 @@ A diagnosis is just the beginning. In a high-octane environment like Hong Kong, 
 
 *   **NGOs & Peer Support:** Organizations like the Hong Kong ADHD Association provide much-needed community and education.
 *   **ADHD Coaching:** There is a growing field of neurodiversity-focused coaching in HK that helps with the "how-to" of life—executive function, organization, and managing the workday.
-*   **Workplace Accommodations:** If you need formal adjustments (like extra time or specialized environments), you will almost certainly need a formal medical report from a registered psychiatrist.
+*   **Workplace Accommodations:** If you need formal adjustments (like extra time or specialized environments), you will almost certainly need a formal medical report from a registered psychiatrist. See our [workplace accommodations guide](/posts/adhd-workplace-accommodations-guide/) for what to actually ask for once you have that report.
 
 ---
 

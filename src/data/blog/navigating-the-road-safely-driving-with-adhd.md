@@ -36,7 +36,7 @@ The good news is that there are many ways to manage these risks and build safe d
 
 **1. Leverage Medical Support**
 
-Research suggests that **ADHD medication** can play a vital role in safety. Stimulants like Adderall and Ritalin help boost the brain structures responsible for executive function. One study of over 2 million adults found that medication decreased crash risks by **38 percent for men and 42 percent for women**. Always consult a physician to see if medication is a right fit for your driving needs.
+Research suggests that **ADHD medication** can play a vital role in safety. Stimulants like Adderall and Ritalin help boost the brain structures responsible for executive function. One study of over 2 million adults found that medication decreased crash risks by **38 percent for men and 42 percent for women**. Always consult a physician to see if medication is a right fit for your driving needs — our [adult ADHD diagnosis guide](/posts/adult-adhd-diagnosis-guide/) walks through what that process looks like if you haven't been evaluated yet.
 
 **2. Master "Active Scanning"**
 
@@ -62,7 +62,7 @@ Parents can help by enrolling teens in **specialized driving rehabilitation**, s
 
 While rowdy passengers are a distraction, a **responsible adult passenger** can actually enhance safety. A supportive passenger can handle navigation, adjust climate controls, and help the driver stay alert by pointing out hazards or suggesting breaks if they notice the driver becoming distracted or drowsy.
 
-By reducing distractions, leaning on loved ones, and working with medical professionals, drivers with ADHD can develop the habits necessary to arrive at every destination safely.
+By reducing distractions, leaning on loved ones, and working with medical professionals, drivers with ADHD can develop the habits necessary to arrive at every destination safely. The same externalizing strategies that help behind the wheel — making time and attention visible rather than relying on willpower — are covered in more depth in [bridging the knowing-doing gap](/posts/bridging-the-knowing-doing-gap-science-backed-tools-for-managing-adhd/).
 
 ---
 

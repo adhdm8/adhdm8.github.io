@@ -19,7 +19,7 @@ Buy here: https://amzn.to/4qhBM3j
 
 #### The Overlooked Emotional Core of ADHD
 
-While many discussions of ADHD focus on executive functioning, one of the book’s greatest strengths is its emphasis on **ADHD and emotional regulation**. Rosier argues that people with ADHD tend to experience the world through an emotional lens first. She explains that the familiar “just do it” button—the part of the prefrontal cortex responsible for task initiation—is often offline in the ADHD brain. As a result, individuals may rely on emotional triggers like urgency, anger, or shame to get moving. By directly addressing the “big emotions” and common “thought traps” ADHDers face, the book offers a clear path toward emotional health and a meaningful reduction in shame.
+While many discussions of ADHD focus on executive functioning, one of the book’s greatest strengths is its emphasis on **ADHD and emotional regulation**. Rosier argues that people with ADHD tend to experience the world through an emotional lens first. She explains that the familiar “just do it” button—the part of the prefrontal cortex responsible for task initiation—is often offline in the ADHD brain. As a result, individuals may rely on emotional triggers like urgency, anger, or shame to get moving. By directly addressing the “big emotions” and common “thought traps” ADHDers face, the book offers a clear path toward emotional health and a meaningful reduction in shame. For more on where this emotional wiring comes from, see our review of Gabor Maté's [Scattered](/posts/beyond-the-diagnosis-a-summary-of-gabor-mats-scattered/), and for the relationship fallout it can cause, see [ADHD and Relationships](/posts/adhd-and-relationships-why-connection-feels-hard-and-how-to-make-it-easier/).
 
 #### Divergent vs. Convergent Thinking
 
@@ -32,7 +32,7 @@ Rather than framing divergent thinking as a flaw, Rosier encourages readers to e
 
 #### Practical Tools for Growth
 
-Beyond theory, the book provides concrete tools for increasing day-to-day functionality:
+Beyond theory, the book provides concrete tools for increasing day-to-day functionality (in the same vein as our own [science-backed tools for managing ADHD](/posts/bridging-the-knowing-doing-gap-science-backed-tools-for-managing-adhd/)):
 
 The Solve-It Grid: A 4×4 framework that helps readers break tasks into categories based on enjoyment and emotional intensity, making decisions more actionable.
 

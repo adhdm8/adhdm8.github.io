@@ -29,13 +29,13 @@ Think about it:
 Distractibility? In the wild, that’s heightened situational awareness—spotting a rustle in the bushes could mean dinner or danger.
 Impulsivity? That’s quick response under pressure—critical when timing is everything.
 Restlessness? Hunters don’t pace office hallways; they cover ground. Movement isn’t fidgeting—it’s readiness.
-In modern life, these instincts get mislabeled as problems. But Green shows how to redirect that hunter energy: into fast-paced careers, creative problem-solving, crisis response roles, or even outdoor pursuits (hello, trail running or wildlife photography—sound familiar?).
+In modern life, these instincts get mislabeled as problems. But Green shows how to redirect that hunter energy: into fast-paced careers, creative problem-solving, crisis response roles, or even outdoor pursuits (hello, trail running or wildlife photography—sound familiar?). This maps closely onto the "niche-picking" idea in our [ADHD career guide](/posts/the-adhd-career-guide-finding-your-niche-and-avoiding-the-boredom-trap/).
 
 Real Talk + Real Tools
 Green doesn’t just hand you a pep talk and walk away. He gives practical ways to work with your hunter brain, not against it:
 
 Structure that breathes: Instead of rigid schedules, he suggests “flow blocks”—windows of time where you follow energy, not the clock.
-Movement as fuel: Aerobic activity isn’t just “good for focus”—it’s how your brain calibrates. (This might resonate if your go-to reset is a run along the hills or waterfront.)
+Movement as fuel: Aerobic activity isn’t just “good for focus”—it’s how your brain calibrates (see our [science-backed guide to ADHD and exercise](/posts/adhd-and-exercise-how-fitness-helps-the-adhd-brain/), or our review of [Spark](/posts/book-review-spark/) for the neuroscience behind it). (This might resonate if your go-to reset is a run along the hills or waterfront.)
 Choosing your “hunting grounds” wisely: Some environments drain your wiring; others activate your strengths. Green helps you spot the difference.
 Who’s This For?
 This book is perfect if:

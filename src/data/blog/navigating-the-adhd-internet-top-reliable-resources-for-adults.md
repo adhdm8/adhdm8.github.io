@@ -14,7 +14,7 @@ description: "The internet is full of ADHD noise. Here are the reliable ADHD res
 
 When you are first diagnosed with ADHD or struggling to manage its symptoms, the sheer volume of information online can feel like a **"computer virus" invading your mind**, making it impossible to focus on what actually helps. Because ADHD is often misunderstood as a simple "behavior problem" rather than a complex **impairment of the brain's cognitive management system**, it is critical to find **reliable ADHD resources** backed by clinical science.
 
-Below is a curated list of useful websites and digital tools identified in the sources to help you manage your ADHD effectively.
+Below is a curated list of useful websites and digital tools identified in the sources to help you manage your ADHD effectively. If you'd rather listen than read, our [science-backed ADHD podcasts roundup](/posts/tuning-into-your-brain-top-science-backed-adhd-podcasts-and-digital-resources/) covers the audio side, and our [2026 ADHD resource guide](/posts/adhd-resources-2026-comprehensive-guide/) rounds up tools, apps, and communities.
 
 ---
 
@@ -54,4 +54,4 @@ For those navigating the complex world of medication or over-the-counter options
 ---
 
 ### **Final Thought: Building a "Prosthetic Environment"**
-The most important takeaway from clinical research is that you cannot simply "willpower" your way out of ADHD. Success comes from **re-engineering your environment**. Using these websites to educate yourself is the first step in building the **"scaffolding"** or **"prosthetic environment"** your brain needs to show what it truly knows.
+The most important takeaway from clinical research is that you cannot simply "willpower" your way out of ADHD. Success comes from **re-engineering your environment**. Using these websites to educate yourself is the first step in building the **"scaffolding"** or **"prosthetic environment"** your brain needs to show what it truly knows — see [bridging the knowing-doing gap](/posts/bridging-the-knowing-doing-gap-science-backed-tools-for-managing-adhd/) for the full toolkit. For a shorter link-only list, see our [useful resources](/posts/useful-resources/) page too.

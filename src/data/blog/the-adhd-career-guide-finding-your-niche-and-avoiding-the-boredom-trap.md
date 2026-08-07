@@ -25,7 +25,8 @@ The most successful ADHD-friendly occupations typically share several characteri
 *   **High-Stimulation and Crisis Management:** Roles like **policemen, firemen, emergency medical technicians (EMTs), and ER physicians or nurses** are often ideal. These jobs are fast-paced, constantly changing, and involve handling immediate crises, which provides the adrenaline and dopamine the ADHD brain requires to stay "tuned in".
 *   **The Skilled Trades:** Many people with ADHD excel in **manual professions** such as **carpentry, plumbing, electrical work, landscaping, or auto mechanics**. These roles allow for physical movement and provide immediate, tangible results of one's labor, which is far more rewarding than abstract digital tasks.
 *   **Sales and Entrepreneurship:** **Door-to-door sales, pharmaceutical representation, and entrepreneurship** are common paths. Self-employment is particularly popular in longitudinal studies of ADHD because it allows individuals to **set their own schedules**, work at their own pace, and engage their "entrepreneurial spirit".
-*   **The Arts and Media:** **Photography, videography, acting, and music** provide the active lifestyle and varied venues that fit a hyperactive or exploratory temperament. 
+*   **The Arts and Media:** **Photography, videography, acting, and music** provide the active lifestyle and varied venues that fit a hyperactive or exploratory temperament.
+*   **Software Engineering (with the right setup):** Coding can go either way for the ADHD brain — the novelty of debugging can hook hyperfocus, but the sedentary, ticket-queue side can be brutal. See [coding with a bionic brain](/posts/coding-with-a-bionic-brain-success-tips-for-software-engineers-with-adhd/) for how to make the role work rather than fight it.
 
 ---
 
@@ -40,10 +41,10 @@ Environments that require long periods of sedentary, repetitive, or solitary wor
 ---
 
 #### **Professional Strategies for ADHD Career Success**
-Because ADHD is a disorder of **"doing what you know"** rather than "knowing what to do," success depends on re-engineering your work environment.
+Because ADHD is a disorder of **"doing what you know"** rather than "knowing what to do" (more on closing that gap in [bridging the knowing-doing gap](/posts/bridging-the-knowing-doing-gap-science-backed-tools-for-managing-adhd/)), success depends on re-engineering your work environment.
 
 1.  **Externalize Your Memory:** Since internal working memory is often impaired, you must move information **out of your brain and into your visual field**. This means using sticky notes, digital recorders, or a "journal welded to your body" to record every task immediately.
-2.  **Externalize Time:** ADHD creates **"time blindness"**. Use vibrating watches, visual clocks, and timers to signal the passage of time and set "hard stops" for tasks.
-3.  **Accept Career Variety:** For many with ADHD, the optimal path is not one 50-year career, but perhaps **five or ten shorter careers**. This variety prevents dopamine depletion and allows the individual to reset their motivation "fuel tank".
+2.  **Externalize Time:** ADHD creates **"time blindness"**. Use vibrating watches, visual clocks, and timers to signal the passage of time and set "hard stops" for tasks — see the [neuroscience behind time blindness](/posts/the-science-of-time-blindness-why-the-adhd-brain-operates-in-now-or-not-now/) and some [drills to rebuild your internal clock](/posts/time-estimation-drills-for-adhd-brain/).
+3.  **Accept Career Variety:** For many with ADHD, the optimal path is not one 50-year career, but perhaps **five or ten shorter careers**. This variety prevents dopamine depletion and allows the individual to reset their motivation "fuel tank". Once you've found the right fit, our [workplace accommodations guide](/posts/adhd-workplace-accommodations-guide/) covers what to formally ask for.
 
-**Final Thought:** Life expectancy for untreated ADHD can be significantly shorter—sometimes by as much as **10 years**—due to increased risks of accidents and impulsivity-related health issues. Finding a job that fits your brain is not just about happiness; it is a critical component of **long-term health and safety**.
+**Final Thought:** Life expectancy for untreated ADHD can be significantly shorter—sometimes by as much as **10 years**—due to increased risks of accidents and impulsivity-related health issues (we break down [what actually drives that risk](/posts/adhd-and-life-expectancy-understanding-the-real-world-risks/)). Finding a job that fits your brain is not just about happiness; it is a critical component of **long-term health and safety**.

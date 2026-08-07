@@ -25,7 +25,7 @@ In software engineering, you often have to hold complex logic and multiple varia
 *   **Low-Friction Capture:** Use digital tools like **Todoist** for quick-capture features so sudden thoughts don't disrupt your current deep-work session.
 
 ### **2. Bridge the Gap of "Time Blindness"**
-Software engineers are notoriously bad at estimating how long a task will take, a phenomenon magnified by ADHD-related **"time blindness"** or "temporal myopia".
+Software engineers are notoriously bad at estimating how long a task will take, a phenomenon magnified by ADHD-related **"time blindness"** or "temporal myopia" (see the [neuroscience behind why this happens](/posts/the-science-of-time-blindness-why-the-adhd-brain-operates-in-now-or-not-now/)).
 *   **Make Time Visible:** Use **external temporal devices** rather than your internal clock. A **visual timer** (like a clock with a disappearing red disc) makes the passage of time tangible and helps guide your behavior relative to the deadline.
 *   **The "11th Hour" Trap:** People with ADHD often cannot organize toward a distant future and only initiate action when a task becomes an **"acute emergency"**. Counter this by setting in your calendar 20 to 30 minutes before every meeting or deadline.
 
@@ -42,8 +42,8 @@ The prefrontal cortex acts as your "Orchestra Conductor," but its **fuel tank is
 
 ### **5. Optimize Your Niche as an ADHD Software Engineer**
 Many engineers with ADHD thrive in **"high-stimulation" environments**. 
-*   **Context-Dependent Symptoms:** You may feel impaired in a sedentary role doing repetitive maintenance but achieve **hyperfocus** in a fast-paced "crisis mode" like dev-ops or rapid prototyping. 
-*   **Desk Placement:** Request a desk location that **minimizes distractions** to support your prefrontal cortex's effort to quiet "background chatter".
+*   **Context-Dependent Symptoms:** You may feel impaired in a sedentary role doing repetitive maintenance but achieve **hyperfocus** in a fast-paced "crisis mode" like dev-ops or rapid prototyping. For the broader picture of which roles and setups tend to work, see our [ADHD career guide](/posts/the-adhd-career-guide-finding-your-niche-and-avoiding-the-boredom-trap/).
+*   **Desk Placement:** Request a desk location that **minimizes distractions** to support your prefrontal cortex's effort to quiet "background chatter". If you need this formalized, our [workplace accommodations guide](/posts/adhd-workplace-accommodations-guide/) covers what to ask for and how.
 
 **Conclusion:** 
 ADHD in the workplace is about **environmental fit**. By using **prosthetic environments**—apps like Tiimo for visual timelines or physical signs for rules—you can bypass your brain's conductor and show the world the high-level engineering skills you truly possess.

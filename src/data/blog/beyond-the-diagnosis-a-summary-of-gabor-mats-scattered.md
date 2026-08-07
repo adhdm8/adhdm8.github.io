@@ -32,7 +32,7 @@ The sources highlight the concept of **attunement**—the moment-to-moment emoti
 Healing, in Maté’s view, is not about "curing" a disease but about **fostering the growth** that was previously interrupted. 
 
 *   **For Children:** The primary focus should be on **solidifying the attachment relationship**. This involves offering **unconditional positive regard**, "wooing" the child into relationship, and ensuring the child feels accepted regardless of their behavior. Maté advises against techniques like "time-outs," which he argues can exacerbate a child's fear of abandonment.
-*   **For Adults:** The task is **"self-parenting"**. This includes developing **compassionate curiosity** toward one’s own behaviors, accepting the "implicit memories" of childhood pain that drive current reactions, and prioritizing physical self-care such as sleep hygiene, nutrition, and exercise.
+*   **For Adults:** The task is **"self-parenting"**. This includes developing **compassionate curiosity** toward one’s own behaviors, accepting the "implicit memories" of childhood pain that drive current reactions, and prioritizing physical self-care such as [sleep hygiene](/posts/adhd-and-sleep-hygiene-science-backed-guide/), nutrition, and [exercise](/posts/adhd-and-exercise-how-fitness-helps-the-adhd-brain/).
 
 #### The Role of Medication
 While the sources acknowledge that medications can be dramatic and helpful in improving concentration, Maté warns that they are often used as a **"chemical straitjacket"** to fit children into underfunded school systems. He stresses that medication should **never be the only treatment** because it does not resolve the basic issues of self-esteem or the lack of self-regulation. The ultimate goal of any treatment is the **integration of cognition with emotion**, allowing the individual to become whole.
@@ -40,3 +40,5 @@ While the sources acknowledge that medications can be dramatic and helpful in im
 ### Rating: ⭐⭐⭐⭐ (4/5)
 
 Buy here: https://amzn.to/4ahZhEB
+
+For a more tools-forward take on the emotional side of ADHD, see our review of [Your Brain's Not Broken](/posts/embracing-the-divergent-mind-a-review-of-your-brains-not-broken/).

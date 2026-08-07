@@ -106,7 +106,7 @@ Some ADHD brains love to tinker. The F-701 has an active modding community:
 - **Gel ink conversion**: Replace with a Uni-ball Signo or Pilot G2 refill for fountain-pen-smooth writing
 - **Tip upgrade**: Some users swap in 0.5mm tips for finer lines
 
-These mods are **optional**. The stock pen works beautifully out of the box.
+These mods are **optional**. The stock pen works beautifully out of the box. If you do want to go down this road, see our full [Zebra F-701 refill guide](/posts/zebra-f701-refill-guide-upgrade-your-writing-experience/) for a breakdown of which refill fits which use case.
 
 ---
 
@@ -128,7 +128,7 @@ Your ADHD brain needs **reliable external tools** that reduce friction, not add 
 
 It is heavy enough to notice. Smooth enough to flow with your thoughts. Tough enough to survive being tossed in a bag for six months.
 
-At under $10, it is the cheapest productivity upgrade you can make to your analog system.
+At under $10, it is the cheapest productivity upgrade you can make to your analog system. For more on why paper beats apps for the ADHD brain in the first place, see [The Paper Brain](/posts/the-paper-brain-why-analog-tools-work-better-for-adhd/), and for other physical tools worth trying, check out our [ADHD gadgets and tools roundup](/posts/gadgets-and-tools-to-support-the-adhd-brain/).
 
 ---
 

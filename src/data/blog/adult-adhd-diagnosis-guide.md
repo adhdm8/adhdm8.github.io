@@ -30,7 +30,7 @@ When we think of ADHD, the mental image is often a hyperactive child bouncing of
 Instead of running around the room, an adult with ADHD might experience:
 
 *   **Internal Restlessness:** That feeling of being "driven by a motor" even when you're sitting on the couch.
-*   **Executive Dysfunction:** The "Task Paralysis" that makes starting a simple email feel like climbing Mount Everest (which can significantly impact your [career](<<../../the-adhd-career-guide-finding-your-niche-and-avoiding-the-boredom-trap.md>)).
+*   **Executive Dysfunction:** The "Task Paralysis" that makes starting a simple email feel like climbing Mount Everest (which can significantly impact your [career](/posts/the-adhd-career-guide-finding-your-niche-and-avoiding-the-boredom-trap/)).
 *   **The Inattention Trap:** Zoning out in the middle of a conversation or struggling to follow multi-step instructions.
 *   **Emotional Dysregulation:** Feeling emotions more intensely than others, leading to quick frustration or overwhelming overwhelm.
 
@@ -43,7 +43,7 @@ In short: the hyperactivity has often moved from your legs into your mind.
 Getting a diagnosis can feel like navigating a labyrinth. Knowing the path ahead can help lower the anxiety of the unknown.
 
 #### 1. The Self-Discovery Phase
-Most journeys start with a "lightbulb moment." You might find yourself using self-report scales, like the **ASRS (Adult ADHD Self-Report Scale)**, to see if your experiences align with common clinical patterns. These aren't a diagnosis, but they are a powerful way to say, *"Hey, this looks like me."*
+Most journeys start with a "lightbulb moment." You might find yourself using self-report scales, like the **ASRS (Adult ADHD Self-Report Scale)**, to see if your experiences align with common clinical patterns. These aren't a diagnosis, but they are a powerful way to say, *"Hey, this looks like me."* If you haven't already, you can [take the ASRS-6 screener](/posts/adhd-quiz-for-adults-self-screening-test/) yourself in about two minutes.
 
 #### 2. The Clinical Gatekeepers
 You'll typically need to meet with a professional—a psychiatrist, a psychologist, or a GP with specialized training. They won't just ask "do you lose things?"; they will look at your life through a clinical lens.
@@ -73,10 +73,10 @@ If you've tried to seek help before and felt unheard, there's a good reason for 
 Many adults—especially high-achievers—have spent years developing "masks." You might use extreme rigidity, over-scheduling, or sheer anxiety to force yourself to function. To a clinician, you might look "fine," but they don't see the massive amount of energy it takes to maintain that mask.
 
 **The Gender Gap**
-Historically, ADHD research was heavily skewed toward hyperactive boys. This means many women and non-binary individuals, who often present with more "inattentive" symptoms, are frequently misdiagnosed with anxiety or depression.
+Historically, ADHD research was heavily skewed toward hyperactive boys. This means many women and non-binary individuals, who often present with more "inattentive" symptoms, are frequently misdiagnosed with anxiety or depression. See our [ADHD test for women](/posts/adhd-test-for-women-self-screening-guide/) for a screener built around how symptoms actually show up in women.
 
 **The Comorbidity Trap**
-ADHD rarely travels alone. It often brings friends like Anxiety and Depression. It is incredibly common for a clinician to treat the mood disorder while completely missing the underlying ADHD that is driving the chaos (much like how [sleep hygiene](<<../../adhd-and-sleep-hygiene-science-backed-guide.md>) issues often overlap with ADHD symptoms).
+ADHD rarely travels alone. It often brings friends like Anxiety and Depression. It is incredibly common for a clinician to treat the mood disorder while completely missing the underlying ADHD that is driving the chaos (much like how [sleep hygiene](/posts/adhd-and-sleep-hygiene-science-backed-guide/) issues often overlap with ADHD symptoms).
 
 ---
 

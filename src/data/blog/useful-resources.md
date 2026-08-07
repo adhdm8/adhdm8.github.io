@@ -12,12 +12,14 @@ tags:
 description: Online resources to help with ADHD.
 ---
 
+For a deeper, curated write-up rather than a link list, see [Navigating the ADHD Internet](/posts/navigating-the-adhd-internet-top-reliable-resources-for-adults/) and our [2026 ADHD resource guide](/posts/adhd-resources-2026-comprehensive-guide/).
+
 ## Evidence-based information
 
 - CHADD – Children and Adults with ADHD: https://chadd.org
 - CDC – ADHD information and free materials: https://www.cdc.gov/adhd/communication-resources/index.html
 - NIMH – ADHD shareable resources: https://www.nimh.nih.gov/get-involved/digital-shareables/shareable-resources-on-adhd
-- Shamieh Law – How Does ADHD Affect Driving? Tips for Driving Safe: https://shamiehlaw.com/adhd-and-driving/
+- Shamieh Law – How Does ADHD Affect Driving? Tips for Driving Safe: https://shamiehlaw.com/adhd-and-driving/ (see also our own [guide to driving with ADHD](/posts/navigating-the-road-safely-driving-with-adhd/))
 
 ## Adult-focused ADHD sites
 
@@ -41,4 +43,4 @@ description: Online resources to help with ADHD.
 
 - AACAP – ADHD Resource Center: https://www.aacap.org/aacap/Families_and_Youth/Resource_Centers/ADHD_Resource_Center/Home.aspx
 - Triple P Online – Positive Parenting Program: (overview including ADHD-related use) https://www.verywellmind.com/best-online-advice-for-adhd-6455751
-- ADHD & Marriage (Melissa Orlov): listed in ADHD resource directories, e.g. https://adhdonline.com/articles/the-top-online-resources-every-person-with-adhd-needs-6-websites-to-bookmark-now/
+- ADHD & Marriage (Melissa Orlov): listed in ADHD resource directories, e.g. https://adhdonline.com/articles/the-top-online-resources-every-person-with-adhd-needs-6-websites-to-bookmark-now/ (see also our own piece on [ADHD and relationships](/posts/adhd-and-relationships-why-connection-feels-hard-and-how-to-make-it-easier/))

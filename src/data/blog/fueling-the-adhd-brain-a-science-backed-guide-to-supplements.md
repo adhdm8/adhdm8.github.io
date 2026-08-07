@@ -14,7 +14,7 @@ description: "Which ADHD supplements actually have clinical backing? A science-b
 
 While pharmacological treatments are often considered the first-line defense for Attention-Deficit/Hyperactivity Disorder (ADHD), clinical research indicates that certain **ADHD supplements** can play a vital **modulatory or supportive role** in managing symptoms. It is important to understand that while these compounds can enhance focus and mood, they are generally not a replacement for medication but rather "scaffolding" for the brain's executive system.
 
-Here is a breakdown of the supplements that have shown clinical promise for benefiting ADHD patients.
+Here is a breakdown of the supplements that have shown clinical promise for benefiting ADHD patients. Nutrition is just one lever — pair this with our guides to [ADHD and exercise](/posts/adhd-and-exercise-how-fitness-helps-the-adhd-brain/) and [ADHD and sleep hygiene](/posts/adhd-and-sleep-hygiene-science-backed-guide/) for the other two pillars of a science-backed, non-pharmacological baseline.
 
 ---
 
@@ -42,7 +42,7 @@ These tools target the acetylcholine system, which acts like a "fire hose" of fo
 ---
 
 ### **Crucial Considerations Before Taking ADHD Supplements**
-The "Holy Grail" of ADHD management is building a **"prosthetic environment"** that combines behavioral tools, medication, and nutrition. If you are considering adding supplements to your regimen, keep these three science-backed principles in mind:
+The "Holy Grail" of ADHD management is building a **"prosthetic environment"** that combines behavioral tools, medication, and nutrition — the same framework we cover in [bridging the knowing-doing gap](/posts/bridging-the-knowing-doing-gap-science-backed-tools-for-managing-adhd/). If you are considering adding supplements to your regimen, keep these three science-backed principles in mind:
 
 1.  **Modulation vs. Mediation:** Supplements generally *modulate* (support) neural circuits rather than *mediate* (directly trigger) them in the way prescription stimulants do.
 2.  **Quality Matters:** It is critical to use supplements from reputable sources where the ingredients listed on the bottle match the contents, as the supplement industry is not strictly regulated.

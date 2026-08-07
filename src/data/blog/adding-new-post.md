@@ -14,11 +14,11 @@ description: Sharing my journey with ADHD and strategies that help me stay focus
 
 I have ADHD. I've got a million ideas—but struggle to follow through. Sound familiar?
 
-Instead of fighting my brain, I'm learning to work with it. Short workouts (I prefer cardio), tiny tasks, clear routines—and less self-criticism.
+Instead of fighting my brain, I'm learning to work with it. Short workouts ([I prefer cardio](/posts/adhd-and-exercise-how-fitness-helps-the-adhd-brain/)), tiny tasks, clear routines—and less self-criticism.
 
-This blog will share what actually helps me stay focused, move forward, and feel less overwhelmed. No fluff. Just real experiments from real life.
+This blog will share what actually helps me stay focused, move forward, and feel less overwhelmed. No fluff. Just real experiments from real life. If you want the condensed version, start with [how to fix your entire ADHD life in one day](/posts/how-to-fix-your-entire-adhd-life-in-one-day/).
 
-If you're also trying to build a life that fits your brain—not someone else's rulebook—you're not alone.
+If you're also trying to build a life that fits your brain—not someone else's rulebook—you're not alone. If you're still wondering whether ADHD is actually what's going on, our free [ADHD quiz for adults](/posts/adhd-quiz-for-adults-self-screening-test/) is a good place to start.
 
 —
 1-minute read. Zero perfection required.

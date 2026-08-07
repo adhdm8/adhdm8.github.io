@@ -75,7 +75,7 @@ The original Bullet Journal method can be overwhelming. The Instagram-worthy spr
 ```
 
 **Rules:**
-1. One notebook. One pen. No highlighters, stickers, or rulers required
+1. One notebook. One pen (see our review of the [Zebra F-701](/posts/zebra-f701-the-perfect-pen-for-adhd-brain-dump-journaling/), a favorite for exactly this). No highlighters, stickers, or rulers required
 2. Each day gets a simple header with date
 3. Write tasks as they occur. Check off when done
 4. At day end, migrate incomplete tasks or cross them out
