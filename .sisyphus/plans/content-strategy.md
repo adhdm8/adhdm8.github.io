@@ -94,7 +94,7 @@ the hub links back to its pillar.
 | P1-03 | Add 2+ inbound links to every orphan in §1 from topically related posts | Orphan check (§1) shows no published post with 0 inbound | ⬜ |
 | P1-04 | Expand thin YMYL posts to 1200+ words with cited sources: `adhd-and-life-expectancy-...` (672w), `understanding-the-clinical-landscape-...` (693w), `fueling-the-adhd-brain-...supplements` (759w) | Each ≥1200 words, ≥3 authoritative citations, `modDatetime` updated | ⬜ |
 | P1-05 | Consolidate thin resource posts: merge `useful-resources` (251w) into `adhd-resources-2026-comprehensive-guide` + redirect (P1-00 method); expand `book-review-spark` (261w) to 600+ words. Unpublishing instead needs explicit user approval | No published post under 400 words except `adding-new-post` | ⏸ needs P1-00 |
-| P1-06 | Tag cleanup: `books` → `book-review`; `safety` → remove (keep `driving`) | All tags match the AGENTS.md §12 approved list | ⬜ |
+| P1-06 | Tag cleanup: `books` → `book-review`; `safety` → remove (keep `driving`) | All tags match the AGENTS.md §12 approved list | ✅ 2026-09-28 |
 | P1-07 | Bring `adhd-pen-refill-hack-zebra-f701-budget` up to the closing structure: add `### Conclusion` after Key Takeaways, ending with **Next step** | Matches AGENTS.md §3 closing structure | ⬜ |
 | P1-08 | Consistency sweep across all posts: replace "in the comments" wording with the Instagram engagement line (11 posts); normalize callouts to `> **Pro-tip from ADHD m8:**` | `grep -l "in the comments" src/data/blog/*.md` returns nothing; only one callout spelling remains | ⬜ |
 

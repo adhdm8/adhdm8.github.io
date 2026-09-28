@@ -8,7 +8,7 @@ featured: true
 draft: false
 tags:
   - adhd
-  - books
+  - book-review
 description: Best for readers interested in neuroscience, mental health, productivity, or anyone looking for evidence-based reasons to prioritize physical activity beyond aesthetics.
 ---
 

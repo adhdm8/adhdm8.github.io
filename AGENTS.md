@@ -266,7 +266,7 @@ Examples:
 
 When updating an existing post:
 
-1. Update `modDatetime` to current time (keep `pubDatetime` unchanged)
+1. Update `modDatetime` to current time when the **content** changes (keep `pubDatetime` unchanged). Metadata-only edits (tags, typo fixes, link fixes) keep the existing `modDatetime`, so readers and search engines don't see a false "updated" signal
 2. Add an "Updated" note at the top if the changes are significant
 3. Never change the slug (Hard Rule 2)
 4. While you're in the file, bring it up to current rules. Many older posts predate them:

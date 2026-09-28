@@ -9,7 +9,6 @@ draft: false
 tags:
   - adhd
   - driving
-  - safety
 description: Understanding how ADHD affects driving and practical strategies to stay safe on the road.
 ---
 
