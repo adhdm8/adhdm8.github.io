@@ -117,7 +117,7 @@ An interest-driven brain will sustain a system a duty-driven brain abandons, as 
 
 Constraints matter more here than they do for most brains. Interest is a resource too, and a novelty-driven brain will happily abandon a working system for a shinier one unless something explicitly stops it.
 
-For the environment side of this — the physical redesign that makes each "quest" frictionless — see [why analog tools work better for ADHD](/posts/the-paper-brain-why-analog-tools-work-better-for-adhd/) and the practical rebuild in [time blindness and the ADHD brain](/posts/the-science-of-time-blindness-why-the-adhd-brain-operates-in-now-or-not-now/).
+For the environment side of this — the physical redesign that makes each "quest" frictionless — see [why analog tools work better for ADHD](/posts/the-paper-brain-why-analog-tools-work-better-for-adhd/), the [ADHD decluttering guide](/posts/adhd-and-minimalism-souna-decluttering-guide/) for the physical space itself, and the practical rebuild in [time blindness and the ADHD brain](/posts/the-science-of-time-blindness-why-the-adhd-brain-operates-in-now-or-not-now/).
 
 ---
 

@@ -30,7 +30,7 @@ That turns out to matter for everyone in 2026. Smartphones, notification-driven 
 
 ### Fix Task Initiation Before You Try to Fix Focus
 
-The biggest lever in improving focus isn't sustaining attention, it's getting started in the first place, since most abandoned tasks fail at the very first minute rather than somewhere in the middle. **Task initiation**, not sustained concentration, is the actual bottleneck for the vast majority of stalled work, ADHD or not. The task you can't focus on is very often the task you never actually started.
+The biggest lever in improving focus isn't sustaining attention, it's getting started in the first place, since most abandoned tasks fail at the very first minute rather than somewhere in the middle. **Task initiation**, not sustained concentration, is the actual bottleneck for the vast majority of stalled work, ADHD or not. The task you can't focus on is very often the task you never actually started. The fastest fix we know is to [shrink the task until starting costs nothing](/posts/adhd-number-1-trick-to-focus-now/).
 
 **Body doubling**, working alongside another person while each of you does your own separate task, is one of the most reliable ways to solve this. The mechanism doesn't require the other person to help, remind, or check on you at all; their presence alone provides enough of an external "we're starting now" cue to break the inertia. We cover the research and the best apps for it in our [body doubling guide](/posts/body-doubling-for-adhd-best-apps-and-how-it-works/).
 
@@ -56,7 +56,7 @@ This is the core idea behind **externalized, analog systems**: a visible whitebo
 
 Environment design outperforms self-discipline for sustaining focus because it removes the need for a decision to be made in the moment, when willpower is at its weakest. Putting your phone in another room, closing every browser tab except the one you need, and physically separating your workspace from your rest space all work by making distraction harder to reach, not by making you more disciplined. Discipline is a finite, fluctuating resource; a removed phone is removed all day.
 
-Small changes compound here. A single-tab browser rule, a phone left charging in a different room, or a dedicated "focus chair" that your brain only associates with work all reduce the number of moments where you have to actively resist a distraction, which is a fight most brains lose eventually if it happens often enough.
+Small changes compound here. A single-tab browser rule, a phone left charging in a different room, or a dedicated "focus chair" that your brain only associates with work all reduce the number of moments where you have to actively resist a distraction, which is a fight most brains lose eventually if it happens often enough. Physical clutter works the same way; our [ADHD decluttering guide](/posts/adhd-and-minimalism-souna-decluttering-guide/) covers how to cut it down without a storage system you'll abandon.
 
 ---
 

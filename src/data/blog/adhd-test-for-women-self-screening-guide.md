@@ -58,7 +58,7 @@ Rate how often each statement has felt true over the **past six months** — Nev
 
 **Scoring this isn't a formal instrument** the way the ASRS-6 is — there's no validated cutoff — but if you answered "Often" or "Very Often" to four or more, that's a strong enough signal to pursue a real evaluation rather than something to talk yourself out of.
 
-For the actual validated clinical screener alongside this, see our [ADHD quiz for adults](/posts/adhd-quiz-for-adults-self-screening-test/) — running both together gives a fuller picture than either alone, since the ASRS-6 catches externalized symptoms this list is built to catch what it misses.
+For the actual validated clinical screener alongside this, see our [ADHD quiz for adults](/posts/adhd-quiz-for-adults-self-screening-test/) — running both together gives a fuller picture than either alone, since the ASRS-6 catches externalized symptoms this list is built to catch what it misses. Because women more often present inattentively, the [inattentive ADHD quiz](/posts/inattentive-adhd-quiz-for-adults/) is worth taking as well.
 
 ---
 

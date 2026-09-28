@@ -94,7 +94,7 @@ You could spend $50+ on a "premium" pen. The F-701 costs under $10 and outperfor
 | Tactile Feedback | None | Variable | Excellent |
 | Losability | High | High | Low (clip + weight) |
 
-The F-701 hits the **sweet spot**: quality construction without preciousness. It is a tool, not a treasure. If you lose it, you replace it without guilt.
+The F-701 hits the **sweet spot**: quality construction without preciousness. It is a tool, not a treasure. If you lose it, you replace it without guilt. And if you burn through refills, the [ADHD pen refill hack](/posts/adhd-pen-refill-hack-zebra-f701-budget/) keeps it running for pennies.
 
 ---
 
@@ -128,7 +128,7 @@ Your ADHD brain needs **reliable external tools** that reduce friction, not add 
 
 It is heavy enough to notice. Smooth enough to flow with your thoughts. Tough enough to survive being tossed in a bag for six months.
 
-At under $10, it is the cheapest productivity upgrade you can make to your analog system. For more on why paper beats apps for the ADHD brain in the first place, see [The Paper Brain](/posts/the-paper-brain-why-analog-tools-work-better-for-adhd/), and for other physical tools worth trying, check out our [ADHD gadgets and tools roundup](/posts/gadgets-and-tools-to-support-the-adhd-brain/).
+At under $10, it is the cheapest productivity upgrade you can make to your analog system. For more on why paper beats apps for the ADHD brain in the first place, see [The Paper Brain](/posts/the-paper-brain-why-analog-tools-work-better-for-adhd/), and for other physical tools worth trying, check out our [ADHD gadgets and tools roundup](/posts/gadgets-and-tools-to-support-the-adhd-brain/). If the click mechanism turns into a fidget toy for you, the capped [Pilot Fineliner](/posts/pilot-fineliner-review-best-felt-tip-pen-for-adhd/) is the quieter alternative.
 
 ---
 

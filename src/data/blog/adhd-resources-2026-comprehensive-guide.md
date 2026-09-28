@@ -91,7 +91,7 @@ I've reviewed several ADHD books on this blog with a focus on practical takeaway
 - **Your Brain's Not Broken** by Dr. Tamara Rosier - Emotional regulation strategies.
 - **Scattered** by Dr. Gabor Maté - A developmental impairment perspective.
 
-For a full deep dive with actionable tools from each book, see my [book review series](/posts/tag/book-review/).
+For a full deep dive with actionable tools from each book, see my [book review series](/tags/book-review/). If starting (or finishing) a book is the hard part, see [how to read with ADHD](/posts/how-to-read-books-with-adhd/).
 
 ---
 

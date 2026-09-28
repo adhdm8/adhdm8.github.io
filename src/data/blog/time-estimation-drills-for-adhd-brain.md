@@ -76,7 +76,7 @@ The social accountability layer helps because ADHD brains often respond better t
 
 You do not have to do this with willpower alone. Visual timers, wearables with haptic alerts, and analog tools can offload the tracking so your brain does not have to hold it. We cover a full range of these in our guide to [gadgets and tools to support the ADHD brain](/posts/gadgets-and-tools-to-support-the-adhd-brain/), many of which pair directly with the drills above.
 
-If your time blindness shows up most at the "big picture" level — weeks and months rather than minutes — it is worth reading [the mystery of time blindness](/posts/the-mystery-of-time-blindness-why-the-adhd-brain-struggles-with-the-future/) alongside this guide, since long-range planning needs a different toolkit than in-the-moment estimation.
+If your time blindness shows up most at the "big picture" level — weeks and months rather than minutes — it is worth reading [the mystery of time blindness](/posts/the-mystery-of-time-blindness-why-the-adhd-brain-struggles-with-the-future/) alongside this guide, since long-range planning needs a different toolkit than in-the-moment estimation. Trips are the ultimate stress test for both; our [ADHD travel planning guide](/posts/adhd-travel-planning-guide/) applies these estimation habits to booking, packing, and actually getting to the airport on time.
 
 ---
 

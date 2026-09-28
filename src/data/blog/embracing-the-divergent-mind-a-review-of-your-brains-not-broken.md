@@ -42,7 +42,7 @@ Parts Work: The book introduces a form of “parts work,” encouraging readers 
 
 #### A Compassionate Perspective with Caveats
 
-The book is widely appreciated for offering a nuanced understanding of ADHD as more than a simple attention deficit. It resonates strongly with high-IQ adults who have long felt “out of step” with their peers. That said, some readers may find the occasional religious references unexpected or out of place in an otherwise logic-driven framework. Others note that while the content itself is powerful, the book’s structure can make it harder to quickly extract key ideas—potentially a challenge for readers with more severe ADHD symptoms.
+The book is widely appreciated for offering a nuanced understanding of ADHD as more than a simple attention deficit. It resonates strongly with high-IQ adults who have long felt “out of step” with their peers. That said, some readers may find the occasional religious references unexpected or out of place in an otherwise logic-driven framework. Others note that while the content itself is powerful, the book’s structure can make it harder to quickly extract key ideas—potentially a challenge for readers with more severe ADHD symptoms. (Our guide on [how to read with ADHD](/posts/how-to-read-books-with-adhd/) has tactics for getting through books like this one.)
 
 Ultimately, Your Brain’s Not Broken reframes ADHD as a matter of learning to work with a unique brain, not fixing a broken one. It points readers toward a more fulfilling life grounded in self-understanding, empowerment, and self-acceptance.
 

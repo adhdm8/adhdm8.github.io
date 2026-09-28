@@ -28,7 +28,7 @@ Status markers: `⬜ open` · `🔄 in progress` · `✅ done` · `⏸ blocked (
 
 | Finding | Detail | Fixed by |
 |---|---|---|
-| Orphan posts | 9 posts have zero inbound internal links (see list below) | P1-03 |
+| Orphan posts | 9 posts had zero inbound internal links (list below) | P1-03 ✅ |
 | Keyword cannibalization | Two ~650-word time-blindness posts target the same query | P1-01 |
 | Overlapping focus posts | 3 posts compete for "improve focus ADHD" | P1-02 |
 | Overlapping resource lists | 5 list-style resource posts, 2 of them thin | P1-05 |
@@ -42,7 +42,7 @@ Status markers: `⬜ open` · `🔄 in progress` · `✅ done` · `⏸ blocked (
 | No search data | No Search Console data — keyword priorities are informed guesses | P0-01 |
 | Anonymous author on health topics | Weak E-E-A-T signals | P3-01, P3-02 |
 
-**Orphans (0 inbound links)**: `adhd-and-minimalism-souna-decluttering-guide`,
+**Orphans as of 2026-09-28, before P1-03 (0 inbound links)**: `adhd-and-minimalism-souna-decluttering-guide`,
 `adhd-pen-refill-hack-zebra-f701-budget`, `adding-new-post`,
 `adhd-number-1-trick-to-focus-now`, `adhd-travel-planning-guide`,
 `dr-russell-barkley-adhd-quiz-baars-bdefs-explained`, `how-to-read-books-with-adhd`,
@@ -91,7 +91,7 @@ the hub links back to its pillar.
 | P1-00 | **Decide the redirect method** (blocks P1-01, P1-05). The site is on GitHub Pages, so `_redirects` files don't work. Option: Astro's `redirects` option in `astro.config.ts`, which generates static redirect pages. That file is locked, so the user must approve | User approves a method; this row records it | ⏸ needs user decision |
 | P1-01 | Merge `the-mystery-of-time-blindness-...` and `the-science-of-time-blindness-...` into one pillar "ADHD Time Blindness" guide (2000+ words). Keep the higher-linked slug (`the-mystery-...`, 10 inbound) and redirect the other using the P1-00 method | One post, redirect live, links in the 16 posts that point at either URL updated to the kept slug | ⏸ needs P1-00 |
 | P1-02 | Create/expand hub pillars for `focus` and `diagnosis`. The `focus` pillar must clearly differentiate `adhd-and-how-anyone-can-improve-their-focus`, `improve-focus-with-behavioral-tools-and-medication-for-adhd`, and `adhd-number-1-trick-to-focus-now` | Each pillar links to every post in its hub (§4), and each links back | ⬜ |
-| P1-03 | Add 2+ inbound links to every orphan in §1 from topically related posts | Orphan check (§1) shows no published post with 0 inbound | ⬜ |
+| P1-03 | Add 2+ inbound links to every orphan in §1 from topically related posts | Orphan check (§1) shows no published post with 0 inbound | ✅ 2026-09-28. All 8 content orphans have 2+ inbound links. `adding-new-post` is deliberately left for the About page (P3-01). 11 posts still have only 1 inbound link; P1-02 hub pillars will cover most of them, so re-check after P1-02 |
 | P1-04 | Expand thin YMYL posts to 1200+ words with cited sources: `adhd-and-life-expectancy-...` (672w), `understanding-the-clinical-landscape-...` (693w), `fueling-the-adhd-brain-...supplements` (759w) | Each ≥1200 words, ≥3 authoritative citations, `modDatetime` updated | ⬜ |
 | P1-05 | Consolidate thin resource posts: merge `useful-resources` (251w) into `adhd-resources-2026-comprehensive-guide` + redirect (P1-00 method); expand `book-review-spark` (261w) to 600+ words. Unpublishing instead needs explicit user approval | No published post under 400 words except `adding-new-post` | ⏸ needs P1-00 |
 | P1-06 | Tag cleanup: `books` → `book-review`; `safety` → remove (keep `driving`) | All tags match the AGENTS.md §12 approved list | ✅ 2026-09-28 |
@@ -124,7 +124,7 @@ reviews, generic productivity posts, parenting/children (off-audience for now).
 
 | ID | Task | Done when | Status |
 |---|---|---|---|
-| P3-01 | About page: who writes ADHD m8, lived experience vs research, editorial standards | `/about` states author background + sourcing policy | ⬜ |
+| P3-01 | About page: who writes ADHD m8, lived experience vs research, editorial standards. Link the intro post `adding-new-post` ("Why am I starting this blog") from it | `/about` states author background + sourcing policy and links `adding-new-post` | ⬜ |
 | P3-02 | Add a "Sources" section to every `health`/`diagnosis`/`focus` post | All posts in those hubs have ≥2 linked sources | ⬜ |
 | P3-03 | Per-post SEO overrides (carried over from old plan) — schema already has `ogImage`, `canonicalURL`; confirm layouts use them | Documented in AGENTS.md or confirmed working | ⬜ |
 | P3-04 | Refresh cycle: re-review any post whose `modDatetime` is >12 months old | Recurring — check quarterly | ⬜ |

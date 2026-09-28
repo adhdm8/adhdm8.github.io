@@ -43,6 +43,7 @@ If a task involves time, you must use an **external timing device**.
 The sources recommend that you stop "pointing at the future" and instead **"break the future into pieces"**. 
 *   **Shorten the Project:** If a report is due in 30 days, do not treat it as a 30-day project. Create **daily quotas**. 
 *   **Contiguous Elements:** By making the event, your response, and the outcome closer together (like a video game), you bypass the need for a fully matured frontal lobe.
+*   **Multi-Step Events:** Trips are the classic time-blindness trap: a far-off date with dozens of small deadlines. Our [ADHD travel planning guide](/posts/adhd-travel-planning-guide/) breaks one down into pieces you can actually act on.
 
 #### **3. Externalize Your Working Memory**
 Your brain’s "management system" is easily overwhelmed. Offload that burden:

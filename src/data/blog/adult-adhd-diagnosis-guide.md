@@ -43,7 +43,7 @@ In short: the hyperactivity has often moved from your legs into your mind.
 Getting a diagnosis can feel like navigating a labyrinth. Knowing the path ahead can help lower the anxiety of the unknown.
 
 #### 1. The Self-Discovery Phase
-Most journeys start with a "lightbulb moment." You might find yourself using self-report scales, like the **ASRS (Adult ADHD Self-Report Scale)**, to see if your experiences align with common clinical patterns. These aren't a diagnosis, but they are a powerful way to say, *"Hey, this looks like me."* If you haven't already, you can [take the ASRS-6 screener](/posts/adhd-quiz-for-adults-self-screening-test/) yourself in about two minutes.
+Most journeys start with a "lightbulb moment." You might find yourself using self-report scales, like the **ASRS (Adult ADHD Self-Report Scale)**, to see if your experiences align with common clinical patterns. These aren't a diagnosis, but they are a powerful way to say, *"Hey, this looks like me."* If you haven't already, you can [take the ASRS-6 screener](/posts/adhd-quiz-for-adults-self-screening-test/) yourself in about two minutes. Clinicians often follow up with longer rating scales; here's what [Dr. Russell Barkley's BAARS-IV and BDEFS](/posts/dr-russell-barkley-adhd-quiz-baars-bdefs-explained/) actually measure.
 
 #### 2. The Clinical Gatekeepers
 You'll typically need to meet with a professional—a psychiatrist, a psychologist, or a GP with specialized training. They won't just ask "do you lose things?"; they will look at your life through a clinical lens.
@@ -73,7 +73,7 @@ If you've tried to seek help before and felt unheard, there's a good reason for 
 Many adults—especially high-achievers—have spent years developing "masks." You might use extreme rigidity, over-scheduling, or sheer anxiety to force yourself to function. To a clinician, you might look "fine," but they don't see the massive amount of energy it takes to maintain that mask.
 
 **The Gender Gap**
-Historically, ADHD research was heavily skewed toward hyperactive boys. This means many women and non-binary individuals, who often present with more "inattentive" symptoms, are frequently misdiagnosed with anxiety or depression. See our [ADHD test for women](/posts/adhd-test-for-women-self-screening-guide/) for a screener built around how symptoms actually show up in women.
+Historically, ADHD research was heavily skewed toward hyperactive boys. This means many women and non-binary individuals, who often present with more "inattentive" symptoms, are frequently misdiagnosed with anxiety or depression. See our [ADHD test for women](/posts/adhd-test-for-women-self-screening-guide/) for a screener built around how symptoms actually show up in women, and our [inattentive ADHD quiz](/posts/inattentive-adhd-quiz-for-adults/) for the symptoms most tests skip.
 
 **The Comorbidity Trap**
 ADHD rarely travels alone. It often brings friends like Anxiety and Depression. It is incredibly common for a clinician to treat the mood disorder while completely missing the underlying ADHD that is driving the chaos (much like how [sleep hygiene](/posts/adhd-and-sleep-hygiene-science-backed-guide/) issues often overlap with ADHD symptoms).

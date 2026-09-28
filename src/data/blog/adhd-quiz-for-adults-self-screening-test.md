@@ -82,7 +82,7 @@ A "do I have ADHD" quiz score is a **screening signal, not a verdict**. Here's h
 
 However your quiz turned out, the next step is the same: talk to a professional who can look at your full history, not just six data points. Our [Adult ADHD Diagnosis Guide](/posts/adult-adhd-diagnosis-guide/) walks through exactly what that process looks like, from finding the right clinician to what a real diagnostic interview covers.
 
-If you want the bigger clinical picture first, our [comprehensive overview of the ADHD clinical landscape](/posts/understanding-the-clinical-landscape-of-adhd-a-comprehensive-overview/) explains the three presentations of ADHD and how professionals actually differentiate it from anxiety, depression, or plain burnout, all of which can mimic a positive quiz result.
+If you want the bigger clinical picture first, our [comprehensive overview of the ADHD clinical landscape](/posts/understanding-the-clinical-landscape-of-adhd-a-comprehensive-overview/) explains the three presentations of ADHD and how professionals actually differentiate it from anxiety, depression, or plain burnout, all of which can mimic a positive quiz result. If your struggles are mostly quiet ones (drifting, forgetting, losing the thread) rather than restlessness, try the [inattentive ADHD quiz](/posts/inattentive-adhd-quiz-for-adults/) too. And if you're curious what the longer clinician-grade tools look at, we explain [Dr. Russell Barkley's BAARS-IV and BDEFS scales](/posts/dr-russell-barkley-adhd-quiz-baars-bdefs-explained/).
 
 **Pro-tip from ADHD m8**: Bring your actual quiz answers, not just the total score, to your appointment. Clinicians care more about which specific items you scored on than the number itself.
 

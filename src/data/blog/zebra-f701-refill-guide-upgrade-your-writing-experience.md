@@ -59,7 +59,7 @@ If you want the **fountain-pen smoothness** without the fountain-pen fuss, this 
 
 #### The Trade-off
 
-Gel refills write faster, which means they **run out quicker** than ballpoints. Keep a spare on hand. The improved experience is worth the extra cost.
+Gel refills write faster, which means they **run out quicker** than ballpoints. Keep a spare on hand. The improved experience is worth the extra cost. If keeping spares stocked is what actually stings, the [ADHD pen refill hack](/posts/adhd-pen-refill-hack-zebra-f701-budget/) trims a cheap generic cartridge to fit the F-701 for pennies.
 
 ---
 
