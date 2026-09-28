@@ -1,13 +1,8 @@
 # CLAUDE.md
 
-Project instructions live in [AGENTS.md](./AGENTS.md) — read it first for
-project structure, blog post format, SEO/keyword rules, and workflows.
+All project rules live in [AGENTS.md](./AGENTS.md). Read it first, starting
+with **§0 Ground Rules**. Work priorities and the Keyword Registry live in
+[.sisyphus/plans/content-strategy.md](./.sisyphus/plans/content-strategy.md).
 
-The rules below override AGENTS.md where they conflict.
-
-## Publishing new posts
-
-- Do **not** set `draft: true` when creating a new post. Publish with
-  `draft: false` by default.
-- Only use `draft: true` if the user explicitly asks for the post to be
-  left as a draft (e.g. "keep this as a draft", "don't publish yet").
+This file intentionally contains no rules of its own, so the two can't drift
+apart. To add or change a rule, edit AGENTS.md (and tell the user).

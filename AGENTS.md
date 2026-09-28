@@ -3,13 +3,50 @@
 > **Project**: ADHD m8 Blog  
 > **Framework**: Astro v5.16.6 + AstroPaper theme  
 > **Content**: ADHD-focused articles, book reviews, resource guides  
-> **Last Updated**: 2026-04-04
+> **Last Updated**: 2026-09-28
+
+---
+
+## 0. Ground Rules (Read First)
+
+### Which Doc Governs What
+
+| Doc | Role | Contains rules? |
+|---|---|---|
+| `AGENTS.md` (this file) | **How** to work: all writing, SEO, and workflow rules | ✅ The only rulebook |
+| `.sisyphus/plans/content-strategy.md` | **What** to work on: backlog, content hubs, Keyword Registry | ❌ Data and priorities only |
+| `CLAUDE.md` | Pointer to this file for Claude Code | ❌ No rules |
+
+- If two docs disagree, **this file wins**. Fix the other doc instead of working around it.
+- **To change a rule, edit this file.** Don't add override sections to `CLAUDE.md`, and don't write rules into plan files.
+- An explicit instruction from the user in the current conversation overrides any rule here.
+
+### Hard Rules (Never Skip)
+
+1. **Publish by default.** New posts get `draft: false`. Use `draft: true` only when the user explicitly asks, e.g. "keep this as a draft" or "don't publish yet".
+2. **Never change a published post's `slug`.** Merging or removing a post needs a redirect, and redirects need user approval because `astro.config.ts` is locked (see content-strategy.md §3, P1-00).
+3. **Check the Keyword Registry before writing.** Never target a primary keyword another post already owns (content-strategy.md §4).
+4. **Every new post has the required closing structure** (§3 below): `### Key Takeaways` → `### Conclusion` ending with **Next step** → engagement line.
+5. **Never mention comments.** The site has no comment system. Engagement lines point to Instagram.
+6. **Only use approved tags** (§12). Adding a new tag means adding it to the list here first.
+7. **Don't modify** `astro.config.ts`, `src/content.config.ts`, or `src/layouts/` without user approval. Don't add dependencies without asking.
+8. **`pnpm run build` must pass** before any task counts as done. It runs `astro check` and catches frontmatter errors.
+9. **Keep content-strategy.md current.** In the same commit as the work, mark the backlog task `✅` and add or update the post's Keyword Registry row.
+10. **Pushing to `main` publishes the live site** (GitHub Actions → GitHub Pages). Only commit or push when the user asks.
+
+### Commit Message Format
+
+| Change | Format |
+|---|---|
+| New post | `new post: <Post Title>` |
+| Edit existing post(s) | `update post: <slug> - <what changed>` |
+| Strategy/docs/site changes | Short imperative summary, e.g. `add hub links to diagnosis posts` |
 
 ---
 
 ## 1. Project Overview
 
-This is an **Astro-based static blog** using the AstroPaper theme, customized for ADHD-related content. The site is deployed to Cloudflare Pages at `https://www.adhdm8.com/`.
+This is an **Astro-based static blog** using the AstroPaper theme, customized for ADHD-related content. It's deployed to **GitHub Pages** at `https://www.adhdm8.com/` by `.github/workflows/deploy.yml` on every push to `main`. GitHub Pages serves static files only: there are no server-side redirects and `_redirects` files are ignored.
 
 ### Key Characteristics
 - **Audience**: Adults with ADHD, parents, partners, healthcare professionals
@@ -37,7 +74,8 @@ This is an **Astro-based static blog** using the AstroPaper theme, customized fo
 │   └── utils/                 # Helper functions
 ├── public/                    # Static assets (images, favicon)
 └── .sisyphus/
-    └── plans/                 # Content strategy documents
+    └── plans/
+        └── content-strategy.md # The ONLY strategy doc (backlog + Keyword Registry)
 ```
 
 ### Critical Files
@@ -64,7 +102,7 @@ modDatetime: 2026-01-15T10:00:00+08:00  # Same as pubDatetime initially
 title: Your Post Title Here        # Clear, descriptive, SEO-friendly
 slug: your-post-title-here         # URL-friendly version (kebab-case)
 featured: true                     # Show on homepage (true/false)
-draft: false                       # true = unpublished, false = published
+draft: false                       # Always false unless the user explicitly asks for a draft
 tags:
   - adhd                          # Always include "adhd"
   - topic-specific-tag            # See tags list below
@@ -89,14 +127,31 @@ description: "A concise 1-2 sentence summary for SEO and social sharing."
 
 ### Content Formatting Rules
 
-1. **Use H3 (###) for main sections** — H2 is reserved for post title
+1. **Use H3 (`###`) for main sections, H4 (`####`) for sub-sections.** The layout renders the post title as H1, so never use `#` or `##` in the post body.
 2. **Bold key concepts** — Use `**text**` for emphasis
 3. **Bullet points for lists** — Keep items concise
-4. **Include a "Conclusion" section** — Summarize key takeaways
-5. **Add horizontal rules** — Use `---` to separate major sections
-6. **Keep paragraphs short** — 2-4 sentences max for ADHD readers.
-7. **Use "Personality Callouts"** — Use "Pro-tips" or "ADHD m8" callouts to break up heavy text with quick, relatable wins.
-8. **End with engagement prompt** — "What's your experience?" style question to build community.
+4. **Add horizontal rules** — Use `---` to separate major sections
+5. **Keep paragraphs short** — 2-4 sentences max for ADHD readers.
+6. **Use one callout format** for quick, relatable wins, 1-3 per post:
+   `> **Pro-tip from ADHD m8:** ...`
+   Don't invent variants ("ADHD m8 callout", "ADHD m8 Pro-Tip"). Normalize old variants when you touch a post.
+7. **Optional FAQ** — Pillar and guide posts may add `### FAQ: <topic>` with `**Q:** / A:` pairs before Key Takeaways.
+8. **Required closing structure** (in this order, all new posts):
+   1. `### Key Takeaways` — 3-5 bullets, each a self-contained factual claim
+   2. `### Conclusion` — 2-4 sentences, ending with `**Next step**: <one concrete action>`
+   3. `---` then an italic engagement question pointing to Instagram, e.g.
+      `_What's your experience with X? Share it with us on [Instagram](https://instagram.com/adhdm8)._`
+   Never say "in the comments": the site has no comment system.
+
+### Length Targets
+
+| Post type | Words |
+|---|---|
+| Standard post | 1000-1500 |
+| Health / clinical / diagnosis (YMYL) | 1200+ with 3+ authoritative citations |
+| Hub pillar post | 2000+ |
+| Book review | 600+ |
+| Minimum for any published post | 400 |
 
 ### Markdown Features Available
 
@@ -122,15 +177,9 @@ description: "A concise 1-2 sentence summary for SEO and social sharing."
 | **Compassionate** | Acknowledge struggle without falling into toxic positivity. |
 | **The "Mate" Voice** | Use relatable analogies and light humor. Avoid being overly clinical. Be a "digital wanderer" sharing insights, not a lecturer. |
 
-### Content Pillars (Priority Order)
+### Content Hubs and Priorities
 
-1. **Time & Executive Function** — Time blindness, planning, productivity
-2. **ADHD at Work** — Career strategies, workplace accommodations
-3. **Health & Wellness** — Sleep, supplements, exercise, life expectancy
-4. **Driving Safety** — ADHD-specific road safety
-5. **Resources & Reviews** — Books, apps, podcasts, tools
-6. **Clinical & Diagnosis** — Getting diagnosed, medication, coaching
-7. **Relationships** — Dating, family, social life
+Topic hubs and their priority order are defined in **content-strategy.md §2**. They aren't repeated here, so the two docs can't drift apart. Every post belongs to exactly one hub.
 
 ### What NOT to Write
 
@@ -146,24 +195,17 @@ description: "A concise 1-2 sentence summary for SEO and social sharing."
 
 ### Step-by-Step Process
 
-1. **Define keywords first** (see Section 5a) — one primary keyword + 3-5 long-tail keywords
-
-2. **Create file** in `src/data/blog/`
-   - Filename format: `slug-here-kebab-case.md`
-   - Example: `adhd-and-sleep-hygiene-guide.md`
-   - Slug should contain the primary keyword where natural
-
-3. **Add frontmatter** following schema above
-
-4. **Write content** following formatting rules and keyword placement rules
-
-5. **Add tags** from approved list
-
-6. **Set draft: true** initially
-
-7. **Preview locally**: `pnpm run dev`
-
-8. **When ready**: Change `draft: false`
+1. **Pick the task** — next open Phase 2 item in content-strategy.md §3, unless the user named a topic
+2. **Define keywords** (Section 5a) — one primary + 3-5 long-tail; confirm the primary isn't owned in the Keyword Registry (content-strategy.md §4)
+3. **Create file** in `src/data/blog/`
+   - Filename = slug: `slug-here-kebab-case.md`, containing the primary keyword where natural
+4. **Paste the Post Brief** (content-strategy.md §6) as an HTML comment at the top of the body
+5. **Add frontmatter** per the schema above, with `draft: false` (Hard Rule 1) and approved tags only
+6. **Write content** following the formatting rules, closing structure, and keyword placement rules
+7. **Link it in** — 2+ outbound links in the post, **and** add links to it from its hub pillar plus 1+ related post (no new orphans)
+8. **Run the Per-Post SEO Checklist** (Section 7), then delete the brief comment
+9. **Verify**: `pnpm run build` passes (`pnpm run dev` to preview if needed)
+10. **Update content-strategy.md**: task `✅`, Keyword Registry row, post count
 
 ---
 
@@ -197,9 +239,9 @@ description: "A concise 1-2 sentence summary for SEO and social sharing."
 
 ### Before Writing
 
-- Check `.sisyphus/plans/traffic-optimization.md` — Phase 4 ("Keyword Targeting") and Phase 2 ("Content Gaps") list existing target keywords and priorities. Prefer these over inventing new ones from scratch.
-- Avoid duplicating a primary keyword already "owned" by an existing published post (check `src/data/blog/*.md` descriptions/titles) — target a distinct long-tail angle instead to avoid cannibalizing search traffic.
-- Jot the chosen primary + long-tail keyword set as an HTML comment at the top of the draft (e.g. `<!-- keywords: primary: X | long-tail: a, b, c -->`) so it's easy to verify placement before setting `draft: false`, then remove the comment before publishing.
+- Check `.sisyphus/plans/content-strategy.md` — §3 Phase 2 ("New Content Queue") lists the next posts with target keywords. Prefer these over inventing new ones from scratch.
+- Avoid duplicating a primary keyword already "owned" by an existing published post — check the Keyword Registry (§4 of `content-strategy.md`) and target a distinct long-tail angle instead to avoid cannibalizing search traffic.
+- Fill in the Post Brief Template (§6 of `content-strategy.md`) as an HTML comment at the top of the post so it's easy to verify keyword placement and links, then remove the comment before committing.
 
 ### File Naming Convention
 
@@ -224,21 +266,26 @@ Examples:
 
 When updating an existing post:
 
-1. Update `modDatetime` to current time
-2. Add "Updated" note at top if significant changes
-3. Keep original `pubDatetime` unchanged
-4. Update content while preserving URL (don't change slug)
+1. Update `modDatetime` to current time (keep `pubDatetime` unchanged)
+2. Add an "Updated" note at the top if the changes are significant
+3. Never change the slug (Hard Rule 2)
+4. While you're in the file, bring it up to current rules. Many older posts predate them:
+   - Replace any "in the comments" wording with the Instagram engagement line
+   - Normalize callouts to `> **Pro-tip from ADHD m8:**`
+   - Replace unapproved tags (`books` → `book-review`, drop `safety`)
+   - For significant edits, add missing `### Key Takeaways` / `### Conclusion`
+5. Don't rewrite the post's primary-keyword focus unless the backlog task says to
 
 ### Content Strategy Documents
 
-Located in `.sisyphus/plans/`:
-- `traffic-optimization.md` — SEO and content gap analysis
+`.sisyphus/plans/content-strategy.md` is the **single** strategy doc — don't create additional plan files. It contains:
+- §0 How agents pick and record work
+- §2 Content hubs (every post belongs to one)
+- §3 Prioritized backlog with "done when" criteria
+- §4 Keyword Registry (which post owns which keyword)
+- §6 Post brief template
 
-Reference these for:
-- Target keywords
-- Content gaps to fill
-- Internal linking opportunities
-- Publishing calendar
+When you finish a backlog task or publish a post, update the doc in the same commit (task status + Keyword Registry row).
 
 ---
 
@@ -246,14 +293,17 @@ Reference these for:
 
 ### Per-Post SEO Checklist
 
-- [ ] Primary ADHD keyword defined (see Section 5a) and present in title, slug, description, first paragraph, and 1+ H3
+- [ ] Primary ADHD keyword defined (see Section 5a), not owned by another post in the Keyword Registry, and present in title, slug, description, first paragraph, and 1+ H3
 - [ ] 3-5 long-tail keywords defined and distributed naturally across H3 headings/body
 - [ ] Descriptive title (50-60 characters)
 - [ ] Compelling description (150-160 characters)
-- [ ] At least 2 internal links to other posts
-- [ ] At least 1 external link to authoritative source
+- [ ] At least 2 internal links **out** to other posts
+- [ ] At least 2 internal links **in** from other posts (hub pillar + 1 related)
+- [ ] At least 1 external link to an authoritative source (3+ for health/clinical)
+- [ ] Heading hierarchy: H3 sections, H4 sub-sections, no H1/H2 in body
+- [ ] Closing structure present: Key Takeaways → Conclusion + Next step → Instagram engagement line
+- [ ] No "comments" wording, `draft: false`, approved tags only
 - [ ] Image with alt text (optional but recommended)
-- [ ] Proper heading hierarchy (H3 for sections)
 
 ### Site-Wide SEO
 
@@ -309,9 +359,10 @@ pnpm run sync             # Sync Astro content types
 
 ### When to Run Commands
 
-- **After adding/modifying posts**: `pnpm run build` to verify
-- **Before committing**: `pnpm run lint && pnpm run format`
+- **After adding/modifying posts**: `pnpm run build` to verify (required, Hard Rule 8)
+- **Before committing**: format only the files you touched: `pnpm exec prettier --write <files>`. Don't run `pnpm run format`, which rewrites the whole repo and buries your change in unrelated diffs.
 - **Content type errors**: `pnpm run sync`
+- **Dependencies**: CI uses pnpm, but the deploy workflow installs with **npm** (`package-lock.json`). If the user approves a dependency change, update both lockfiles.
 
 ---
 
@@ -319,41 +370,34 @@ pnpm run sync             # Sync Astro content types
 
 ### Task: Write a New Blog Post
 
-1. Check `.sisyphus/plans/traffic-optimization.md` for content gaps
-2. Choose a target keyword from the "Keyword Targeting" section
-3. Create file in `src/data/blog/`
-4. Follow frontmatter schema exactly
-5. Write 800-1500 words following content guidelines
-6. Include 3+ actionable takeaways
-7. Add internal links to 2+ existing posts
-8. Set `draft: false` when complete
-9. Run `pnpm run build` to verify
+Every task ends the same way: `pnpm run build` passes, then content-strategy.md is updated (Hard Rules 8-9).
+
+### Task: Write a New Blog Post
+
+Follow the 10 steps in Section 5.
 
 ### Task: Update Existing Post
 
-1. Read current content
-2. Identify outdated information
-3. Update `modDatetime`
-4. Add new information
-5. Maintain existing slug and URL
-6. Verify internal links still work
+Follow Section 6 ("Updating Posts"), then verify its internal links still resolve.
 
-### Task: Create Content Pillar
+### Task: Work a Backlog Item
 
-1. Identify pillar topic from strategy doc
-2. Create main pillar post (comprehensive guide, 2000+ words)
-3. Plan 3-5 supporting posts
-4. Link supporting posts to pillar
-5. Link pillar to supporting posts
-6. Update both posts with cross-links
+1. Open content-strategy.md §3 and take the lowest-numbered open task in the earliest open phase
+2. Mark it `🔄`, do the work, and check its "Done when" condition literally
+3. Mark it `✅`. If you're blocked on a user decision, mark it `⏸ (reason)` and ask the user
 
-### Task: SEO Optimization
+### Task: Create a Hub Pillar Post
 
-1. Review posts missing descriptions
-2. Check for missing internal links
-3. Identify orphan pages (no internal links)
-4. Update meta descriptions
-5. Add related post suggestions
+1. Find the hub and its member posts in content-strategy.md §2 and §4
+2. Write the pillar (2000+ words) as a guide that links to **every** member post
+3. Add a link back to the pillar in every member post
+4. Record the pillar slug in content-strategy.md §2
+
+### Task: SEO Audit
+
+1. Run the orphan check command in content-strategy.md §1
+2. Check posts against the Per-Post SEO Checklist (Section 7)
+3. Record findings as new backlog tasks in content-strategy.md §3 rather than fixing everything ad hoc
 
 ---
 
@@ -388,7 +432,7 @@ pnpm run sync             # Sync Astro content types
 - **Astro Docs**: https://docs.astro.build/
 - **AstroPaper Theme**: https://github.com/satnaing/astro-paper
 - **Site**: https://www.adhdm8.com/
-- **Content Strategy**: `.sisyphus/plans/traffic-optimization.md`
+- **Content Strategy**: `.sisyphus/plans/content-strategy.md`
 
 ---
 
@@ -411,16 +455,20 @@ tags:
 description: "A concise description for SEO."
 ---
 
-Opening hook paragraph. Keep it engaging.
+Opening hook paragraph containing the **primary keyword**. Keep it engaging.
 
 ---
 
-### Section One
+### Section One (answer-first: restate the subject in the first sentence)
 
 Content here. **Bold important concepts**.
 
 - Bullet point one
 - Bullet point two
+
+> **Pro-tip from ADHD m8:** A quick, relatable win.
+
+---
 
 ### Section Two
 
@@ -428,15 +476,23 @@ More content.
 
 ---
 
-### Conclusion
+### Key Takeaways
 
-Summarize key takeaways.
-
-**Next step**: Actionable item for reader.
+- Self-contained factual claim one
+- Self-contained factual claim two
+- Self-contained factual claim three
 
 ---
 
-*What's your experience with this? Share in the comments or reach out on [Instagram](https://instagram.com/adhdm8).*
+### Conclusion
+
+Two to four sentences tying it together.
+
+**Next step**: One concrete action for the reader.
+
+---
+
+_What's your experience with this? Share it with us on [Instagram](https://instagram.com/adhdm8)._
 ```
 
 ### Approved Tags Reference
