@@ -58,7 +58,7 @@ If **time blindness** sounds familiar, that maps directly onto the "self-managem
 
 No, not a legitimate one. Both the BAARS-IV and the BDEFS are copyrighted, commercially published assessment instruments, sold as scoring kits through Guilford Press and psychological test publishers, and they're intended to be administered and interpreted by a clinician or researcher, not scored casually online. Any site offering an "official Barkley ADHD test" for free with an instant score is, at best, a paraphrased imitation, and at worst, a lead-generation quiz with no real connection to Barkley's published work.
 
-That doesn't mean the *framework* is useless to you without paying for the scale. You can still reflect honestly on the same five executive function domains the BDEFS was built around; you just won't get a validated, normed score out of it the way a clinician administering the real instrument would.
+That doesn't mean the _framework_ is useless to you without paying for the scale. You can still reflect honestly on the same five executive function domains the BDEFS was built around; you just won't get a validated, normed score out of it the way a clinician administering the real instrument would.
 
 ---
 
@@ -102,4 +102,4 @@ The real value in Barkley's work isn't a quiz you can screenshot your score from
 
 ---
 
-*Which of the five executive function domains hits closest to home for you? Share your experience, or reach out on [Instagram](https://instagram.com/adhdm8).*
+_Which of the five executive function domains hits closest to home for you? Share your experience, or reach out on [Instagram](https://instagram.com/adhdm8)._

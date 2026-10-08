@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "Privacy Policy"
 ---
 
-*Last updated: July 26, 2026*
+_Last updated: July 26, 2026_
 
 ADHD m8 ("we," "us," or "this site") respects your privacy. This page explains what information is collected when you visit **adhdm8.com**, how it's used, and what choices you have.
 

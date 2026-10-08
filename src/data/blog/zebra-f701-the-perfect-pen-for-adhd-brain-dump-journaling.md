@@ -27,6 +27,7 @@ Enter the [Zebra Pen F-701](https://amzn.to/4cbplRN). This unassuming metal pen 
 The ADHD brain is **interest-driven** and **friction-sensitive**. Small obstacles that neurotypical brains ignore become complete blockers.
 
 A pen that:
+
 - **Skips or smudges** → creates frustration, breaks flow
 - **Feels flimsy** → subconsciously signals that your thoughts are not worth capturing
 - **Has a distracting click mechanism** → becomes a fidget toy instead of a writing tool
@@ -69,11 +70,13 @@ The **knurled metal grip** provides tactile feedback without being aggressive. Y
 Pair the [Zebra F-701](https://amzn.to/4cbplRN) with a simple system that works for your brain:
 
 **The Capture Phase (No Filters)**
+
 - Keep the pen attached to your notebook with a pen loop or clip
 - Write everything: random thoughts, tasks, worries, ideas
 - Do not organize. Do not judge. Just dump
 
 **The Review Phase (Once Daily)**
+
 - Circle actionable items
 - Cross out noise
 - Star insights worth keeping
@@ -86,13 +89,13 @@ The F-701's **consistent ink flow** means you never pause mid-sentence to scribb
 
 You could spend $50+ on a "premium" pen. The F-701 costs under $10 and outperforms most of them for ADHD use cases.
 
-| Feature | Cheap Plastic Pen | Fancy Pen | Zebra F-701 |
-|---------|------------------|-----------|-------------|
-| Durability | Breaks in weeks | Requires care | Indestructible |
-| Distraction Level | High (clicky, fragile) | Medium (precious) | Low (just works) |
-| Replacement Cost | Frequent | Expensive | Cheap refills |
-| Tactile Feedback | None | Variable | Excellent |
-| Losability | High | High | Low (clip + weight) |
+| Feature           | Cheap Plastic Pen      | Fancy Pen         | Zebra F-701         |
+| ----------------- | ---------------------- | ----------------- | ------------------- |
+| Durability        | Breaks in weeks        | Requires care     | Indestructible      |
+| Distraction Level | High (clicky, fragile) | Medium (precious) | Low (just works)    |
+| Replacement Cost  | Frequent               | Expensive         | Cheap refills       |
+| Tactile Feedback  | None                   | Variable          | Excellent           |
+| Losability        | High                   | High              | Low (clip + weight) |
 
 The F-701 hits the **sweet spot**: quality construction without preciousness. It is a tool, not a treasure. If you lose it, you replace it without guilt. And if you burn through refills, the [ADHD pen refill hack](/posts/adhd-pen-refill-hack-zebra-f701-budget/) keeps it running for pennies.
 
@@ -146,4 +149,4 @@ At under $10, it is the cheapest productivity upgrade you can make to your analo
 
 ---
 
-*What pen do you use for your ADHD brain dumps? Share your setup in the comments or tag us on [Instagram](https://instagram.com/adhdm8).*
+_What pen do you use for your ADHD brain dumps? Share your setup in the comments or tag us on [Instagram](https://instagram.com/adhdm8)._

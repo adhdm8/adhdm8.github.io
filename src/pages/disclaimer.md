@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "Disclaimer"
 ---
 
-*Last updated: July 26, 2026*
+_Last updated: July 26, 2026_
 
 ### Not Medical Advice
 
@@ -44,4 +44,4 @@ Strategies, tools, and products discussed on this site have worked for some peop
 
 Questions about this disclaimer? Reach out at [adhd.mate8@gmail.com](mailto:adhd.mate8@gmail.com).
 
-*See also: our [Privacy Policy](/privacy-policy/).*
+_See also: our [Privacy Policy](/privacy-policy/)._

@@ -12,7 +12,7 @@ tags:
 description: "Book review: Your Brain's Not Broken by Dr. Tamara Rosier tackles ADHD and emotional regulation head-on, with practical tools like the Solve-It Grid."
 ---
 
-In a landscape where ADHD is often reduced to clinical checklists of inattention and hyperactivity, Dr. Tamara Rosier’s book, ***Your Brain's Not Broken: Strategies for Navigating Your Emotions and Life with ADHD***, emerges as a compassionate and practical guide for those struggling with the condition. Dr. Rosier, who lives with ADHD herself, seeks to talk directly to the individuals who feel overwhelmed and trapped by self-loathing. Her central message is that an ADHD brain is not incomplete or "wrong"; it is simply **wired differently**, presenting unique challenges that require a unique set of tools.
+In a landscape where ADHD is often reduced to clinical checklists of inattention and hyperactivity, Dr. Tamara Rosier’s book, **_Your Brain's Not Broken: Strategies for Navigating Your Emotions and Life with ADHD_**, emerges as a compassionate and practical guide for those struggling with the condition. Dr. Rosier, who lives with ADHD herself, seeks to talk directly to the individuals who feel overwhelmed and trapped by self-loathing. Her central message is that an ADHD brain is not incomplete or "wrong"; it is simply **wired differently**, presenting unique challenges that require a unique set of tools.
 
 ![book cover](../../assets/images/Your%20brain%20is%20not%20borken.jpg)
 Buy here: https://amzn.to/4qhBM3j

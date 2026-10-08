@@ -35,6 +35,7 @@ ADHD brings unique strengths to relationships: enthusiasm, creativity, hyperfocu
 When you say "I'll be ready in 10 minutes," you genuinely believe it. But your brain's internal clock cannot accurately measure time passing. An hour might feel like 20 minutes. This isn't disrespect — it's a perceptual deficit called **time blindness**. Learn more about why ADHD brains struggle with temporal awareness in [The Mystery of Time Blindness](/posts/the-mystery-of-time-blindness-why-the-adhd-brain-struggles-with-the-future/).
 
 **Impact on relationships:**
+
 - Repeatedly arriving late (even for casual hangouts)
 - Missing anniversaries, birthdays, or appointments
 - Underestimating how long shared tasks will take
@@ -45,6 +46,7 @@ When you say "I'll be ready in 10 minutes," you genuinely believe it. But your b
 RSD is an intense emotional response to perceived rejection or criticism. With ADHD, your brain amplifies neutral cues into threats. A partner sighing because they're tired gets interpreted as "they're mad at me." A request to do chores feels like "they think I'm a failure."
 
 This leads to:
+
 - Defensive reactions before your partner finishes speaking
 - Assuming the worst when communication is ambiguous
 - Avoiding difficult conversations to prevent emotional pain
@@ -55,6 +57,7 @@ This leads to:
 You might look like you're listening — eyes on face, nodding — but your brain has already jumped three topics ahead. Or you're stuck on one detail from five minutes ago, missing the rest. This isn't disinterest. It's attention fragmentation.
 
 **Your partner experiences this as:**
+
 - Having to repeat themselves
 - Feeling unheard or unimportant
 - Conversations feeling one-sided (you dominate with tangent after tangent)
@@ -98,12 +101,14 @@ This isn't about blame. It's about recognizing that both of you are navigating a
 Your brain cannot reliably manage internal systems. So build external prosthetics:
 
 **1. Shared Digital Command Center**
+
 - Use a couples app like **Coupler** or a shared **Google Calendar** for ALL dates, chores, and commitments
 - Add recurring reminders with alerts 1 day AND 1 hour before
 - Color-code events by category (red for appointments, blue for social, green for chores)
 - Every morning, review the calendar together for 2 minutes
 
 **2. Physical Task Board**
+
 - Whiteboard or sticky note system visible near kitchen or office
 - Four columns: To Do, In Progress, Waiting For, Done
 - Write every task physically — "buy milk," "call mom," "schedule oil change"
@@ -111,6 +116,7 @@ Your brain cannot reliably manage internal systems. So build external prosthetic
 
 **3. The "Pause Before Respond" Rule**
 When your partner brings up an issue:
+
 - **Step 1:** Say "I need 10 minutes to process this"
 - **Step 2:** Actually take 10 minutes (set timer)
 - **Step 3:** Write your response on paper, then read it back
@@ -119,6 +125,7 @@ When your partner brings up an issue:
 This interrupts the RSD automatic-defense pathway.
 
 **4. Scheduled Check-ins**
+
 - 20-minute weekly "state of the union" every Sunday
 - Agenda: What went well? What's bothering you? One thing I need from you
 - Keep it structured; no blame language
@@ -154,6 +161,7 @@ ADHD impacts intimacy in often-overlooked ways:
 - **Novelty seeking:** Risk of seeking dopamine through risky sexual behavior
 
 **Solutions:**
+
 - Schedule intimacy if needed — removes pressure and builds anticipation
 - Use sensory grounding techniques during sex (focus on touch, temperature, breath)
 - Keep foreplay simple and structured if distraction is an issue
@@ -176,6 +184,7 @@ If meds reduce libido or emotional range, discuss with prescriber. Sometimes for
 ### Parenting with an ADHD Partner (or ADHD Parents)
 
 If you're co-parenting:
+
 - **Divide responsibilities by strength.** ADHD partner handles dynamic, engaging activities (playground, creative projects, reading stories with voices). Non-ADHD handles routine, repetitive tasks (bedtime routine, meals, laundry).
 - **Visual chore charts** for kids AND adults
 - **Tag-team discipline**: One handles the emotion, the other enforces consequences
@@ -186,6 +195,7 @@ If you're co-parenting:
 ### What About Divorce Rates?
 
 Studies show ADHD increases divorce risk by nearly **double** compared to neurotypical couples — but this is a statistic, not a destiny. The key predictors aren't ADHD itself, but:
+
 - Undiagnosed/unmanaged symptoms
 - Resentment from uneven domestic load
 - Communication breakdown
@@ -200,6 +210,7 @@ With proper systems and mutual understanding, ADHD couples can and do thrive.
 **Normal ADHD friction:** Forgetting dates, getting distracted during conversations, losing track of time, emotional intensity, impulsive purchases
 
 **Potential red flags that need professional help:**
+
 - Consistent patterns of lying or hiding problems
 - Financial recklessness that jeopardizes security
 - Emotional or verbal abuse (RSD is NOT an excuse)
@@ -246,4 +257,4 @@ Don't overhaul everything. Start with one:
 
 ---
 
-*What's your biggest relationship challenge with ADHD? Have you found strategies that actually work? Share in the comments or connect on [Instagram](https://instagram.com/adhdm8).*
+_What's your biggest relationship challenge with ADHD? Have you found strategies that actually work? Share in the comments or connect on [Instagram](https://instagram.com/adhdm8)._

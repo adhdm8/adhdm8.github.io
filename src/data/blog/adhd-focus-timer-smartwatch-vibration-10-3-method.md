@@ -93,4 +93,4 @@ The 10-3 method isn't magic, and it won't work identically for every ADHD brain 
 
 ---
 
-*What interval length works for your brain? Share what you've tried, or reach out on [Instagram](https://instagram.com/adhdm8).*
+_What interval length works for your brain? Share what you've tried, or reach out on [Instagram](https://instagram.com/adhdm8)._

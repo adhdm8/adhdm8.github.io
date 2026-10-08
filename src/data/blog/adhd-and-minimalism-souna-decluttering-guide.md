@@ -14,7 +14,7 @@ description: "ADHD and minimalism can be a powerful combination, but only if you
 
 Every flat surface in your home has become a landing pad for things you'll "deal with later," and the sheer visual noise of it is exhausting before you've even tried to clean any of it up. **ADHD and minimalism** get recommended together constantly, and for good reason, but most minimalism advice was written by and for people whose brains work differently from yours, and following it literally can quietly make your ADHD worse instead of better.
 
-This is especially relevant if you've come across **收納** (pronounced *shōunà* in Mandarin, *sau1 naap6* in Cantonese), the Japanese-originated storage and organizing culture that's massive across Hong Kong, Taiwan, and Japan, all beautiful drawer dividers, labeled boxes, and everything tucked out of sight. It's genuinely useful, but there's one specific way it can backfire for ADHD brains that most guides never mention.
+This is especially relevant if you've come across **收納** (pronounced _shōunà_ in Mandarin, _sau1 naap6_ in Cantonese), the Japanese-originated storage and organizing culture that's massive across Hong Kong, Taiwan, and Japan, all beautiful drawer dividers, labeled boxes, and everything tucked out of sight. It's genuinely useful, but there's one specific way it can backfire for ADHD brains that most guides never mention.
 
 **Pro-tip from ADHD m8**: If you've bought organizing boxes before and they're now sitting empty, unused, or buried under more clutter, that's not a personal failure. It's a mismatch between the system and how your brain actually works, and it's fixable.
 
@@ -103,4 +103,4 @@ Most likely the system moved frequently used items out of your direct line of si
 
 ---
 
-*Has 收納-style organizing worked for you, or backfired the same way? Share your experience, or reach out on [Instagram](https://instagram.com/adhdm8).*
+_Has 收納-style organizing worked for you, or backfired the same way? Share your experience, or reach out on [Instagram](https://instagram.com/adhdm8)._
