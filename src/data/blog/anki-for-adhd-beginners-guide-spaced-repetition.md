@@ -164,7 +164,7 @@ The goal is a system that survives a bad week, the same principle behind the [po
 
 ### Conclusion
 
-Anki won't fix ADHD, but it takes a few of the hardest parts of learning off your plate: deciding what to revise and remembering to revise it. Keep the cards small, the sessions short, and the rules forgiving.
+Anki won't fix ADHD, but it takes a few of the hardest parts of learning off your plate: deciding what to revise and remembering to revise it. Keep the cards small, the sessions short, and the rules forgiving. For cards that stick even better, try writing them with [ADHD mnemonics](/posts/adhd-mnemonics-memory-tricks-that-stick/).
 
 **Next step**: Install Anki, make three cards from something you learned today, and do one two-minute review tomorrow morning.
 

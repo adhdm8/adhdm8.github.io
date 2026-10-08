@@ -71,7 +71,7 @@ The right tool removes friction between you and the next page, not adds another 
 - **Library apps with audiobooks** (like Libby) remove the cost barrier to trying a format switch on a book you're already stuck on.
 - **Text-to-speech tools** can read ebooks or articles aloud, useful for nonfiction or dense material where your eyes keep sliding off the page.
 - **A dedicated, visible bookmark or sticky note tab**, rather than relying on memory or a phone note, so picking the book back up doesn't require a search first.
-- **Spaced repetition flashcards** (like Anki) turn the two or three ideas you want to keep from a chapter into cards, so they don't fade two weeks later. Our [Anki for ADHD guide](/posts/anki-for-adhd-beginners-guide-spaced-repetition/) shows a 5-minute setup.
+- **Spaced repetition flashcards** (like Anki) turn the two or three ideas you want to keep from a chapter into cards, so they don't fade two weeks later. Our [Anki for ADHD guide](/posts/anki-for-adhd-beginners-guide-spaced-repetition/) shows a 5-minute setup, and [ADHD mnemonics](/posts/adhd-mnemonics-memory-tricks-that-stick/) help the key ideas stick in the first place.
 
 If you want book recommendations that are actually built for ADHD brains rather than generic productivity reads, our reviews of [The ADHD Advantage](/posts/book-review-ADHD-advantage/) and [Spark](/posts/book-review-spark/) are both short, high-payoff reads to start with.
 

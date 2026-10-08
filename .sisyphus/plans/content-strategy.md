@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-10-08 · **Published posts**: 47
+> **Last reviewed**: 2026-10-08 · **Published posts**: 48
 
 ---
 
@@ -186,6 +186,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-pen-refill-hack-zebra-f701-budget` | ADHD pen refill hack | tools |
 | `adhd-task-capture-pocket-pen-system-zebra-f701` | ADHD task capture | tools |
 | `anki-for-adhd-beginners-guide-spaced-repetition` | Anki for ADHD | tools |
+| `adhd-mnemonics-memory-tricks-that-stick` | ADHD mnemonics | tools |
 | `pilot-fineliner-review-best-felt-tip-pen-for-adhd` | best pen for ADHD | tools |
 | `beyond-the-diagnosis-a-summary-of-gabor-mats-scattered` | Scattered Gabor Maté review | books |
 | `embracing-the-divergent-mind-a-review-of-your-brains-not-broken` | Your Brain's Not Broken review | books |
