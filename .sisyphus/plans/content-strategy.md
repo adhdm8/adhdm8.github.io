@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-10-08 · **Published posts**: 48
+> **Last reviewed**: 2026-10-08 · **Published posts**: 49
 
 ---
 
@@ -105,7 +105,7 @@ starting points — confirm against GSC once P0-02 is done.
 
 | ID | Primary keyword | Hub | Suggested long-tails | Status |
 |---|---|---|---|---|
-| P2-01 | ADHD medication for adults | focus | what to expect starting ADHD medication; stimulant vs non-stimulant ADHD; ADHD medication side effects adults | ⬜ |
+| P2-01 | ADHD medication for adults | focus | what to expect starting ADHD medication; stimulant vs non-stimulant ADHD; ADHD medication side effects adults | ✅ 2026-10-08 |
 | P2-02 | ADHD paralysis | time | why do I freeze with ADHD; how to get unstuck ADHD paralysis; ADHD task paralysis vs procrastination | ⬜ |
 | P2-03 | ADHD and anxiety | diagnosis | ADHD or anxiety how to tell; ADHD anxiety depression overlap adults; treating ADHD with anxiety | ⬜ |
 | P2-04 | rejection sensitive dysphoria ADHD | health | RSD symptoms adults; how to cope with RSD; RSD in relationships ADHD | ⬜ |
@@ -157,6 +157,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-and-how-anyone-can-improve-their-focus` | improve focus ADHD | focus |
 | `adhd-focus-timer-smartwatch-vibration-10-3-method` | ADHD focus timer | focus |
 | `body-doubling-for-adhd-best-apps-and-how-it-works` | body doubling ADHD | focus |
+| `adhd-medication-for-adults-what-to-expect-guide` | ADHD medication for adults | focus |
 | `understanding-the-clinical-landscape-of-adhd-a-comprehensive-overview` | ADHD treatment overview | focus |
 | `fueling-the-adhd-brain-a-science-backed-guide-to-supplements` | ADHD supplements | focus |
 | `adult-adhd-diagnosis-guide` | adult ADHD diagnosis | diagnosis |

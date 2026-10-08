@@ -83,7 +83,7 @@ A: The tools themselves don't change, but the baseline capacity you're applying 
 
 Medication and behavioral tools keep getting framed as a choice, but the research doesn't actually support treating them that way. One changes what your attention is capable of; the other determines whether that capability gets used on the right thing at the right moment. Most people struggling with focus, on medication or off it, are missing one half of that pair, not failing at the whole thing.
 
-**Next step**: If you're on medication and still hitting focus problems, add one externalized system, a visible timer, a task list, a body double, before assuming the medication itself needs to change. If you're using behavioral tools alone and still stalling out, that's worth raising with a prescriber as a data point, not a failure.
+**Next step**: New to medication? Read our [ADHD medication for adults guide](/posts/adhd-medication-for-adults-what-to-expect-guide) first. If you're on medication and still hitting focus problems, add one externalized system, a visible timer, a task list, a body double, before assuming the medication itself needs to change. If you're using behavioral tools alone and still stalling out, that's worth raising with a prescriber as a data point, not a failure.
 
 ---
 

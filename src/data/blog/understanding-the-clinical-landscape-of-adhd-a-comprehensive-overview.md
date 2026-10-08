@@ -32,7 +32,7 @@ Diagnosis is a subjective clinical process rather than one based on a single bio
 
 #### Management and Modern Treatments
 A multifaceted approach is typically recommended for managing ADHD, often combining medication with behavioral therapy.
-*   **Medication:** Stimulants like **methylphenidate and amphetamines** are considered first-line treatments because they increase neurotransmitter activity in the prefrontal cortex. Non-stimulants such as **atomoxetine (Strattera)** and **viloxazine** are also used, particularly for those at risk of substance misuse.
+*   **Medication:** Stimulants like **methylphenidate and amphetamines** are considered first-line treatments because they increase neurotransmitter activity in the prefrontal cortex. Non-stimulants such as **atomoxetine (Strattera)** and **viloxazine** are also used, particularly for those at risk of substance misuse. For a practical walkthrough of what starting treatment feels like, see [ADHD medication for adults](/posts/adhd-medication-for-adults-what-to-expect-guide).
 *   **Behavioral Interventions:** These are the recommended first-line treatment for preschool-aged children and include parent management training and cognitive-behavioral therapy.
 *   **Digital Therapeutics:** Recent innovations include **FDA-authorized video game-based treatments**, such as EndeavourRx, which have shown significant efficacy in improving objective measures of attention in both children and adults.
 
