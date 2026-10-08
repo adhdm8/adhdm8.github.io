@@ -184,6 +184,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `zebra-f701-the-perfect-pen-for-adhd-brain-dump-journaling` | Zebra F-701 ADHD | tools |
 | `zebra-f701-refill-guide-upgrade-your-writing-experience` | Zebra F-701 refill | tools |
 | `adhd-pen-refill-hack-zebra-f701-budget` | ADHD pen refill hack | tools |
+| `adhd-task-capture-pocket-pen-system-zebra-f701` | ADHD task capture | tools |
 | `pilot-fineliner-review-best-felt-tip-pen-for-adhd` | best pen for ADHD | tools |
 | `beyond-the-diagnosis-a-summary-of-gabor-mats-scattered` | Scattered Gabor Maté review | books |
 | `embracing-the-divergent-mind-a-review-of-your-brains-not-broken` | Your Brain's Not Broken review | books |

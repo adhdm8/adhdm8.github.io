@@ -118,7 +118,7 @@ The F-701 excels in these ADHD-specific scenarios:
 - **Brain dumps**: Emptying your mental cache before bed
 - **Meeting notes**: Capturing information without digital distractions
 - **Bullet journaling**: The tactile feedback enhances the migration ritual
-- **Pocket carry**: Clip it to your pocket and forget it until you need it
+- **Pocket carry**: Clip it to your pocket and forget it until you need it. See the [ADHD task capture pocket pen system](/posts/adhd-task-capture-pocket-pen-system-zebra-f701/) for how to set this up
 
 ---
 
