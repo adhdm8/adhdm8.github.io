@@ -165,6 +165,8 @@ const structuredData = {
     >
       {
         window.dataLayer = window.dataLayer || [];
+        // GA requires the `arguments` object itself, not a rest-param array
+        // eslint-disable-next-line prefer-rest-params
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', 'G-LWP7W6YYF1');
