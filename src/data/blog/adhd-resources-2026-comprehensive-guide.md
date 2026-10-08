@@ -47,6 +47,7 @@ Digital is not always better. For many ADHD brains, pen and paper remain the gol
 - **For journaling & brain dumps**: The Zebra F-701 pen (with specific refill recommendations) - see my [Zebra F-701 guide](/posts/zebra-f701-the-perfect-pen-for-adhd-brain-dump-journaling/) and [refill upgrade guide](/posts/zebra-f701-refill-guide-upgrade-your-writing-experience/)
 - **For time management**: Paper calendars, wall whiteboards, and visual timers (Time Timer, WatchMinder vibrating watch). See my deep dive [why analog often beats digital](/posts/the-paper-brain-why-analog-tools-work-better-for-adhd/)
 - **For task management**: Bullet journaling, sticky notes systems, Kanban boards. Same deep dive above covers these. For catching tasks the moment they appear, see the [ADHD task capture pocket pen system](/posts/adhd-task-capture-pocket-pen-system-zebra-f701/).
+- **For learning and remembering**: Anki, a free spaced repetition flashcard app that schedules revision for you. See my [beginner's guide to Anki for ADHD](/posts/anki-for-adhd-beginners-guide-spaced-repetition/).
 
 The rule: Use analog when you need focus without notification dopamine hits. Use digital when you need automation, reminders, or aggregation.
 
