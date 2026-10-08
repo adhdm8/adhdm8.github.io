@@ -104,4 +104,4 @@ ADHD time estimation will probably never feel effortless. But with deliberate pr
 
 ---
 
-*Which of these drills are you going to try first? Let us know how it goes, or share your own time estimation hacks, on [Instagram](https://instagram.com/adhdm8).*
+_Which of these drills are you going to try first? Let us know how it goes, or share your own time estimation hacks, on [Instagram](https://instagram.com/adhdm8)._

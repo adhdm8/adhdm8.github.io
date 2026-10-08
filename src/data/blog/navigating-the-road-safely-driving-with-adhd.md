@@ -20,10 +20,10 @@ For many, driving is a daily necessity, but for those living with **ADHD (Attent
 
 The primary reason ADHD affects driving is its impact on **executive function**, which is the brain's ability to reason, make decisions, and filter out distractions while focusing on a goal. When these abilities are compromised, it can lead to several dangerous scenarios on the road:
 
-*   **Inattention:** This can result in missing road signs, failing to notice speed limit changes, or struggling to concentrate during long trips.
-*   **Impulsivity:** Drivers may overestimate their abilities, take unnecessary risks, or even be more prone to **road rage**.
-*   **Distractibility:** The urge to check devices, multitask, or look away from the road is heightened, making visual, auditory, manual, and cognitive distractions more dangerous.
-*   **Daytime Drowsiness:** High levels of fatigue can cause ADHD drivers to fall asleep at the wheel, especially during multi-hour drives.
+- **Inattention:** This can result in missing road signs, failing to notice speed limit changes, or struggling to concentrate during long trips.
+- **Impulsivity:** Drivers may overestimate their abilities, take unnecessary risks, or even be more prone to **road rage**.
+- **Distractibility:** The urge to check devices, multitask, or look away from the road is heightened, making visual, auditory, manual, and cognitive distractions more dangerous.
+- **Daytime Drowsiness:** High levels of fatigue can cause ADHD drivers to fall asleep at the wheel, especially during multi-hour drives.
 
 These risks aren't just for new drivers; a 2023 study found that adults with ADHD aged 65 to 79 were **102 percent more likely to receive a traffic ticket** and 74 percent more likely to be involved in a crash.
 
@@ -43,9 +43,9 @@ To keep your mind from wandering, try the **active scanning procedure**. This in
 
 **3. Optimize Your Environment**
 
-*   **Silence your phone** and set your GPS and playlist before you even put the car in gear.
-*   Avoid using **cruise control**, as it is associated with a 10 percent increased risk of fatal accidents for those who may lose focus.
-*   Consider a **manual transmission** vehicle, which some studies suggest can be beneficial for keeping ADHD drivers more engaged with the task of driving.
+- **Silence your phone** and set your GPS and playlist before you even put the car in gear.
+- Avoid using **cruise control**, as it is associated with a 10 percent increased risk of fatal accidents for those who may lose focus.
+- Consider a **manual transmission** vehicle, which some studies suggest can be beneficial for keeping ADHD drivers more engaged with the task of driving.
 
 ---
 
@@ -65,4 +65,4 @@ By reducing distractions, leaning on loved ones, and working with medical profes
 
 ---
 
-*Source: [Shamieh Law – How Does ADHD Affect Driving? Tips for Driving Safe](https://shamiehlaw.com/adhd-and-driving/)*
+_Source: [Shamieh Law – How Does ADHD Affect Driving? Tips for Driving Safe](https://shamiehlaw.com/adhd-and-driving/)_

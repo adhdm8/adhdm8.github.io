@@ -51,6 +51,7 @@ Sleep deprivation does not just make you tired. It **amplifies every ADHD defici
 When you sleep poorly, your prefrontal cortex function drops further. Working memory suffers. Emotional regulation crumbles. Impulsivity increases. Attention span shrinks. The stimulant medication that helped yesterday suddenly feels less effective today.
 
 Chronic sleep deprivation in ADHD is associated with:
+
 - **Worse academic and work performance**
 - **Increased emotional dysregulation and conflict**
 - **Higher risk of depression and anxiety**
@@ -168,4 +169,4 @@ Sleep is a skill you build, not a switch you flip. Be patient with your brain as
 
 ---
 
-*What is your biggest sleep challenge with ADHD? Have you found any strategies that work for your brain? Share your experience in the comments or connect on [Instagram](https://instagram.com/adhdm8).*
+_What is your biggest sleep challenge with ADHD? Have you found any strategies that work for your brain? Share your experience in the comments or connect on [Instagram](https://instagram.com/adhdm8)._

@@ -25,6 +25,7 @@ Swapping a refill takes thirty seconds. The difference in writing experience is 
 The ADHD brain notices friction. Tiny irritations that neurotypical writers ignore become full stop-blocks for us.
 
 **Stock ballpoint ink can be:**
+
 - **Scratchy** → requires more pressure → hand fatigue → shorter writing sessions
 - **Inconsistent** → skipping forces re-tracing → breaks flow → thoughts evaporate
 - **Slow-drying** → smudges when you flip pages → frustration → quit journaling
@@ -131,15 +132,15 @@ The F-701 makes this embarrassingly easy:
 
 ### Refill Comparison Table
 
-| Feature | Stock Ballpoint | OHTO Gel | Zebra JK | Fisher Space Pen |
-|---------|----------------|----------|----------|------------------|
-| **Smoothness** | ★★☆☆☆ | ★★★★★ | ★★★★☆ | ★★★☆☆ |
-| **Dry Speed** | Fast | Instant | Fast | Moderate |
-| **Line Width** | 0.7mm | 0.5mm | 0.7mm | 0.8mm |
-| **Waterproof** | No | No | Yes | Yes |
-| **Longevity** | ★★★★★ | ★★★☆☆ | ★★★★☆ | ★★★★☆ |
-| **Versatility** | Desk only | Desk only | Desk only | Anywhere |
-| **Price** | $ | $$ | $$ | $$ |
+| Feature         | Stock Ballpoint | OHTO Gel  | Zebra JK  | Fisher Space Pen |
+| --------------- | --------------- | --------- | --------- | ---------------- |
+| **Smoothness**  | ★★☆☆☆           | ★★★★★     | ★★★★☆     | ★★★☆☆            |
+| **Dry Speed**   | Fast            | Instant   | Fast      | Moderate         |
+| **Line Width**  | 0.7mm           | 0.5mm     | 0.7mm     | 0.8mm            |
+| **Waterproof**  | No              | No        | Yes       | Yes              |
+| **Longevity**   | ★★★★★           | ★★★☆☆     | ★★★★☆     | ★★★★☆            |
+| **Versatility** | Desk only       | Desk only | Desk only | Anywhere         |
+| **Price**       | $               | $$        | $$        | $$               |
 
 ---
 
@@ -191,4 +192,4 @@ The beauty of this system is experimentation. Try the OHTO for a week. Switch to
 
 ---
 
-*What refill do you use in your F-701? Found a hidden gem I missed? Share your setup in the comments or tag us on [Instagram](https://instagram.com/adhdm8).*
+_What refill do you use in your F-701? Found a hidden gem I missed? Share your setup in the comments or tag us on [Instagram](https://instagram.com/adhdm8)._

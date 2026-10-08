@@ -17,7 +17,7 @@ description: "Living in Hong Kong with ADHD? Learn how to navigate the high-pres
 
 If you live in Hong Kong, you already know that "waiting" is a way of life. But when you're struggling with ADHD, "waiting" takes on a whole new, much more frustrating meaning.
 
-Whether you're dealing with the chaos of a high-pressure career or just trying to manage the basic mental clutter of daily life, the question is always the same: *How do I actually get help in this city?* (If you're still weighing whether it's worth pursuing at all, see our take on [ADHD and Hong Kong's work culture](/posts/adhd-and-hong-kong-work-culture/) first.)
+Whether you're dealing with the chaos of a high-pressure career or just trying to manage the basic mental clutter of daily life, the question is always the same: _How do I actually get help in this city?_ (If you're still weighing whether it's worth pursuing at all, see our take on [ADHD and Hong Kong's work culture](/posts/adhd-and-hong-kong-work-culture/) first.)
 
 In Hong Kong, you essentially face a choice between two very different worlds: the affordable but slow public system, and the fast but expensive private sector. Let's break down how both work so you can decide which path fits your life.
 
@@ -43,8 +43,9 @@ Once you are officially in the system and diagnosed, the medication is heavily s
 If you can't afford to wait years to get answers, the private sector is your best bet. It's significantly faster, but it comes with a steep price tag.
 
 **The Providers:**
-*   **Private Psychiatrists:** These are the medical doctors you'll need if you want a formal diagnosis that includes a prescription for medication (like Methylphenidate).
-*   **Clinical Psychologists:** They are fantastic for deep-dive neuropsychological assessments to understand your specific cognitive profile, but keep in mind: **they cannot prescribe medication.**
+
+- **Private Psychiatrists:** These are the medical doctors you'll need if you want a formal diagnosis that includes a prescription for medication (like Methylphenidate).
+- **Clinical Psychologists:** They are fantastic for deep-dive neuropsychological assessments to understand your specific cognitive profile, but keep in mind: **they cannot prescribe medication.**
 
 **The Cost Reality:**
 Expect to pay a premium for speed. Consultations can range from **HKD 1,500 to 3,000+** per session. A full, comprehensive assessment can easily land between **HKD 5,000 and HKD 15,000+**.
@@ -59,10 +60,11 @@ Speed, choice, and agency. You can often see a specialist within weeks rather th
 Because of the way the HK system is structured, many local adults adopt what I call the **"Hybrid Strategy."** It’s a way to get the best of both worlds.
 
 **How it works:**
+
 1.  **The Private Sprint:** You pay for a private assessment to get a formal, documented diagnosis quickly. This gives you immediate clarity and a professional report.
 2.  **The Public Marathon:** You take that private report and use it to navigate the public system. While it doesn't "skip" the queue, having a formal diagnosis in hand can sometimes make the transition to the Hospital Authority for subsidized medication management much smoother.
 
-It's a way to get the *answers* now, while planning for the *sustainability* of the future.
+It's a way to get the _answers_ now, while planning for the _sustainability_ of the future.
 
 ---
 
@@ -70,18 +72,19 @@ It's a way to get the *answers* now, while planning for the *sustainability* of 
 
 A diagnosis is just the beginning. In a high-octane environment like Hong Kong, you often need more than just a prescription.
 
-*   **NGOs & Peer Support:** Organizations like the Hong Kong ADHD Association provide much-needed community and education.
-*   **ADHD Coaching:** There is a growing field of neurodiversity-focused coaching in HK that helps with the "how-to" of life—executive function, organization, and managing the workday.
-*   **Workplace Accommodations:** If you need formal adjustments (like extra time or specialized environments), you will almost certainly need a formal medical report from a registered psychiatrist. See our [workplace accommodations guide](/posts/adhd-workplace-accommodations-guide/) for what to actually ask for once you have that report.
+- **NGOs & Peer Support:** Organizations like the Hong Kong ADHD Association provide much-needed community and education.
+- **ADHD Coaching:** There is a growing field of neurodiversity-focused coaching in HK that helps with the "how-to" of life—executive function, organization, and managing the workday.
+- **Workplace Accommodations:** If you need formal adjustments (like extra time or specialized environments), you will almost certainly need a formal medical report from a registered psychiatrist. See our [workplace accommodations guide](/posts/adhd-workplace-accommodations-guide/) for what to actually ask for once you have that report.
 
 ---
 
 > **ADHD m8 Pro-Tip: The "Evidence Folder"** 💡
 >
 > Don't just tell a doctor "I'm distracted." In the HK medical system, specific, functional evidence is gold. Start a log now:
-> *   **Work Impact:** "I lost focus during three critical meetings this week."
-> *   **Home Impact:** "I've missed three utility bill payments due to forgetfulness."
-> *   **The History:** Any notes from childhood or school reports that mention being "distracted" or "dreamy."
+>
+> - **Work Impact:** "I lost focus during three critical meetings this week."
+> - **Home Impact:** "I've missed three utility bill payments due to forgetfulness."
+> - **The History:** Any notes from childhood or school reports that mention being "distracted" or "dreamy."
 
 ---
 

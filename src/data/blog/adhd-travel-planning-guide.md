@@ -23,7 +23,7 @@ This isn't about being more organized in the abstract. It's a practical system b
 
 ### Why Travel Planning Is So Hard With an ADHD Brain
 
-Travel planning is hard for ADHD brains because it stacks nearly every executive function skill that ADHD weakens into one task: multi-step sequencing, time estimation, working memory, and sustained attention on something with no immediate payoff. Booking a flight is a five-minute task. Actually *preparing* for a trip is dozens of small, boring, easy-to-forget tasks spread across weeks, with zero urgency until the last 48 hours create all of it at once.
+Travel planning is hard for ADHD brains because it stacks nearly every executive function skill that ADHD weakens into one task: multi-step sequencing, time estimation, working memory, and sustained attention on something with no immediate payoff. Booking a flight is a five-minute task. Actually _preparing_ for a trip is dozens of small, boring, easy-to-forget tasks spread across weeks, with zero urgency until the last 48 hours create all of it at once.
 
 There's also a time-blindness trap specific to travel: a trip feels far away right up until it doesn't, because ADHD brains tend to operate in "now" and "not now" rather than perceiving a countdown. We break this mechanism down fully in [the mystery of time blindness](/posts/the-mystery-of-time-blindness-why-the-adhd-brain-struggles-with-the-future/), and it's the single biggest reason "I have plenty of time to plan this" turns into a packing panic the night before.
 
@@ -114,4 +114,4 @@ A reusable, written packing list reduces the executive function load of a trip b
 
 ---
 
-*What's your biggest ADHD travel disaster story? Share it, or reach out on [Instagram](https://instagram.com/adhdm8).*
+_What's your biggest ADHD travel disaster story? Share it, or reach out on [Instagram](https://instagram.com/adhdm8)._

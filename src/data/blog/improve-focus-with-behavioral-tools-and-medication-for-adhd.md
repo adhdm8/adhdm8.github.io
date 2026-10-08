@@ -25,7 +25,7 @@ Most of the frustration people report with "medication isn't working" or "these 
 
 ADHD medication improves focus by increasing dopamine and norepinephrine availability in the prefrontal cortex, the brain region responsible for executive function, temporarily normalizing the neurological signal that's chronically underactive in ADHD brains. Stimulants, methylphenidate and amphetamine-based medications, are first-line treatment because they're more effective at reducing core symptoms than any other class of psychiatric medication. Non-stimulants like atomoxetine, guanfacine XR, and viloxazine target the same norepinephrine pathways more gradually and are often used when stimulants aren't well tolerated. We cover the full mechanism and medication landscape in our [clinical overview of ADHD](/posts/understanding-the-clinical-landscape-of-adhd-a-comprehensive-overview/).
 
-What medication does not do is teach you a system. It raises the ceiling on how well your attention *can* function for a given task, but it doesn't tell your brain which task to point that attention at, doesn't remind you what you were supposed to be doing, and doesn't build the habit of checking a calendar. A well-medicated brain with no external structure can still forget the meeting; it'll just forget it while feeling unusually focused on something else.
+What medication does not do is teach you a system. It raises the ceiling on how well your attention _can_ function for a given task, but it doesn't tell your brain which task to point that attention at, doesn't remind you what you were supposed to be doing, and doesn't build the habit of checking a calendar. A well-medicated brain with no external structure can still forget the meeting; it'll just forget it while feeling unusually focused on something else.
 
 ---
 
@@ -41,7 +41,7 @@ The limitation runs the other direction from medication's. Behavioral tools are 
 
 The largest clinical trial on this question, the NIMH's Multimodal Treatment Study of ADHD (MTA), followed nearly 600 children for over a decade and found that combined treatment, medication plus behavioral therapy, produced better outcomes on functional measures than medication alone, even when both groups showed similar improvement on core symptom checklists. The combination group needed lower medication doses to achieve the same effect and showed stronger gains on outcomes that matter day-to-day, like family functioning and academic performance, not just symptom scores.
 
-That pattern makes sense mechanistically. Medication increases the brain's *capacity* for sustained attention and impulse control; behavioral tools determine how *reliably* that capacity gets applied to the actual tasks of a day. A brain with more available attention still needs somewhere to point it, and a good external system still needs enough executive function behind it to be followed. Improving focus is a two-variable problem, and treating it as one-variable, meds-only or tools-only, is why so many people report inconsistent results from either approach used in isolation.
+That pattern makes sense mechanistically. Medication increases the brain's _capacity_ for sustained attention and impulse control; behavioral tools determine how _reliably_ that capacity gets applied to the actual tasks of a day. A brain with more available attention still needs somewhere to point it, and a good external system still needs enough executive function behind it to be followed. Improving focus is a two-variable problem, and treating it as one-variable, meds-only or tools-only, is why so many people report inconsistent results from either approach used in isolation.
 
 ---
 
@@ -49,7 +49,7 @@ That pattern makes sense mechanistically. Medication increases the brain's *capa
 
 The practical takeaway isn't "always use both" as a rule, it's that medication and behavioral tools are solving different halves of the same problem, so treating them as substitutes for each other is where most focus plans quietly fail. A few starting points:
 
-- **Layer a structured work-rest interval on top of medication**, not instead of it. Something like the [10-3 method](/posts/adhd-focus-timer-smartwatch-vibration-10-3-method/) still matters on medicated days, since medication extends how long you *can* focus, not how well you sense time passing while doing it.
+- **Layer a structured work-rest interval on top of medication**, not instead of it. Something like the [10-3 method](/posts/adhd-focus-timer-smartwatch-vibration-10-3-method/) still matters on medicated days, since medication extends how long you _can_ focus, not how well you sense time passing while doing it.
 - **Use externalized memory systems regardless of medication status.** Working memory limits don't fully resolve on medication for most people; a visible task list still outperforms trying to hold the plan in your head.
 - **Track focus quality across both dosed and non-dosed hours** (mornings before a dose kicks in, evenings after it wears off) to see where behavioral tools are doing the most load-bearing work, and where medication timing might need adjusting with your prescriber.
 - **Don't diagnose a medication as "not working" from behavioral failures alone.** Missed deadlines and disorganization can persist under effective medication if there's no external system catching them; that's a tools gap, not necessarily a dosing gap.
@@ -87,4 +87,4 @@ Medication and behavioral tools keep getting framed as a choice, but the researc
 
 ---
 
-*Are you using medication, behavioral tools, or both? What shifted when you added the other one? Share your experience, or reach out on [Instagram](https://instagram.com/adhdm8).*
+_Are you using medication, behavioral tools, or both? What shifted when you added the other one? Share your experience, or reach out on [Instagram](https://instagram.com/adhdm8)._
