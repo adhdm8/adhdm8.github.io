@@ -77,8 +77,18 @@ const structuredData = {
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="icon" type="image/jpeg" sizes="32x32" href="/assets/favicon-8.jpg" />
-    <link rel="icon" type="image/jpeg" sizes="16x16" href="/assets/favicon-8.jpg" />
+    <link
+      rel="icon"
+      type="image/jpeg"
+      sizes="32x32"
+      href="/assets/favicon-8.jpg"
+    />
+    <link
+      rel="icon"
+      type="image/jpeg"
+      sizes="16x16"
+      href="/assets/favicon-8.jpg"
+    />
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon-8.jpg" />
     <link rel="manifest" href="/manifest.json" />
     <link rel="canonical" href={canonicalURL} />
@@ -89,9 +99,11 @@ const structuredData = {
     <meta name="title" content={title} />
     <meta name="description" content={description} />
     <meta name="author" content={author} />
-    {tags && tags.length > 0 && (
-      <meta name="keywords" content={tags.join(", ")} />
-    )}
+    {
+      tags && tags.length > 0 && (
+        <meta name="keywords" content={tags.join(", ")} />
+      )
+    }
     <link rel="sitemap" href="/sitemap-index.xml" />
 
     <!-- Open Graph / Facebook -->
@@ -158,18 +170,20 @@ const structuredData = {
     }
 
     <!-- Google tag (gtag.js) -->
-    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-LWP7W6YYF1" />
     <script
       is:inline
-      type="application/javascript"
-    >
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-LWP7W6YYF1"></script>
+    <script is:inline type="application/javascript">
       {
         window.dataLayer = window.dataLayer || [];
         // GA requires the `arguments` object itself, not a rest-param array
         // eslint-disable-next-line prefer-rest-params
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-LWP7W6YYF1');
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+        gtag("config", "G-LWP7W6YYF1");
       }
     </script>
 

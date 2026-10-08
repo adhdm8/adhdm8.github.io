@@ -44,10 +44,10 @@ For each item, be honest about how often it happens **now**, not how you wish yo
 
 **Scoring:** Count how many items you marked "yes."
 
-| Score | What it suggests |
-|---|---|
-| 0–2 | Inattentive ADHD is unlikely, though a rough patch or high stress can temporarily mimic a couple of these. |
-| 3–4 | A meaningful number of symptoms; worth tracking over the next few weeks and revisiting. |
+| Score     | What it suggests                                                                                                          |
+| --------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 0–2       | Inattentive ADHD is unlikely, though a rough patch or high stress can temporarily mimic a couple of these.                |
+| 3–4       | A meaningful number of symptoms; worth tracking over the next few weeks and revisiting.                                   |
 | 5 or more | This meets the DSM-5 adult threshold for the inattentive presentation and is a strong reason to pursue a full evaluation. |
 
 The DSM-5 threshold for adults (age 17+) is **five or more of the nine symptoms**, present in two or more settings (home, work, relationships), persisting for at least six months, with some symptoms present before age 12, even if they weren't recognized as ADHD at the time.
@@ -110,4 +110,4 @@ An **inattentive ADHD quiz for adults** exists because the standard screeners we
 
 ---
 
-*Did the inattentive list land differently than a standard ADHD quiz for you? Share your score, or reach out on [Instagram](https://instagram.com/adhdm8).*
+_Did the inattentive list land differently than a standard ADHD quiz for you? Share your score, or reach out on [Instagram](https://instagram.com/adhdm8)._

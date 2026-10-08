@@ -11,6 +11,7 @@ tags:
   - book-review
 description: Unlocking the ADHD Advantage - Great book for understanding why you act this way
 ---
+
 ### Unlocking the ADHD Advantage: Why Your Brain Being Wired Differently Is Your Superpower by Anders Hansen
 
 ![book cover](../../assets/images/Unlocking%20the%20ADHD%20Advantage.png)

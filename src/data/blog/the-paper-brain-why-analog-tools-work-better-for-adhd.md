@@ -27,6 +27,7 @@ The ADHD brain processes information differently than neurotypical brains. Resea
 #### Tactile Feedback Anchors Attention
 
 When you write by hand, you activate multiple sensory systems simultaneously:
+
 - **Touch**: The physical sensation of pen on paper
 - **Proprioception**: The movement and positioning of your hand
 - **Vision**: Watching words form in your unique handwriting
@@ -53,6 +54,7 @@ Not all paper systems are created equal. Here are evidence-backed approaches tha
 Before you can organize, you must capture. The ADHD brain generates ideas, reminders, and obligations at machine-gun speed, but [working memory](/posts/gadgets-and-tools-to-support-the-adhd-brain/) loses them just as fast.
 
 **The system:**
+
 - Carry one small notebook everywhere
 - Use it for one purpose only: rapid, unfiltered capture
 - Write every thought, task, and idea as it occurs
@@ -75,6 +77,7 @@ The original Bullet Journal method can be overwhelming. The Instagram-worthy spr
 ```
 
 **Rules:**
+
 1. One notebook. One pen (see our review of the [Zebra F-701](/posts/zebra-f701-the-perfect-pen-for-adhd-brain-dump-journaling/), a favorite for exactly this, or the capped [Pilot Fineliner](/posts/pilot-fineliner-review-best-felt-tip-pen-for-adhd/) if you prefer a felt tip). No highlighters, stickers, or rulers required
 2. Each day gets a simple header with date
 3. Write tasks as they occur. Check off when done
@@ -92,11 +95,13 @@ ADHD brains think spatially. We remember where information lives on a page bette
 Materials: Cork board or whiteboard, index cards, push pins or magnets
 
 Columns:
+
 - **To Do** (this week)
 - **Doing** (today only, max 3 cards)
 - **Done** (this week)
 
 **Why it works:**
+
 - Cards move physically across space, creating kinesthetic memory
 - Limited "Doing" column forces single-tasking
 - Visible progress triggers dopamine (move card → instant reward)
@@ -109,6 +114,7 @@ Place the board where you will see it constantly: bedroom door, above your desk,
 Digital calendars are convenient but invisible. Out of sight, out of mind. An ADHD brain needs time to be tangible.
 
 **The system:**
+
 - Large wall calendar with one month visible
 - All appointments written in pen (commitments)
 - Color-coded sticky notes for flexible tasks (can be moved)
@@ -133,6 +139,7 @@ Your phone becomes a reference library and communication tool. Your paper system
 #### The Weekly Review Ritual
 
 Once per week, sit with your notebook and:
+
 - Transfer appointments to digital calendar (for reminders)
 - Migrate incomplete tasks to next week
 - Note patterns: What worked? What got ignored?
@@ -183,6 +190,7 @@ Digital tools promise automation. Analog tools demand participation. For the ADH
 You do not need a perfect system. You need a system you will actually use.
 
 **Tonight:**
+
 1. Find any notebook and pen
 2. Write tomorrow's date at the top of a page
 3. List three things you need to do
@@ -205,4 +213,4 @@ Your brain is not broken. It is just not compatible with the digital tools desig
 
 ---
 
-*What analog tools have worked for your ADHD brain? Share your paper system in the comments or tag us on [Instagram](https://instagram.com/adhdm8) with your notebook setup.*
+_What analog tools have worked for your ADHD brain? Share your paper system in the comments or tag us on [Instagram](https://instagram.com/adhdm8) with your notebook setup._

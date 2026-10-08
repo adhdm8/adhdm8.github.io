@@ -12,7 +12,7 @@ tags:
 description: "The single ADHD focus trick that beats willpower, timers, and to-do lists when you can't start: shrink the task until your brain stops resisting it."
 ---
 
-If I had ADHD and needed to focus *right now*, not in ten minutes after I've found the perfect playlist, cleaned my desk, and reread my to-do list, I wouldn't reach for a timer or a productivity app first. I'd do one specific thing: shrink the task down until it's so small my brain can't justify avoiding it anymore. That's the whole **ADHD focus trick**. Everything else people recommend works better once this one is in place first.
+If I had ADHD and needed to focus _right now_, not in ten minutes after I've found the perfect playlist, cleaned my desk, and reread my to-do list, I wouldn't reach for a timer or a productivity app first. I'd do one specific thing: shrink the task down until it's so small my brain can't justify avoiding it anymore. That's the whole **ADHD focus trick**. Everything else people recommend works better once this one is in place first.
 
 This isn't a hack in the gimmicky sense. It's a direct exploit of how ADHD task initiation actually breaks down, and it's the one move that works even on the days when nothing else does.
 
@@ -92,4 +92,4 @@ If I had ADHD and needed to focus right now, this is genuinely the only trick I'
 
 ---
 
-*What's the smallest version of a task that's ever actually gotten you started? Share it, or reach out on [Instagram](https://instagram.com/adhdm8).*
+_What's the smallest version of a task that's ever actually gotten you started? Share it, or reach out on [Instagram](https://instagram.com/adhdm8)._

@@ -15,7 +15,7 @@ description: "A one-day identity-first protocol for fixing your ADHD life — wh
 
 You're probably going to abandon whatever system you start this week. That's not a prediction about your character. It's a prediction about the gap between the system and the brain running it.
 
-You didn't quit the last five planners because you're lazy. You quit them because they were built for a brain that gets a dopamine hit from *importance*. Yours gets its hit from *interest, novelty, and urgency* — and no amount of trying harder changes which neurotransmitter shows up when.
+You didn't quit the last five planners because you're lazy. You quit them because they were built for a brain that gets a dopamine hit from _importance_. Yours gets its hit from _interest, novelty, and urgency_ — and no amount of trying harder changes which neurotransmitter shows up when.
 
 This isn't another list of hacks to abandon by Thursday. It's one protocol, built in the order your brain actually processes change: diagnosis first, theory second, action third, and a system to keep it alive after today.
 
@@ -37,7 +37,7 @@ Each one probably worked for four, five, maybe ten days. Then it didn't. If the 
 
 Most productivity advice assumes a stable baseline: that once you decide something matters, your brain will hold that decision in view long enough to act on it. For ADHD, that baseline doesn't exist. Working memory drops the intention within minutes unless something external — a sticky note, an alarm, another person — holds it there instead.
 
-This is why reading a great book on habits can leave you *more* frustrated, not less. You understood every page. Understanding was never the bottleneck.
+This is why reading a great book on habits can leave you _more_ frustrated, not less. You understood every page. Understanding was never the bottleneck.
 
 ---
 
@@ -55,7 +55,7 @@ The fix isn't a stronger system. It's a system that doesn't need willpower to ru
 
 > "You do not rise to the level of your goals. You fall to the level of your systems." — James Clear
 
-Here's the part most ADHD advice skips: before the system, you need the *identity* the system is built to express. If you privately believe "I'm just someone who can't stick to things," every broken streak becomes proof of that belief — and your brain will unconsciously protect the belief over the goal, because the belief feels more true.
+Here's the part most ADHD advice skips: before the system, you need the _identity_ the system is built to express. If you privately believe "I'm just someone who can't stick to things," every broken streak becomes proof of that belief — and your brain will unconsciously protect the belief over the goal, because the belief feels more true.
 
 Change the sentence before you change the schedule:
 
@@ -86,17 +86,19 @@ This is the actual mechanism. Run it in order, in one day, and don't skip to the
 
 **Morning (10 minutes) — Name the story you're running on.**
 Before you touch your phone, answer three questions on paper:
+
 1. What have I told myself about why I can't stick to things?
 2. What's the accurate version of that sentence — the one that names the brain, not the character?
 3. What's one piece of friction in my environment that makes today's version of me lose, every time?
 
 **Throughout the day — Interrupt on a timer, not a feeling.**
-Set three alarms: mid-morning, mid-afternoon, early evening. Each one asks the same question: *"Right now, am I acting from the identity I named this morning, or from the old story?"* You're not trying to be perfect between alarms — you're building the habit of noticing, which is the entire skill ADHD makes hardest.
+Set three alarms: mid-morning, mid-afternoon, early evening. Each one asks the same question: _"Right now, am I acting from the identity I named this morning, or from the old story?"_ You're not trying to be perfect between alarms — you're building the habit of noticing, which is the entire skill ADHD makes hardest.
 
 **Evening (10 minutes) — Turn today's evidence into tomorrow's system.**
 Answer:
+
 1. What's one piece of environmental friction I can remove before I sleep — not tomorrow, tonight?
-2. What's the smallest possible next action for tomorrow — not the goal, the *physical first step*?
+2. What's the smallest possible next action for tomorrow — not the goal, the _physical first step_?
 3. What evidence did today give me that the new identity is more true than the old one?
 
 That third question matters most. It's the one that makes day two possible.
@@ -107,7 +109,7 @@ That third question matters most. It's the one that makes day two possible.
 
 > "The best moments usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile." — Mihaly Csikszentmihalyi
 
-An interest-driven brain will sustain a system a duty-driven brain abandons, as long as the system is *framed* as interesting. This is the entire logic behind gamifying an ADHD system — it's not a gimmick, it's using the actual mechanism your brain runs on:
+An interest-driven brain will sustain a system a duty-driven brain abandons, as long as the system is _framed_ as interesting. This is the entire logic behind gamifying an ADHD system — it's not a gimmick, it's using the actual mechanism your brain runs on:
 
 - **Anti-vision** — the specific life you're avoiding if nothing changes (be concrete: still losing the same three hours to the same distraction, a year from now)
 - **Vision** — the specific life the identity shift is pointed at
@@ -154,4 +156,4 @@ Fixing an ADHD life isn't about a better planner. It's about running the loop in
 
 ---
 
-*Which layer breaks first for you — identity, environment, or systems? Find us on [Instagram](https://instagram.com/adhdm8) and tell us — we read every message.*
+_Which layer breaks first for you — identity, environment, or systems? Find us on [Instagram](https://instagram.com/adhdm8) and tell us — we read every message._
