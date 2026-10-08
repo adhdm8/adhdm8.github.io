@@ -21,7 +21,7 @@ This guide covers what to actually ask for, how to ask without over-explaining y
 
 ### What Counts as an ADHD Workplace Accommodation?
 
-An ADHD workplace accommodation is any change to your tasks, schedule, tools, or environment that reduces a barrier caused by executive function difficulties — not a change to the actual job requirements. The distinction matters: accommodations adjust *how* work gets done, not *whether* it gets done or to what standard.
+An ADHD workplace accommodation is any change to your tasks, schedule, tools, or environment that reduces a barrier caused by executive function difficulties — not a change to the actual job requirements. The distinction matters: accommodations adjust _how_ work gets done, not _whether_ it gets done or to what standard.
 
 Common categories:
 
@@ -61,7 +61,7 @@ Accommodation laws and processes vary significantly by country — the **Job Acc
 
 You are not obligated to disclose an ADHD diagnosis to get support — most of the accommodations listed above can be requested as personal work-style preferences, with no medical explanation attached. "I focus better with headphones on" and "can we send follow-ups in writing" don't require a diagnosis to ask for.
 
-Disclosure becomes relevant mainly when you need a *formal, legally protected* accommodation — for example, a fixed accommodation that can't be revoked, or formal leave under a disability-related policy. Outside of that, informal requests framed as working-style preferences get you most of the same benefit with none of the paperwork.
+Disclosure becomes relevant mainly when you need a _formal, legally protected_ accommodation — for example, a fixed accommodation that can't be revoked, or formal leave under a disability-related policy. Outside of that, informal requests framed as working-style preferences get you most of the same benefit with none of the paperwork.
 
 ---
 
@@ -94,4 +94,4 @@ ADHD workplace accommodations work best when they're specific: name the exact ba
 
 ---
 
-*Have you asked for an accommodation at work? What actually got approved? Find us on [Instagram](https://instagram.com/adhdm8) and share what worked.*
+_Have you asked for an accommodation at work? What actually got approved? Find us on [Instagram](https://instagram.com/adhdm8) and share what worked._

@@ -22,7 +22,7 @@ That's not a coincidence. ADHD brains are, in a sense, the canary in the coal mi
 
 ### Why ADHD Focus Strategies Work for Non-ADHD Brains Too
 
-ADHD focus strategies generalize well because they target the same underlying bottlenecks that limit everyone's attention, just at a lower threshold. Neurotypical people can often power through a boring task on willpower and background motivation alone. ADHD brains, running on reduced dopamine signaling in attention and reward circuits, generally can't rely on that resource, so ADHD strategies are built to work *without* it.
+ADHD focus strategies generalize well because they target the same underlying bottlenecks that limit everyone's attention, just at a lower threshold. Neurotypical people can often power through a boring task on willpower and background motivation alone. ADHD brains, running on reduced dopamine signaling in attention and reward circuits, generally can't rely on that resource, so ADHD strategies are built to work _without_ it.
 
 That turns out to matter for everyone in 2026. Smartphones, notification-driven apps, and constant context-switching have pushed the average attention span down across the board, willpower-dependent focus advice increasingly fails for non-ADHD brains for the same structural reason it always failed for ADHD ones: it assumes a steady internal resource that modern environments actively drain. Strategies that externalize focus instead of relying on willpower sidestep that problem entirely, regardless of diagnosis.
 
@@ -71,7 +71,7 @@ Exercise has a similarly outsized effect. Aerobic activity increases dopamine an
 ### FAQ: Improving Focus for ADHD and Non-ADHD Brains
 
 **Q: Do I need an ADHD diagnosis for these strategies to work?**
-A: No. These techniques target task initiation, working memory limits, and time perception, mechanisms that exist in every brain to some degree, not just diagnosed ADHD. A diagnosis explains *why* the deficit is more severe; it isn't a prerequisite for the fix.
+A: No. These techniques target task initiation, working memory limits, and time perception, mechanisms that exist in every brain to some degree, not just diagnosed ADHD. A diagnosis explains _why_ the deficit is more severe; it isn't a prerequisite for the fix.
 
 **Q: What's the single highest-impact change to start with?**
 A: Fix task initiation first, usually through body doubling or a short external timer like the 10-3 method, since most focus problems are actually starting problems in disguise.
@@ -99,4 +99,4 @@ You don't need a diagnosis to benefit from tools built for the most attention-ch
 
 ---
 
-*Which of these made the biggest difference for you? Share your experience, or reach out on [Instagram](https://instagram.com/adhdm8).*
+_Which of these made the biggest difference for you? Share your experience, or reach out on [Instagram](https://instagram.com/adhdm8)._

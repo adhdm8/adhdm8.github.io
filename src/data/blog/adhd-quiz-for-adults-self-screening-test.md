@@ -16,7 +16,7 @@ It's midnight, you've just re-read the same email for the fourth time, and you t
 
 This isn't a magazine-style personality quiz. Below is the actual **ASRS-v1.1 screener**, the same six-question tool clinicians use as a first-pass check, developed with the World Health Organization. It takes about two minutes and gives you a genuinely useful starting point.
 
-**Pro-tip from ADHD m8**: A quiz can't diagnose you, and it can't tell you what you already suspect deep down. What it *can* do is turn a vague feeling into a concrete score you can bring to a doctor instead of just saying "I think something's off."
+**Pro-tip from ADHD m8**: A quiz can't diagnose you, and it can't tell you what you already suspect deep down. What it _can_ do is turn a vague feeling into a concrete score you can bring to a doctor instead of just saying "I think something's off."
 
 ---
 
@@ -41,14 +41,14 @@ For each question, rate how often it happened to you over the **past six months*
 
 **Scoring:** Give yourself a point for each question where your answer falls in the shaded range below:
 
-| Question | Score a point if you answered |
-|---|---|
-| 1 | Sometimes, Often, or Very Often |
-| 2 | Sometimes, Often, or Very Often |
-| 3 | Often or Very Often |
-| 4 | Often or Very Often |
-| 5 | Often or Very Often |
-| 6 | Often or Very Often |
+| Question | Score a point if you answered   |
+| -------- | ------------------------------- |
+| 1        | Sometimes, Often, or Very Often |
+| 2        | Sometimes, Often, or Very Often |
+| 3        | Often or Very Often             |
+| 4        | Often or Very Often             |
+| 5        | Often or Very Often             |
+| 6        | Often or Very Often             |
 
 If you scored a point on **4 or more** of the six questions, your responses are consistent with symptoms of adult ADHD and further evaluation is worth pursuing.
 
@@ -60,7 +60,7 @@ The ASRS-6 is deliberately short, so it misses a lot of the day-to-day texture o
 
 - **Time blindness** — chronically misjudging how long tasks take, arriving both wildly early and wildly late depending on the day. We break this down fully in [the mystery of time blindness](/posts/the-mystery-of-time-blindness-why-the-adhd-brain-struggles-with-the-future/).
 - **Emotional intensity** — feeling criticism, rejection, or excitement more sharply and for longer than seems proportionate.
-- **The "activation" problem** — not lacking motivation exactly, but being unable to *start* a task you genuinely want to do until the deadline creates enough urgency.
+- **The "activation" problem** — not lacking motivation exactly, but being unable to _start_ a task you genuinely want to do until the deadline creates enough urgency.
 - **Hyperfocus** — losing hours to something interesting while completely forgetting to eat, drink, or check the time, then struggling to redirect that same intensity toward boring-but-necessary tasks.
 - **A childhood that "sort of" fits** — decent grades that masked constant last-minute cramming, or a reputation as "smart but doesn't apply themselves."
 
@@ -74,7 +74,7 @@ A "do I have ADHD" quiz score is a **screening signal, not a verdict**. Here's h
 
 **If you scored below 4/6:** ADHD is less likely, but not ruled out. The ASRS-6 is tuned to catch clear cases; some adults, especially those who've built heavy coping systems over the years, score lower than their actual symptom burden would suggest.
 
-**If you scored 4/6 or higher:** This is a genuine, evidence-based reason to seek a proper evaluation. It is *not* a diagnosis, and no online quiz — including this one — can replace a clinical interview with someone trained to assess ADHD in adults.
+**If you scored 4/6 or higher:** This is a genuine, evidence-based reason to seek a proper evaluation. It is _not_ a diagnosis, and no online quiz — including this one — can replace a clinical interview with someone trained to assess ADHD in adults.
 
 ---
 
@@ -112,4 +112,4 @@ An **ADHD quiz for adults** like the ASRS-6 won't diagnose you, but it will do s
 
 ---
 
-*What did you score, and did it match what you already suspected? Share your experience, or reach out on [Instagram](https://instagram.com/adhdm8).*
+_What did you score, and did it match what you already suspected? Share your experience, or reach out on [Instagram](https://instagram.com/adhdm8)._

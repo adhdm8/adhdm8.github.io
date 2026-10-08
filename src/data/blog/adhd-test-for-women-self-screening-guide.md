@@ -13,7 +13,7 @@ tags:
 description: "A self-test for ADHD in women that covers what standard screeners miss — masking, internalized symptoms, and why so many women are diagnosed decades late."
 ---
 
-An **ADHD test for women** needs to ask different questions than the standard adult screener, because the symptoms it's built around — visible hyperactivity, obvious impulsivity — are the ones women are least likely to display outwardly. Several large clinical reviews have found girls are referred for ADHD evaluation far less often than boys with comparable symptom burden, a gap researchers attribute primarily to *presentation* differences, not true prevalence. The result: a generation of women who spent decades being called "spacey," "a daydreamer," or "an overachiever who's just tired," instead of being screened.
+An **ADHD test for women** needs to ask different questions than the standard adult screener, because the symptoms it's built around — visible hyperactivity, obvious impulsivity — are the ones women are least likely to display outwardly. Several large clinical reviews have found girls are referred for ADHD evaluation far less often than boys with comparable symptom burden, a gap researchers attribute primarily to _presentation_ differences, not true prevalence. The result: a generation of women who spent decades being called "spacey," "a daydreamer," or "an overachiever who's just tired," instead of being screened.
 
 This isn't a replacement for a clinical evaluation. It's a self-check built around what actually shows up in women's ADHD, so you're not measuring yourself against a checklist designed around someone else's symptoms.
 
@@ -106,4 +106,4 @@ An ADHD test built for women asks different questions than the standard screener
 
 ---
 
-*Did you get diagnosed after years of masking? Tell us what finally made the pattern click, on [Instagram](https://instagram.com/adhdm8).*
+_Did you get diagnosed after years of masking? Tell us what finally made the pattern click, on [Instagram](https://instagram.com/adhdm8)._

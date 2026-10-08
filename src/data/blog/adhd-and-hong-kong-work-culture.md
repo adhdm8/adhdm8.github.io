@@ -14,7 +14,7 @@ description: "ADHD and Hong Kong's work culture collide hard: long hours, tiny f
 
 Hong Kong does not do "slow." The trains run every two minutes, lunch breaks get eaten by back-to-back meetings, and "OT culture" (overtime as an unofficial expectation) is just how the city runs. For a neurotypical brain, that is exhausting. For **ADHD and Hong Kong's work culture** together, it can feel like a system deliberately designed to expose every executive function weakness you have.
 
-This isn't another guide to getting diagnosed — we've already covered [navigating the public and private medical systems here](/posts/adhd-public-services-hong-kong/). This is about what happens *after* diagnosis, when you still have to survive nine-to-nine culture in a 400-square-foot flat.
+This isn't another guide to getting diagnosed — we've already covered [navigating the public and private medical systems here](/posts/adhd-public-services-hong-kong/). This is about what happens _after_ diagnosis, when you still have to survive nine-to-nine culture in a 400-square-foot flat.
 
 ---
 
@@ -89,4 +89,4 @@ If long hours are consistently costing you sleep, relationships, or your health,
 
 ---
 
-*Have you navigated ADHD in a Hong Kong workplace? What worked, and what made it harder? Share your experience on [Instagram](https://instagram.com/adhdm8).*
+_Have you navigated ADHD in a Hong Kong workplace? What worked, and what made it harder? Share your experience on [Instagram](https://instagram.com/adhdm8)._
