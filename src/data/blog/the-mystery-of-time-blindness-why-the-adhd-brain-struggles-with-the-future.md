@@ -67,3 +67,5 @@ Your brain’s "management system" is easily overwhelmed. Offload that burden:
 The most empowering insight from the sources is that ADHD is a **chronic developmental disability**, much like diabetes of the brain. It requires daily management through "prosthetic environments"—tools and scaffolding that help you show what you truly know.
 
 By accepting that you are **"delay averse"** and "time blind," you can stop blaming yourself for being "lazy" and start building the external systems you need to thrive.
+
+Stuck even when you know the plan? Read our guide to [ADHD paralysis and how to get unstuck](/posts/adhd-paralysis-how-to-get-unstuck-guide).
