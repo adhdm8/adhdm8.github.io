@@ -60,3 +60,5 @@ The executive system runs on a limited "fuel tank" that is depleted by continuou
 - **Cold Water Exposure:** Submersion in cold water can increase baseline dopamine levels by **250%**, providing a sustained state of calm alertness for up to several hours.
 
 **Clinical Takeaway:** Success is not about "trying harder" to remember or focus; it is about **re-engineering your environment** so that your brain can finally show what it truly knows. For more on why this gets easier with time, see [why life with adult ADHD gets better](/posts/embracing-the-bionic-brain-why-life-with-adult-adhd-gets-better/).
+
+Frozen before you even start? See [ADHD paralysis: why you freeze and how to get unstuck](/posts/adhd-paralysis-how-to-get-unstuck-guide).

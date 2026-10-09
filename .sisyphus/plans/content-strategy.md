@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-10-08 · **Published posts**: 49
+> **Last reviewed**: 2026-10-09 · **Published posts**: 50
 
 ---
 
@@ -106,7 +106,7 @@ starting points — confirm against GSC once P0-02 is done.
 | ID | Primary keyword | Hub | Suggested long-tails | Status |
 |---|---|---|---|---|
 | P2-01 | ADHD medication for adults | focus | what to expect starting ADHD medication; stimulant vs non-stimulant ADHD; ADHD medication side effects adults | ✅ 2026-10-08 |
-| P2-02 | ADHD paralysis | time | why do I freeze with ADHD; how to get unstuck ADHD paralysis; ADHD task paralysis vs procrastination | ⬜ |
+| P2-02 | ADHD paralysis | time | why do I freeze with ADHD; how to get unstuck ADHD paralysis; ADHD task paralysis vs procrastination | ✅ 2026-10-09 |
 | P2-03 | ADHD and anxiety | diagnosis | ADHD or anxiety how to tell; ADHD anxiety depression overlap adults; treating ADHD with anxiety | ⬜ |
 | P2-04 | rejection sensitive dysphoria ADHD | health | RSD symptoms adults; how to cope with RSD; RSD in relationships ADHD | ⬜ |
 | P2-05 | ADHD time management | time | time blocking for ADHD; ADHD time management techniques adults; ADHD planner system | ⬜ |
@@ -151,6 +151,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-travel-planning-guide` | ADHD travel planning | time |
 | `adhd-and-minimalism-souna-decluttering-guide` | ADHD decluttering | time |
 | `adhd-number-1-trick-to-focus-now` | ADHD focus trick | time |
+| `adhd-paralysis-how-to-get-unstuck-guide` | ADHD paralysis | time |
 | `bridging-the-knowing-doing-gap-science-backed-tools-for-managing-adhd` | ADHD knowing-doing gap | time |
 | `how-to-read-books-with-adhd` | how to read with ADHD | time |
 | `improve-focus-with-behavioral-tools-and-medication-for-adhd` | ADHD medication and behavioral tools | focus |
