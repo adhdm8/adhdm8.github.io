@@ -81,7 +81,7 @@ Many adults—especially high-achievers—have spent years developing "masks." Y
 Historically, ADHD research was heavily skewed toward hyperactive boys. This means many women and non-binary individuals, who often present with more "inattentive" symptoms, are frequently misdiagnosed with anxiety or depression. See our [ADHD test for women](/posts/adhd-test-for-women-self-screening-guide/) for a screener built around how symptoms actually show up in women, and our [inattentive ADHD quiz](/posts/inattentive-adhd-quiz-for-adults/) for the symptoms most tests skip.
 
 **The Comorbidity Trap**
-ADHD rarely travels alone. It often brings friends like Anxiety and Depression. It is incredibly common for a clinician to treat the mood disorder while completely missing the underlying ADHD that is driving the chaos (much like how [sleep hygiene](/posts/adhd-and-sleep-hygiene-science-backed-guide/) issues often overlap with ADHD symptoms).
+ADHD rarely travels alone. It often brings friends like Anxiety and Depression. It is incredibly common for a clinician to treat the mood disorder while completely missing the underlying ADHD that is driving the chaos (much like how [sleep hygiene](/posts/adhd-and-sleep-hygiene-science-backed-guide/) issues often overlap with ADHD symptoms). Our guide to [ADHD and anxiety](/posts/adhd-and-anxiety-how-to-tell-the-difference-guide) shows how to tell the two apart.
 
 ---
 

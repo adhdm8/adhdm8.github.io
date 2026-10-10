@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-10-09 · **Published posts**: 50
+> **Last reviewed**: 2026-10-10 · **Published posts**: 51
 
 ---
 
@@ -107,7 +107,7 @@ starting points — confirm against GSC once P0-02 is done.
 |---|---|---|---|---|
 | P2-01 | ADHD medication for adults | focus | what to expect starting ADHD medication; stimulant vs non-stimulant ADHD; ADHD medication side effects adults | ✅ 2026-10-08 |
 | P2-02 | ADHD paralysis | time | why do I freeze with ADHD; how to get unstuck ADHD paralysis; ADHD task paralysis vs procrastination | ✅ 2026-10-09 |
-| P2-03 | ADHD and anxiety | diagnosis | ADHD or anxiety how to tell; ADHD anxiety depression overlap adults; treating ADHD with anxiety | ⬜ |
+| P2-03 | ADHD and anxiety | diagnosis | ADHD or anxiety how to tell; ADHD anxiety depression overlap adults; treating ADHD with anxiety | ✅ 2026-10-10 |
 | P2-04 | rejection sensitive dysphoria ADHD | health | RSD symptoms adults; how to cope with RSD; RSD in relationships ADHD | ⬜ |
 | P2-05 | ADHD time management | time | time blocking for ADHD; ADHD time management techniques adults; ADHD planner system | ⬜ |
 | P2-06 | ADHD burnout | work | ADHD burnout symptoms; ADHD burnout recovery; ADHD masking at work | ⬜ |
@@ -162,6 +162,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `understanding-the-clinical-landscape-of-adhd-a-comprehensive-overview` | ADHD treatment overview | focus |
 | `fueling-the-adhd-brain-a-science-backed-guide-to-supplements` | ADHD supplements | focus |
 | `adult-adhd-diagnosis-guide` | adult ADHD diagnosis | diagnosis |
+| `adhd-and-anxiety-how-to-tell-the-difference-guide` | ADHD and anxiety | diagnosis |
 | `adhd-quiz-for-adults-self-screening-test` | ADHD quiz for adults | diagnosis |
 | `adhd-test-for-women-self-screening-guide` | ADHD test for women | diagnosis |
 | `inattentive-adhd-quiz-for-adults` | inattentive ADHD quiz | diagnosis |
