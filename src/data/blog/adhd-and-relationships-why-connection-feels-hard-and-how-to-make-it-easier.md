@@ -43,7 +43,7 @@ When you say "I'll be ready in 10 minutes," you genuinely believe it. But your b
 
 #### 2. The Rejection Sensitive Dysphoria (RSD) Trap
 
-RSD is an intense emotional response to perceived rejection or criticism. With ADHD, your brain amplifies neutral cues into threats. A partner sighing because they're tired gets interpreted as "they're mad at me." A request to do chores feels like "they think I'm a failure."
+RSD is an intense emotional response to perceived rejection or criticism (see our full guide to [rejection sensitive dysphoria and ADHD](/posts/rejection-sensitive-dysphoria-adhd-symptoms-and-coping-guide)). With ADHD, your brain amplifies neutral cues into threats. A partner sighing because they're tired gets interpreted as "they're mad at me." A request to do chores feels like "they think I'm a failure."
 
 This leads to:
 

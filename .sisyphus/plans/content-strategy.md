@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-10-10 · **Published posts**: 51
+> **Last reviewed**: 2026-10-11 · **Published posts**: 52
 
 ---
 
@@ -108,7 +108,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-01 | ADHD medication for adults | focus | what to expect starting ADHD medication; stimulant vs non-stimulant ADHD; ADHD medication side effects adults | ✅ 2026-10-08 |
 | P2-02 | ADHD paralysis | time | why do I freeze with ADHD; how to get unstuck ADHD paralysis; ADHD task paralysis vs procrastination | ✅ 2026-10-09 |
 | P2-03 | ADHD and anxiety | diagnosis | ADHD or anxiety how to tell; ADHD anxiety depression overlap adults; treating ADHD with anxiety | ✅ 2026-10-10 |
-| P2-04 | rejection sensitive dysphoria ADHD | health | RSD symptoms adults; how to cope with RSD; RSD in relationships ADHD | ⬜ |
+| P2-04 | rejection sensitive dysphoria ADHD | health | RSD symptoms adults; how to cope with RSD; RSD in relationships ADHD | ✅ 2026-10-11 |
 | P2-05 | ADHD time management | time | time blocking for ADHD; ADHD time management techniques adults; ADHD planner system | ⬜ |
 | P2-06 | ADHD burnout | work | ADHD burnout symptoms; ADHD burnout recovery; ADHD masking at work | ⬜ |
 | P2-07 | best ADHD apps for adults | tools | ADHD focus apps 2026; ADHD reminder apps; free ADHD apps | ⬜ |
@@ -174,6 +174,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-and-hong-kong-work-culture` | ADHD Hong Kong work culture | work |
 | `adhd-and-sleep-hygiene-science-backed-guide` | ADHD sleep hygiene | health |
 | `adhd-and-exercise-how-fitness-helps-the-adhd-brain` | ADHD and exercise | health |
+| `rejection-sensitive-dysphoria-adhd-symptoms-and-coping-guide` | rejection sensitive dysphoria ADHD | health |
 | `adhd-and-life-expectancy-understanding-the-real-world-risks` | ADHD life expectancy | health |
 | `adhd-and-relationships-why-connection-feels-hard-and-how-to-make-it-easier` | ADHD relationships | health |
 | `navigating-the-road-safely-driving-with-adhd` | driving with ADHD | health |
