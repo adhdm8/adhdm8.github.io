@@ -133,7 +133,7 @@ See a doctor soon if anxiety is constant, causing panic attacks, or interfering 
 
 ADHD and anxiety are separate conditions that love to travel together and disguise each other. Sorting out which is driving your symptoms can change the treatment you get, and often your whole day-to-day experience.
 
-You don't need to figure it out alone. A proper assessment can untangle the two.
+If fear of criticism is the part that hurts most, read about [rejection sensitive dysphoria and ADHD](/posts/rejection-sensitive-dysphoria-adhd-symptoms-and-coping-guide). You don't need to figure it out alone. A proper assessment can untangle the two.
 
 **Next step**: Write down your three worst symptoms and when they started, then bring that list to your next GP or specialist appointment.
 
