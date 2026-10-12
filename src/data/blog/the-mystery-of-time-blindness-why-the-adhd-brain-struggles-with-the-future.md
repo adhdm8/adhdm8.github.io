@@ -62,6 +62,10 @@ Your brain’s "management system" is easily overwhelmed. Offload that burden:
 
 ---
 
+Once you can see time, the next step is planning with it. Our guide to [ADHD time management techniques for adults](/posts/adhd-time-management-techniques-for-adults) covers time blocking, realistic estimates, and planner systems built for ADHD brains.
+
+---
+
 ### **A New Mindset**
 
 The most empowering insight from the sources is that ADHD is a **chronic developmental disability**, much like diabetes of the brain. It requires daily management through "prosthetic environments"—tools and scaffolding that help you show what you truly know.
