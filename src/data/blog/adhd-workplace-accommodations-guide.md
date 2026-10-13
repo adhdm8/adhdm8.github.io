@@ -69,7 +69,7 @@ Disclosure becomes relevant mainly when you need a _formal, legally protected_ a
 
 The right accommodation depends heavily on what kind of role you're in — a fix that helps in a quiet office role can be irrelevant in a high-stimulation field job, and vice versa. If accommodations alone aren't closing the gap, it may be worth stepping back and looking at fit itself: the [ADHD career guide](/posts/the-adhd-career-guide-finding-your-niche-and-avoiding-the-boredom-trap/) breaks down which roles tend to work with an ADHD brain instead of against it, which is sometimes a more durable fix than any single accommodation.
 
-Time-related barriers specifically — missed deadlines, chronic lateness to meetings, underestimating how long tasks take — usually need environment-level fixes rather than a single accommodation request. The [science of ADHD time blindness](/posts/the-science-of-time-blindness-why-the-adhd-brain-operates-in-now-or-not-now/) explains why those barriers show up in the first place and what actually closes the gap.
+Time-related barriers specifically — missed deadlines, chronic lateness to meetings, underestimating how long tasks take — usually need environment-level fixes rather than a single accommodation request. The [science of ADHD time blindness](/posts/the-science-of-time-blindness-why-the-adhd-brain-operates-in-now-or-not-now/) explains why those barriers show up in the first place and what actually closes the gap. And if the strain has already tipped into exhaustion, see our guide to [ADHD burnout symptoms and recovery](/posts/adhd-burnout-symptoms-and-recovery-guide/).
 
 ---
 
