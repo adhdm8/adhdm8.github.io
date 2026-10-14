@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-10-13 · **Published posts**: 54
+> **Last reviewed**: 2026-10-14 · **Published posts**: 55
 
 ---
 
@@ -111,7 +111,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-04 | rejection sensitive dysphoria ADHD | health | RSD symptoms adults; how to cope with RSD; RSD in relationships ADHD | ✅ 2026-10-11 |
 | P2-05 | ADHD time management | time | time blocking for ADHD; ADHD time management techniques adults; ADHD planner system | ✅ 2026-10-12 |
 | P2-06 | ADHD burnout | work | ADHD burnout symptoms; ADHD burnout recovery; ADHD masking at work | ✅ 2026-10-13 |
-| P2-07 | best ADHD apps for adults | tools | ADHD focus apps 2026; ADHD reminder apps; free ADHD apps | ⬜ |
+| P2-07 | best ADHD apps for adults | tools | ADHD focus apps 2026; ADHD reminder apps; free ADHD apps | ✅ 2026-10-14 |
 | P2-08 | ADHD emotional dysregulation | focus | ADHD anger outbursts adults; ADHD emotional regulation strategies; why ADHD emotions feel so intense | ⬜ |
 | P2-09 | ADHD coaching | focus | what does an ADHD coach do; ADHD coach vs therapist; is ADHD coaching worth it | ⬜ |
 | P2-10 | adult ADHD assessment Hong Kong | diagnosis | ADHD assessment cost Hong Kong; private vs public ADHD diagnosis HK | ⬜ |
@@ -182,6 +182,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `navigating-the-road-safely-driving-with-adhd` | driving with ADHD | health |
 | `embracing-the-bionic-brain-why-life-with-adult-adhd-gets-better` | adult ADHD gets better | health |
 | `adhd-resources-2026-comprehensive-guide` | ADHD resources | tools |
+| `best-adhd-apps-for-adults-guide` | best ADHD apps for adults | tools |
 | `navigating-the-adhd-internet-top-reliable-resources-for-adults` | reliable ADHD websites | tools |
 | `tuning-into-your-brain-top-science-backed-adhd-podcasts-and-digital-resources` | ADHD podcasts | tools |
 | `useful-resources` | ⚠️ thin — merge into resources guide (P1-05) | tools |

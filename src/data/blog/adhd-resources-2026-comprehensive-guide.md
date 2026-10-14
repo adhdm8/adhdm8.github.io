@@ -38,6 +38,8 @@ The biggest shift in 2024-2026? **AI that does the executive functioning for you
 
 **Budget-Conscious Options**: Structured (£10/year), Habitica (free), Mind Vortex (free), Tiimo (free tier). See the Free vs Paid table below.
 
+Want a shorter, problem-by-problem shortlist? See our guide to the [best ADHD apps for adults](/posts/best-adhd-apps-for-adults-guide).
+
 ---
 
 ### **2. Analog Tools That Still Work (The Paper Brain)**
