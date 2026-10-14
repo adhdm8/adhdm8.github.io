@@ -74,7 +74,7 @@ If budget is the deciding factor, several solid **free body doubling apps for AD
 | Coffee shop or library             | Free                                             | People who dislike video calls          |
 | Focusmate                          | Free tier (limited sessions), paid for unlimited | Scheduled, high-structure sessions      |
 
-**Pro-tip from ADHD m8**: Start with the free tier of whatever you try. Body doubling works differently for different ADHD brains, and there's no point paying for structure before you know if the format even suits you.
+**Pro-tip from ADHD m8**: Start with the free tier of whatever you try. Body doubling works differently for different ADHD brains, and there's no point paying for structure before you know if the format even suits you. For planners, reminders and other tools beyond body doubling, see our guide to the [best ADHD apps for adults](/posts/best-adhd-apps-for-adults-guide).
 
 ---
 
