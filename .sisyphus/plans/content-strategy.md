@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-10-14 · **Published posts**: 55
+> **Last reviewed**: 2026-10-15 · **Published posts**: 56
 
 ---
 
@@ -112,7 +112,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-05 | ADHD time management | time | time blocking for ADHD; ADHD time management techniques adults; ADHD planner system | ✅ 2026-10-12 |
 | P2-06 | ADHD burnout | work | ADHD burnout symptoms; ADHD burnout recovery; ADHD masking at work | ✅ 2026-10-13 |
 | P2-07 | best ADHD apps for adults | tools | ADHD focus apps 2026; ADHD reminder apps; free ADHD apps | ✅ 2026-10-14 |
-| P2-08 | ADHD emotional dysregulation | focus | ADHD anger outbursts adults; ADHD emotional regulation strategies; why ADHD emotions feel so intense | ⬜ |
+| P2-08 | ADHD emotional dysregulation | focus | ADHD anger outbursts adults; ADHD emotional regulation strategies; why ADHD emotions feel so intense | ✅ 2026-10-15 |
 | P2-09 | ADHD coaching | focus | what does an ADHD coach do; ADHD coach vs therapist; is ADHD coaching worth it | ⬜ |
 | P2-10 | adult ADHD assessment Hong Kong | diagnosis | ADHD assessment cost Hong Kong; private vs public ADHD diagnosis HK | ⬜ |
 | P2-11 | ADHD medication Hong Kong | focus | ADHD medication availability HK; how to get ADHD medication Hong Kong | ⬜ |
@@ -160,6 +160,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-focus-timer-smartwatch-vibration-10-3-method` | ADHD focus timer | focus |
 | `body-doubling-for-adhd-best-apps-and-how-it-works` | body doubling ADHD | focus |
 | `adhd-medication-for-adults-what-to-expect-guide` | ADHD medication for adults | focus |
+| `adhd-emotional-dysregulation-adults-guide` | ADHD emotional dysregulation | focus |
 | `understanding-the-clinical-landscape-of-adhd-a-comprehensive-overview` | ADHD treatment overview | focus |
 | `fueling-the-adhd-brain-a-science-backed-guide-to-supplements` | ADHD supplements | focus |
 | `adult-adhd-diagnosis-guide` | adult ADHD diagnosis | diagnosis |

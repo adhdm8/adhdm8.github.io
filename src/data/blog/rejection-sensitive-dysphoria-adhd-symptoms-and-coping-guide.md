@@ -135,6 +135,10 @@ A: No validated RSD test exists. A thorough ADHD assessment that asks about emot
 
 ---
 
+RSD sits within a wider pattern of intense emotions in ADHD. For the bigger picture, including anger outbursts and regulation strategies, read our guide to [ADHD emotional dysregulation](/posts/adhd-emotional-dysregulation-adults-guide/).
+
+---
+
 ### Key Takeaways
 
 - Rejection sensitive dysphoria describes intense emotional pain triggered by perceived rejection or criticism, and it is commonly reported by adults with ADHD.
