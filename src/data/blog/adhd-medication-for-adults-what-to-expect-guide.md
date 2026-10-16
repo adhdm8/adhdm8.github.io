@@ -95,7 +95,7 @@ ADHD medication can improve attention and impulse control, but it doesn't teach 
 
 That's why research and clinical guidelines point toward combining medication with behavioral support such as coaching, CBT adapted for ADHD, or external tools. We break down how the two fit together in [Improve Focus with Behavioral Tools & Medication for ADHD](/posts/improve-focus-with-behavioral-tools-and-medication-for-adhd).
 
-For the wider treatment picture, including therapy and lifestyle factors, see our [clinical landscape overview](/posts/understanding-the-clinical-landscape-of-adhd-a-comprehensive-overview).
+For the wider treatment picture, including therapy and lifestyle factors, see our [clinical landscape overview](/posts/understanding-the-clinical-landscape-of-adhd-a-comprehensive-overview). If you're wondering whether a coach is worth adding, read our guide to [ADHD coaching](/posts/adhd-coaching-what-it-is-and-is-it-worth-it/).
 
 ---
 
