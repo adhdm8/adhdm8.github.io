@@ -124,7 +124,7 @@ Deep, uninterrupted creative or analytical work tends to suffer, since the socia
 - The likely drivers are mild accountability pressure, social dopamine, and social facilitation, though direct clinical research is still limited.
 - Focusmate, Discord body-double channels, and Forest's Plant Together mode are the most accessible apps to start with.
 - It works best for boring or dreaded tasks you're avoiding starting, not deep creative or analytical work.
-- It's a task-initiation tool, not a replacement for medication, therapy, or coaching.
+- It's a task-initiation tool, not a replacement for medication, therapy, or coaching. Curious about coaching? See [ADHD coaching: what it is and whether it's worth it](/posts/adhd-coaching-what-it-is-and-is-it-worth-it/).
 
 **Next step**: Pick one task you've been avoiding for over a week, and try it in a free Discord body-double channel or a 25-minute Focusmate session today.
 
