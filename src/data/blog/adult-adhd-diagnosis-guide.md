@@ -85,6 +85,10 @@ ADHD rarely travels alone. It often brings friends like Anxiety and Depression. 
 
 ---
 
+Living in Hong Kong? Our guide to the [adult ADHD assessment in Hong Kong](/posts/adult-adhd-assessment-hong-kong-cost-and-process/) covers local costs, waiting times, and who can diagnose.
+
+---
+
 ### Conclusion: A Label, Not a Life Sentence
 
 A diagnosis isn't a label meant to limit you. Think of it instead as a **user manual for your brain.**

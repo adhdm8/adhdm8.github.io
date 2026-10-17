@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-10-16 · **Published posts**: 57
+> **Last reviewed**: 2026-10-17 · **Published posts**: 58
 
 ---
 
@@ -114,7 +114,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-07 | best ADHD apps for adults | tools | ADHD focus apps 2026; ADHD reminder apps; free ADHD apps | ✅ 2026-10-14 |
 | P2-08 | ADHD emotional dysregulation | focus | ADHD anger outbursts adults; ADHD emotional regulation strategies; why ADHD emotions feel so intense | ✅ 2026-10-15 |
 | P2-09 | ADHD coaching | focus | what does an ADHD coach do; ADHD coach vs therapist; is ADHD coaching worth it | ✅ 2026-10-16 |
-| P2-10 | adult ADHD assessment Hong Kong | diagnosis | ADHD assessment cost Hong Kong; private vs public ADHD diagnosis HK | ⬜ |
+| P2-10 | adult ADHD assessment Hong Kong | diagnosis | ADHD assessment cost Hong Kong; private vs public ADHD diagnosis HK | ✅ 2026-10-17 |
 | P2-11 | ADHD medication Hong Kong | focus | ADHD medication availability HK; how to get ADHD medication Hong Kong | ⬜ |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
@@ -171,6 +171,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `inattentive-adhd-quiz-for-adults` | inattentive ADHD quiz | diagnosis |
 | `dr-russell-barkley-adhd-quiz-baars-bdefs-explained` | Barkley ADHD quiz (BAARS-IV) | diagnosis |
 | `adhd-public-services-hong-kong` | ADHD support Hong Kong | diagnosis |
+| `adult-adhd-assessment-hong-kong-cost-and-process` | adult ADHD assessment Hong Kong | diagnosis |
 | `the-adhd-career-guide-finding-your-niche-and-avoiding-the-boredom-trap` | ADHD careers | work |
 | `coding-with-a-bionic-brain-success-tips-for-software-engineers-with-adhd` | software engineer with ADHD | work |
 | `adhd-workplace-accommodations-guide` | ADHD workplace accommodations | work |
