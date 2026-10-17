@@ -18,6 +18,8 @@ This isn't another guide to getting diagnosed — we've already covered [navigat
 
 ---
 
+If you are wondering whether to get assessed, here is how an [adult ADHD assessment in Hong Kong](/posts/adult-adhd-assessment-hong-kong-cost-and-process/) works and what it costs.
+
 ### Why Hong Kong's Work Culture Is Especially Hard with ADHD
 
 Hong Kong's professional culture rewards exactly the traits ADHD makes difficult: sustained attention in long meetings, rigid punctuality across a packed calendar, and — critically — **never being seen to struggle**.

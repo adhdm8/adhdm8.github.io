@@ -19,7 +19,7 @@ If you live in Hong Kong, you already know that "waiting" is a way of life. But 
 
 Whether you're dealing with the chaos of a high-pressure career or just trying to manage the basic mental clutter of daily life, the question is always the same: _How do I actually get help in this city?_ (If you're still weighing whether it's worth pursuing at all, see our take on [ADHD and Hong Kong's work culture](/posts/adhd-and-hong-kong-work-culture/) first.)
 
-In Hong Kong, you essentially face a choice between two very different worlds: the affordable but slow public system, and the fast but expensive private sector. Let's break down how both work so you can decide which path fits your life.
+In Hong Kong, you essentially face a choice between two very different worlds: the affordable but slow public system, and the fast but expensive private sector. Let's break down how both work so you can decide which path fits your life. (Want the step-by-step version? See our [adult ADHD assessment in Hong Kong guide](/posts/adult-adhd-assessment-hong-kong-cost-and-process/).)
 
 ---
 
