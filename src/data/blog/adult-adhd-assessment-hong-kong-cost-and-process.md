@@ -141,6 +141,10 @@ A trustworthy clinician explains their process, asks about your whole life, and 
 
 ---
 
+> **After the diagnosis:** See how treatment access works in our guide to [ADHD medication in Hong Kong](/posts/adhd-medication-hong-kong-availability-and-how-to-get-it/).
+
+---
+
 ### Key Takeaways
 
 - A psychiatrist is the clinician who can diagnose adult ADHD and prescribe medication in Hong Kong; clinical psychologists can assess but cannot prescribe.
