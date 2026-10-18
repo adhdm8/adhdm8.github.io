@@ -88,6 +88,10 @@ A diagnosis is just the beginning. In a high-octane environment like Hong Kong, 
 
 ---
 
+> **Next up:** Read [ADHD medication in Hong Kong](/posts/adhd-medication-hong-kong-availability-and-how-to-get-it/) for prescriptions, costs, and refills.
+
+---
+
 ### Conclusion: Finding Your Path
 
 There is no single "right" way to navigate ADHD in Hong Kong. The "right" way is the one that balances your current financial reality with your urgent need for support.

@@ -128,6 +128,10 @@ A: When taken as prescribed for diagnosed ADHD, the risk of misuse is lower than
 
 ---
 
+> **Living in Hong Kong?** Our guide to [ADHD medication in Hong Kong](/posts/adhd-medication-hong-kong-availability-and-how-to-get-it/) covers local availability, costs, and how to get a prescription.
+
+---
+
 ### Key Takeaways
 
 - Stimulants (methylphenidate and amphetamine-based) are the usual first-line ADHD medication for adults and often work within a day.
