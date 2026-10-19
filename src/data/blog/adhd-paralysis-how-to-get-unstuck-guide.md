@@ -43,7 +43,7 @@ Several things tend to combine:
 
 #### A dopamine-hungry starting system
 
-ADHD brains generally respond less to tasks that are boring, delayed, or low-reward. Without urgency, novelty, or interest, the "go" signal stays quiet. This is why the same person can hyperfocus on a hobby for six hours and fail to open one bill.
+ADHD brains generally respond less to tasks that are boring, delayed, or low-reward. Without urgency, novelty, or interest, the "go" signal stays quiet. This is why the same person can hyperfocus on a hobby for six hours and fail to open one bill. We unpack that flip side in our [ADHD hyperfocus guide](/posts/adhd-hyperfocus-how-to-use-it-and-stop-it-guide/).
 
 #### Working memory overload
 

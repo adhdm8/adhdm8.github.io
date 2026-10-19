@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-10-18 · **Published posts**: 59
+> **Last reviewed**: 2026-10-19 · **Published posts**: 60
 
 ---
 
@@ -116,6 +116,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-09 | ADHD coaching | focus | what does an ADHD coach do; ADHD coach vs therapist; is ADHD coaching worth it | ✅ 2026-10-16 |
 | P2-10 | adult ADHD assessment Hong Kong | diagnosis | ADHD assessment cost Hong Kong; private vs public ADHD diagnosis HK | ✅ 2026-10-17 |
 | P2-11 | ADHD medication Hong Kong | focus | ADHD medication availability HK; how to get ADHD medication Hong Kong | ✅ 2026-10-18 |
+| P2-12 | ADHD hyperfocus | focus | why does ADHD cause hyperfocus; hyperfocus vs flow ADHD; how to stop ADHD hyperfocus | ✅ 2026-10-19 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -162,6 +163,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-medication-for-adults-what-to-expect-guide` | ADHD medication for adults | focus |
 | `adhd-emotional-dysregulation-adults-guide` | ADHD emotional dysregulation | focus |
 | `adhd-coaching-what-it-is-and-is-it-worth-it` | ADHD coaching | focus |
+| `adhd-hyperfocus-how-to-use-it-and-stop-it-guide` | ADHD hyperfocus | focus |
 | `understanding-the-clinical-landscape-of-adhd-a-comprehensive-overview` | ADHD treatment overview | focus |
 | `fueling-the-adhd-brain-a-science-backed-guide-to-supplements` | ADHD supplements | focus |
 | `adult-adhd-diagnosis-guide` | adult ADHD diagnosis | diagnosis |
