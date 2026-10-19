@@ -68,7 +68,7 @@ Exercise has a similarly outsized effect. Aerobic activity increases dopamine an
 
 ---
 
-Strong feelings derail focus too. If frustration or overwhelm is what knocks you off task, see our guide to [ADHD emotional dysregulation](/posts/adhd-emotional-dysregulation-adults-guide/).
+Focus can also overshoot: if you lose whole evenings to one absorbing task, see our guide to [ADHD hyperfocus](/posts/adhd-hyperfocus-how-to-use-it-and-stop-it-guide/). Strong feelings derail focus too. If frustration or overwhelm is what knocks you off task, see our guide to [ADHD emotional dysregulation](/posts/adhd-emotional-dysregulation-adults-guide/).
 
 ### FAQ: Improving Focus for ADHD and Non-ADHD Brains
 
