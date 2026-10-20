@@ -139,6 +139,10 @@ RSD sits within a wider pattern of intense emotions in ADHD. For the bigger pict
 
 ---
 
+**Related**: Strong feelings often show up in our wallets too. See [ADHD impulse spending](/posts/adhd-impulse-spending-why-it-happens-and-how-to-stop-guide/) for ways to protect your money when emotions run high.
+
+---
+
 ### Key Takeaways
 
 - Rejection sensitive dysphoria describes intense emotional pain triggered by perceived rejection or criticism, and it is commonly reported by adults with ADHD.

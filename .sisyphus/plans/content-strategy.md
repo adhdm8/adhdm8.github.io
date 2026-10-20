@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-10-19 · **Published posts**: 60
+> **Last reviewed**: 2026-10-20 · **Published posts**: 61
 
 ---
 
@@ -117,6 +117,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-10 | adult ADHD assessment Hong Kong | diagnosis | ADHD assessment cost Hong Kong; private vs public ADHD diagnosis HK | ✅ 2026-10-17 |
 | P2-11 | ADHD medication Hong Kong | focus | ADHD medication availability HK; how to get ADHD medication Hong Kong | ✅ 2026-10-18 |
 | P2-12 | ADHD hyperfocus | focus | why does ADHD cause hyperfocus; hyperfocus vs flow ADHD; how to stop ADHD hyperfocus | ✅ 2026-10-19 |
+| P2-13 | ADHD impulse spending | health | ADHD money management; why do I impulse buy ADHD; ADHD budgeting tips adults | ✅ 2026-10-20 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -183,6 +184,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-and-sleep-hygiene-science-backed-guide` | ADHD sleep hygiene | health |
 | `adhd-and-exercise-how-fitness-helps-the-adhd-brain` | ADHD and exercise | health |
 | `rejection-sensitive-dysphoria-adhd-symptoms-and-coping-guide` | rejection sensitive dysphoria ADHD | health |
+| `adhd-impulse-spending-why-it-happens-and-how-to-stop-guide` | ADHD impulse spending | health |
 | `adhd-and-life-expectancy-understanding-the-real-world-risks` | ADHD life expectancy | health |
 | `adhd-and-relationships-why-connection-feels-hard-and-how-to-make-it-easier` | ADHD relationships | health |
 | `navigating-the-road-safely-driving-with-adhd` | driving with ADHD | health |

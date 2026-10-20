@@ -133,6 +133,10 @@ Preventing ADHD burnout means building slack and early warning signs into your l
 
 ---
 
+**Related**: Strong feelings often show up in our wallets too. See [ADHD impulse spending](/posts/adhd-impulse-spending-why-it-happens-and-how-to-stop-guide/) for ways to protect your money when emotions run high.
+
+---
+
 ### Key Takeaways
 
 - ADHD burnout is not a formal diagnosis, but it describes real exhaustion caused by long-term compensation for ADHD demands.
