@@ -73,3 +73,5 @@ The most empowering insight from the sources is that ADHD is a **chronic develop
 By accepting that you are **"delay averse"** and "time blind," you can stop blaming yourself for being "lazy" and start building the external systems you need to thrive.
 
 Stuck even when you know the plan? Read our guide to [ADHD paralysis and how to get unstuck](/posts/adhd-paralysis-how-to-get-unstuck-guide).
+
+Time blindness hits hardest in the morning rush. See our [ADHD morning routine for adults](/posts/adhd-morning-routine-for-adults-that-actually-works/) for a checklist that makes the minutes visible.

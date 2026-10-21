@@ -139,6 +139,8 @@ Common mistakes with ADHD time management are mostly about over-engineering. Wat
 - **Relying on willpower**: if a system needs you to "remember", it needs an external cue
 - **Shaming a missed day**: one bad day is data, not a verdict. Restart tomorrow with the smallest version of the plan
 
+Mornings are where most time plans break first. Our [ADHD morning routine guide](/posts/adhd-morning-routine-for-adults-that-actually-works/) shows how to build one that survives a bad night's sleep.
+
 If you consistently cannot keep up despite good systems, or you suspect undiagnosed ADHD, our [adult ADHD diagnosis guide](/posts/adult-adhd-diagnosis-guide) explains the assessment process.
 
 ---
