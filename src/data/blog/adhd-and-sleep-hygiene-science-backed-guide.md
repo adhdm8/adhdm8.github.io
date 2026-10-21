@@ -155,6 +155,8 @@ You do not need to overhaul everything at once. Pick **one strategy** from this 
 
 Sleep is a skill you build, not a switch you flip. Be patient with your brain as you teach it new patterns. Small, consistent changes compound into better rest over weeks.
 
+Good sleep is half of a good start to the day; the other half is in our [ADHD morning routine guide](/posts/adhd-morning-routine-for-adults-that-actually-works/).
+
 **Better sleep will not fix your ADHD. But it will make every other management strategy work better.**
 
 ---
