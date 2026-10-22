@@ -108,6 +108,7 @@ That one-line note matters. It lowers the fear of losing your place, which is a 
 - Put meals in your calendar as real appointments
 - Keep water and a snack at your desk
 - Agree a check-in signal with housemates or your partner, such as a knock on the door at a set time
+- Keep a short [ADHD dopamine menu](/posts/adhd-dopamine-menu-how-to-build-one-guide/) of healthy breaks, so stopping means switching to something good, not just stopping
 
 ---
 
