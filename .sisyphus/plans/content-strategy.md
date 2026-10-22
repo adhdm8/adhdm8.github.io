@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-10-21 · **Published posts**: 62
+> **Last reviewed**: 2026-10-22 · **Published posts**: 63
 
 ---
 
@@ -119,6 +119,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-12 | ADHD hyperfocus | focus | why does ADHD cause hyperfocus; hyperfocus vs flow ADHD; how to stop ADHD hyperfocus | ✅ 2026-10-19 |
 | P2-13 | ADHD impulse spending | health | ADHD money management; why do I impulse buy ADHD; ADHD budgeting tips adults | ✅ 2026-10-20 |
 | P2-14 | ADHD morning routine | time | how to wake up with ADHD; ADHD morning routine checklist; why is it so hard to get out of bed ADHD | ✅ 2026-10-21 |
+| P2-15 | ADHD dopamine menu | focus | how to make a dopamine menu for ADHD; ADHD low dopamine activities; ADHD motivation when everything feels boring | ✅ 2026-10-22 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -167,6 +168,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-emotional-dysregulation-adults-guide` | ADHD emotional dysregulation | focus |
 | `adhd-coaching-what-it-is-and-is-it-worth-it` | ADHD coaching | focus |
 | `adhd-hyperfocus-how-to-use-it-and-stop-it-guide` | ADHD hyperfocus | focus |
+| `adhd-dopamine-menu-how-to-build-one-guide` | ADHD dopamine menu | focus |
 | `understanding-the-clinical-landscape-of-adhd-a-comprehensive-overview` | ADHD treatment overview | focus |
 | `fueling-the-adhd-brain-a-science-backed-guide-to-supplements` | ADHD supplements | focus |
 | `adult-adhd-diagnosis-guide` | adult ADHD diagnosis | diagnosis |
