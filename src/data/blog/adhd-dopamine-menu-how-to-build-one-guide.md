@@ -121,6 +121,8 @@ Dopamine menus fail for predictable reasons, and most are fixable.
 
 Poor sleep also flattens motivation, so check the basics in our [ADHD and sleep hygiene guide](/posts/adhd-and-sleep-hygiene-science-backed-guide/).
 
+Dopamine menu "sides" also make chores bearable; see our [ADHD cleaning tips](/posts/adhd-cleaning-tips-how-to-clean-your-home-guide/) for examples.
+
 ---
 
 ### FAQ: ADHD Dopamine Menus

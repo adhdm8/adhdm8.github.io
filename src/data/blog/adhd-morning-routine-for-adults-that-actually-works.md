@@ -114,6 +114,8 @@ Create a **"minimum viable morning"** of three steps: water, medication and dres
 
 Persistent trouble with sleep, mood or waking despite good habits is worth raising with a doctor. For evidence-based information on ADHD in adults, see the [NIMH ADHD overview](https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd) and [CHADD](https://chadd.org/).
 
+Mornings are also when the dishes and laundry pile up, so pair this with a 10-minute reset from our [ADHD cleaning tips](/posts/adhd-cleaning-tips-how-to-clean-your-home-guide/).
+
 ---
 
 ### Key Takeaways
