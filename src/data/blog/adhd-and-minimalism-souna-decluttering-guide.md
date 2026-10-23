@@ -92,6 +92,8 @@ Most likely the system moved frequently used items out of your direct line of si
 
 **ADHD and minimalism** work well together, but only when the storage half of the equation, whether that's 收納-style boxes or a generic decluttering app, respects how ADHD attention actually works: fewer objects, yes, but visible ones, not hidden ones.
 
+Once the clutter is down, keep the house running with our [ADHD cleaning tips](/posts/adhd-cleaning-tips-how-to-clean-your-home-guide/).
+
 **Key takeaways:**
 
 - Clutter taxes ADHD brains harder because every visible object competes for attention that's already hard to filter.

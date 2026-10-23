@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-10-22 · **Published posts**: 63
+> **Last reviewed**: 2026-10-23 · **Published posts**: 64
 
 ---
 
@@ -120,6 +120,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-13 | ADHD impulse spending | health | ADHD money management; why do I impulse buy ADHD; ADHD budgeting tips adults | ✅ 2026-10-20 |
 | P2-14 | ADHD morning routine | time | how to wake up with ADHD; ADHD morning routine checklist; why is it so hard to get out of bed ADHD | ✅ 2026-10-21 |
 | P2-15 | ADHD dopamine menu | focus | how to make a dopamine menu for ADHD; ADHD low dopamine activities; ADHD motivation when everything feels boring | ✅ 2026-10-22 |
+| P2-16 | ADHD cleaning tips | time | how to clean a messy house with ADHD; why is cleaning so hard with ADHD; ADHD cleaning schedule; how to start cleaning when frozen | ✅ 2026-10-23 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -157,6 +158,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-and-minimalism-souna-decluttering-guide` | ADHD decluttering | time |
 | `adhd-number-1-trick-to-focus-now` | ADHD focus trick | time |
 | `adhd-paralysis-how-to-get-unstuck-guide` | ADHD paralysis | time |
+| `adhd-cleaning-tips-how-to-clean-your-home-guide` | ADHD cleaning tips | time |
 | `adhd-morning-routine-for-adults-that-actually-works` | ADHD morning routine | time |
 | `bridging-the-knowing-doing-gap-science-backed-tools-for-managing-adhd` | ADHD knowing-doing gap | time |
 | `how-to-read-books-with-adhd` | how to read with ADHD | time |
