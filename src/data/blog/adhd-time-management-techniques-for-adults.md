@@ -159,6 +159,8 @@ If you consistently cannot keep up despite good systems, or you suspect undiagno
 
 **A:** Running late with ADHD usually comes from underestimating how long tasks and transitions take, combined with time blindness. Working backwards from the arrival time and adding a 50% buffer helps.
 
+Struggling to start rather than freeze? See [ADHD procrastination: why you delay and how to stop](/posts/adhd-procrastination-why-you-delay-and-how-to-stop-guide).
+
 ---
 
 ### Key Takeaways
