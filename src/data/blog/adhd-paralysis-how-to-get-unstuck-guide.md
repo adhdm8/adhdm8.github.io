@@ -128,6 +128,8 @@ If knowing the strategies but not using them is your pattern, the [knowing-doing
 
 Occasional freezing is part of life with ADHD. But if paralysis is constant, hurting your work or relationships, or comes with persistent low mood, anxiety, or hopelessness, speak to a doctor or mental health professional. Paralysis can also overlap with anxiety (see [ADHD and anxiety](/posts/adhd-and-anxiety-how-to-tell-the-difference-guide)) and depression, and treatment for those, or reviewing ADHD treatment itself, can help. See our [adult ADHD medication guide](/posts/adhd-medication-for-adults-what-to-expect-guide) for what to discuss with a prescriber. If you are in crisis, contact local emergency services or a crisis line.
 
+Struggling to start rather than freeze? See [ADHD procrastination: why you delay and how to stop](/posts/adhd-procrastination-why-you-delay-and-how-to-stop-guide).
+
 ---
 
 ### Key Takeaways
