@@ -81,6 +81,9 @@ A: Fix task initiation first, usually through body doubling or a short external 
 **Q: Why do external timers work better than just trying to focus longer?**
 A: Because they remove the need to accurately judge time passing, a skill that's unreliable in most brains once attention is engaged, and replace it with an external, unambiguous signal.
 
+If your focus problem is really a "my thoughts keep vanishing" problem, read our guide to [ADHD working memory](/posts/adhd-working-memory-why-you-forget-and-what-helps-guide).
+
+
 ---
 
 ### Key Takeaways
