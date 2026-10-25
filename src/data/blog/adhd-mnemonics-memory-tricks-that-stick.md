@@ -169,6 +169,8 @@ Mnemonics are also handy for studying and reading. If you struggle to keep what 
 **Q:** Are mnemonics a replacement for ADHD treatment?
 **A:** No. They are a practical coping tool. If memory problems are affecting your work or daily life, talk to a doctor or ADHD specialist about treatment options.
 
+Mnemonics help information stick, but they can't fix in-the-moment forgetting. For that, see our guide to [ADHD working memory](/posts/adhd-working-memory-why-you-forget-and-what-helps-guide).
+
 ---
 
 ### Key Takeaways
