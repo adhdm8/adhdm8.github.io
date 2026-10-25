@@ -83,7 +83,6 @@ A: Because they remove the need to accurately judge time passing, a skill that's
 
 If your focus problem is really a "my thoughts keep vanishing" problem, read our guide to [ADHD working memory](/posts/adhd-working-memory-why-you-forget-and-what-helps-guide).
 
-
 ---
 
 ### Key Takeaways

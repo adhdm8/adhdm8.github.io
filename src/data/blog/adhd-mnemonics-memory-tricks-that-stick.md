@@ -171,7 +171,6 @@ Mnemonics are also handy for studying and reading. If you struggle to keep what 
 
 Mnemonics help information stick, but they can't fix in-the-moment forgetting. For that, see our guide to [ADHD working memory](/posts/adhd-working-memory-why-you-forget-and-what-helps-guide).
 
-
 ---
 
 ### Key Takeaways
