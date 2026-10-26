@@ -114,6 +114,10 @@ Memory techniques can also help in specific situations. Our post on [ADHD mnemon
 
 ---
 
+Working memory is one of several executive functions. For the full picture, see [ADHD executive dysfunction](/posts/adhd-executive-dysfunction-signs-and-strategies-guide).
+
+---
+
 ### FAQ: ADHD Working Memory
 
 **Q: Is forgetfulness a sign of ADHD?**

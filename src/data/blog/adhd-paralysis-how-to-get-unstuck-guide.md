@@ -130,6 +130,8 @@ Occasional freezing is part of life with ADHD. But if paralysis is constant, hur
 
 Struggling to start rather than freeze? See [ADHD procrastination: why you delay and how to stop](/posts/adhd-procrastination-why-you-delay-and-how-to-stop-guide).
 
+Want the bigger picture behind freezing? See [ADHD executive dysfunction: signs and what helps](/posts/adhd-executive-dysfunction-signs-and-strategies-guide).
+
 ---
 
 ### Key Takeaways
