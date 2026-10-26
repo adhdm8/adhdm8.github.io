@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-10-25 · **Published posts**: 66
+> **Last reviewed**: 2026-10-26 · **Published posts**: 67
 
 ---
 
@@ -123,6 +123,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-16 | ADHD cleaning tips | time | how to clean a messy house with ADHD; why is cleaning so hard with ADHD; ADHD cleaning schedule; how to start cleaning when frozen | ✅ 2026-10-23 |
 | P2-17 | ADHD procrastination | time | why do I procrastinate with ADHD; ADHD procrastination vs laziness; how to stop procrastinating with ADHD; ADHD procrastination tips for adults | ✅ 2026-10-24 |
 | P2-18 | ADHD working memory | focus | why does ADHD cause forgetfulness; ADHD forgetfulness adults; how to cope with ADHD forgetting things; working memory vs short-term memory ADHD | ✅ 2026-10-25 |
+| P2-19 | ADHD executive dysfunction | time | signs of executive dysfunction adults; why can't I start tasks I want to do ADHD; executive dysfunction vs laziness; ADHD executive function strategies | ✅ 2026-10-26 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -162,6 +163,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-paralysis-how-to-get-unstuck-guide` | ADHD paralysis | time |
 | `adhd-cleaning-tips-how-to-clean-your-home-guide` | ADHD cleaning tips | time |
 | `adhd-procrastination-why-you-delay-and-how-to-stop-guide` | ADHD procrastination | time |
+| `adhd-executive-dysfunction-signs-and-strategies-guide` | ADHD executive dysfunction | time |
 | `adhd-morning-routine-for-adults-that-actually-works` | ADHD morning routine | time |
 | `bridging-the-knowing-doing-gap-science-backed-tools-for-managing-adhd` | ADHD knowing-doing gap | time |
 | `how-to-read-books-with-adhd` | how to read with ADHD | time |

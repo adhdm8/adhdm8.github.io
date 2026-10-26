@@ -74,6 +74,8 @@ By accepting that you are **"delay averse"** and "time blind," you can stop blam
 
 Stuck even when you know the plan? Read our guide to [ADHD paralysis and how to get unstuck](/posts/adhd-paralysis-how-to-get-unstuck-guide).
 
+Time blindness is one piece of a bigger picture. Read about [ADHD executive dysfunction](/posts/adhd-executive-dysfunction-signs-and-strategies-guide) for the full set of signs and fixes.
+
 Time blindness hits hardest in the morning rush. See our [ADHD morning routine for adults](/posts/adhd-morning-routine-for-adults-that-actually-works/) for a checklist that makes the minutes visible.
 
 Procrastinating on tasks you care about? Read [ADHD procrastination: why you delay and how to stop](/posts/adhd-procrastination-why-you-delay-and-how-to-stop-guide).
