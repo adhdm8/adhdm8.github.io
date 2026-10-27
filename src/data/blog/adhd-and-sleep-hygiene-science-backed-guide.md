@@ -159,6 +159,8 @@ Good sleep is half of a good start to the day; the other half is in our [ADHD mo
 
 **Better sleep will not fix your ADHD. But it will make every other management strategy work better.**
 
+Tired brains also filter noise and light badly. Our guide to [ADHD sensory overload](/posts/adhd-sensory-overload-adults-signs-and-coping-guide) explains why, and how to cope.
+
 ---
 
 ### Key Takeaways
