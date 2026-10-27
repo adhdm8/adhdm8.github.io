@@ -128,6 +128,8 @@ A: Yes. Sleep, exercise, skills-based therapy and, for some, medication can all 
 
 **Related**: Strong feelings often show up in our wallets too. See [ADHD impulse spending](/posts/adhd-impulse-spending-why-it-happens-and-how-to-stop-guide/) for ways to protect your money when emotions run high.
 
+Overstimulation can also tip emotions over the edge. See [ADHD sensory overload](/posts/adhd-sensory-overload-adults-signs-and-coping-guide) for how noise, light and crowds drain your coping capacity.
+
 ---
 
 ### Key Takeaways

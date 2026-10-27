@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-10-26 · **Published posts**: 67
+> **Last reviewed**: 2026-10-27 · **Published posts**: 68
 
 ---
 
@@ -124,6 +124,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-17 | ADHD procrastination | time | why do I procrastinate with ADHD; ADHD procrastination vs laziness; how to stop procrastinating with ADHD; ADHD procrastination tips for adults | ✅ 2026-10-24 |
 | P2-18 | ADHD working memory | focus | why does ADHD cause forgetfulness; ADHD forgetfulness adults; how to cope with ADHD forgetting things; working memory vs short-term memory ADHD | ✅ 2026-10-25 |
 | P2-19 | ADHD executive dysfunction | time | signs of executive dysfunction adults; why can't I start tasks I want to do ADHD; executive dysfunction vs laziness; ADHD executive function strategies | ✅ 2026-10-26 |
+| P2-20 | ADHD sensory overload | health | ADHD sensory overload signs adults; why am I so sensitive to noise ADHD; how to cope with sensory overload ADHD; ADHD or autism sensory sensitivity | ✅ 2026-10-27 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -196,6 +197,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-and-sleep-hygiene-science-backed-guide` | ADHD sleep hygiene | health |
 | `adhd-and-exercise-how-fitness-helps-the-adhd-brain` | ADHD and exercise | health |
 | `rejection-sensitive-dysphoria-adhd-symptoms-and-coping-guide` | rejection sensitive dysphoria ADHD | health |
+| `adhd-sensory-overload-adults-signs-and-coping-guide` | ADHD sensory overload | health |
 | `adhd-impulse-spending-why-it-happens-and-how-to-stop-guide` | ADHD impulse spending | health |
 | `adhd-and-life-expectancy-understanding-the-real-world-risks` | ADHD life expectancy | health |
 | `adhd-and-relationships-why-connection-feels-hard-and-how-to-make-it-easier` | ADHD relationships | health |
