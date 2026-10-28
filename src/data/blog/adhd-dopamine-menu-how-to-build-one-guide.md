@@ -121,6 +121,8 @@ Dopamine menus fail for predictable reasons, and most are fixable.
 
 Poor sleep also flattens motivation, so check the basics in our [ADHD and sleep hygiene guide](/posts/adhd-and-sleep-hygiene-science-backed-guide/).
 
+If your default "snack" is the feed, read why [ADHD doomscrolling](/posts/adhd-doomscrolling-why-you-cant-stop-and-how-to-break-the-loop) is so sticky and how to break it.
+
 Dopamine menu "sides" also make chores bearable; see our [ADHD cleaning tips](/posts/adhd-cleaning-tips-how-to-clean-your-home-guide/) for examples.
 
 ---
