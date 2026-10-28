@@ -129,6 +129,10 @@ Melatonin helps shift your circadian clock but does not sedate you like sleeping
 
 ---
 
+Late-night phone use is a common culprit. Our guide to [ADHD doomscrolling](/posts/adhd-doomscrolling-why-you-cant-stop-and-how-to-break-the-loop) shows how to break the bedtime scroll.
+
+---
+
 ### When to Seek Professional Help
 
 Sometimes sleep problems go beyond what self-management can fix. Consider professional evaluation if you have:
