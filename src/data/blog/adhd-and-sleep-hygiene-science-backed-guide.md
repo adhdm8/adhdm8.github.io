@@ -90,6 +90,7 @@ Stimulant medication can disrupt sleep if timed poorly, but the bigger culprit i
 
 - Stop caffeine at least **8-10 hours before bedtime** (noon if you aim for sleep at 10 PM)
 - Remember that chocolate, tea, and some medications contain caffeine
+- For the full picture, read our guide to [ADHD and caffeine](/posts/adhd-and-caffeine-does-coffee-help-or-hurt-guide)
 - Track your personal cutoff time experimentally
 
 Some people find their evening dose of stimulant medication actually helps them sleep by calming the racing mind. Others need to take it earlier. Work with your prescriber to optimize timing.
