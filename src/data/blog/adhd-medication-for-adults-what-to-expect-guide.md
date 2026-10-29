@@ -107,7 +107,7 @@ Walking into an appointment with a short list helps, because ADHD brains tend to
 - What dose will we start on, and how will we adjust it?
 - What should I do if I miss a dose or take it too late?
 - How will you monitor my blood pressure and heart rate?
-- Does this interact with my other medications, caffeine, or alcohol?
+- Does this interact with my other medications, [caffeine](/posts/adhd-and-caffeine-does-coffee-help-or-hurt-guide), or alcohol?
 - How long should I try it before we decide it isn't working?
 
 ---

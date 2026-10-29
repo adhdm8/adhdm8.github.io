@@ -32,7 +32,7 @@ Since ADHD is often characterized by lower levels of dopamine, supplements that 
 
 - **L-Tyrosine:** This amino acid is a precursor to dopamine and has been shown to **improve working memory**, particularly in multitasking or high-stress environments. While research studies sometimes use very high doses, practical starting points are often between **250mg and 500mg**.
 - **Mucuna Pruriens:** Derived from a velvety bean, this supplement contains high levels of **L-Dopa**, the direct precursor to dopamine. While it provides a potent increase in motivation and alertness, it is often associated with a "crash" or a reduction in baseline dopamine once it wears off.
-- **Caffeine and Yerba Mate:** Caffeine increases energy and has the long-term benefit of **upregulating dopamine receptors** (D2 and D3), making the brain more sensitive to the dopamine it already has. **Yerba mate** is particularly interesting because it provides caffeine and antioxidants that may be **neuroprotective** for dopamine-producing neurons.
+- **Caffeine and Yerba Mate** (see our [ADHD and caffeine guide](/posts/adhd-and-caffeine-does-coffee-help-or-hurt-guide)): Caffeine increases energy and has the long-term benefit of **upregulating dopamine receptors** (D2 and D3), making the brain more sensitive to the dopamine it already has. **Yerba mate** is particularly interesting because it provides caffeine and antioxidants that may be **neuroprotective** for dopamine-producing neurons.
 
 ### **3. Cholinergic and "Focus" Compounds**
 
