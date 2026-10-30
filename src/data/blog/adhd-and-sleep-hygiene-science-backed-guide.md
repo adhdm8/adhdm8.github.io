@@ -168,6 +168,10 @@ Tired brains also filter noise and light badly. Our guide to [ADHD sensory overl
 
 ---
 
+Alcohol is another sleep trap: it can speed up falling asleep but fragments the rest of the night. See [ADHD and alcohol](/posts/adhd-and-alcohol-why-drinking-hits-different-guide) for the full picture.
+
+---
+
 ### Key Takeaways
 
 - **50-75% of adults with ADHD have sleep problems** — you are not alone in this struggle

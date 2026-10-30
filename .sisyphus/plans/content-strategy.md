@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-10-29 · **Published posts**: 70
+> **Last reviewed**: 2026-10-30 · **Published posts**: 71
 
 ---
 
@@ -127,6 +127,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-20 | ADHD sensory overload | health | ADHD sensory overload signs adults; why am I so sensitive to noise ADHD; how to cope with sensory overload ADHD; ADHD or autism sensory sensitivity | ✅ 2026-10-27 |
 | P2-21 | ADHD doomscrolling | health | why can't I stop doomscrolling ADHD; ADHD social media addiction adults; how to stop doomscrolling with ADHD; ADHD screen time tips | ✅ 2026-10-28 |
 | P2-22 | ADHD and caffeine | health | does caffeine help ADHD; why does coffee calm me ADHD; caffeine with ADHD medication; how much caffeine is too much ADHD | ✅ 2026-10-29 |
+| P2-23 | ADHD and alcohol | health | why does alcohol feel different with ADHD; ADHD and drinking risk adults; alcohol and ADHD medication; how to cut back on alcohol with ADHD | ✅ 2026-10-30 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -199,6 +200,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-and-sleep-hygiene-science-backed-guide` | ADHD sleep hygiene | health |
 | `adhd-and-exercise-how-fitness-helps-the-adhd-brain` | ADHD and exercise | health |
 | `adhd-and-caffeine-does-coffee-help-or-hurt-guide` | ADHD and caffeine | health |
+| `adhd-and-alcohol-why-drinking-hits-different-guide` | ADHD and alcohol | health |
 | `rejection-sensitive-dysphoria-adhd-symptoms-and-coping-guide` | rejection sensitive dysphoria ADHD | health |
 | `adhd-sensory-overload-adults-signs-and-coping-guide` | ADHD sensory overload | health |
 | `adhd-doomscrolling-why-you-cant-stop-and-how-to-break-the-loop` | ADHD doomscrolling | health |
