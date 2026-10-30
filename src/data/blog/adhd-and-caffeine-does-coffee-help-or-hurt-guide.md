@@ -155,6 +155,10 @@ For general information on ADHD and its treatment, see the [National Institute o
 
 ---
 
+Thinking about alcohol rather than coffee? Read [ADHD and alcohol](/posts/adhd-and-alcohol-why-drinking-hits-different-guide).
+
+---
+
 ### Key Takeaways
 
 - Caffeine can modestly improve alertness in some people with ADHD, but research shows it is far less effective than prescribed ADHD medication.

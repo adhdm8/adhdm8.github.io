@@ -126,6 +126,10 @@ Persistent financial shame can also overlap with low mood or burnout. If that so
 
 ---
 
+Impulse control slips in other areas too, including drinking. Our guide to [ADHD and alcohol](/posts/adhd-and-alcohol-why-drinking-hits-different-guide) covers the same friction-over-willpower approach.
+
+---
+
 ### Key Takeaways
 
 - ADHD impulse spending is linked to steep delay discounting, where immediate rewards feel more valuable than future ones.
