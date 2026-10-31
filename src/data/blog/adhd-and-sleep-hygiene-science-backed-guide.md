@@ -40,7 +40,7 @@ The evening often becomes the only time the ADHD brain feels free to process eve
 
 This term describes the phenomenon of staying up late intentionally, even when tired, because the evening feels like the only time you control your own time. For people with ADHD, who often feel controlled by external demands all day, **resisting bedtime becomes an act of rebellion.**
 
-The problem is physiological, not just psychological. ADHD brains crave stimulation and resist transitions. Bedtime is both understimulating and a major transition. Your brain literally fights the very concept.
+The problem is physiological, not just psychological. ADHD brains crave stimulation and resist transitions. Bedtime is both understimulating and a major transition. Your brain literally fights the very concept. For a deeper dive, see our guide to [ADHD revenge bedtime procrastination](/posts/adhd-revenge-bedtime-procrastination-why-you-stay-up-guide).
 
 ---
 

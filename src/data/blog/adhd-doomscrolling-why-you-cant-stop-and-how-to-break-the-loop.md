@@ -59,7 +59,7 @@ Doomscrolling makes ADHD symptoms worse by stealing sleep, flooding your attenti
 
 #### It wrecks sleep
 
-Late-night scrolling pushes bedtime back and floods your brain with stimulation right when it should wind down. Our [ADHD and sleep hygiene guide](/posts/adhd-and-sleep-hygiene-science-backed-guide) covers why ADHD brains already struggle to switch off at night.
+Late-night scrolling pushes bedtime back and floods your brain with stimulation right when it should wind down. Our [ADHD and sleep hygiene guide](/posts/adhd-and-sleep-hygiene-science-backed-guide) covers why ADHD brains already struggle to switch off at night. If the scrolling is really about reclaiming your evening, read [ADHD revenge bedtime procrastination](/posts/adhd-revenge-bedtime-procrastination-why-you-stay-up-guide).
 
 #### It fuels anxiety and rumination
 
