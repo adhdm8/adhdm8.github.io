@@ -66,7 +66,7 @@ ADHD burnout happens when the energy cost of compensating outruns your ability t
 
 ADHD masking at work means hiding or overriding your natural ADHD behaviours to appear more organised, calm, and "professional" than feels natural. Typical examples are forcing eye contact, suppressing fidgeting, pre-scripting conversations, and secretly spending evenings fixing mistakes nobody noticed.
 
-Masking is exhausting because it demands constant self-monitoring on top of the actual job. Researchers have studied this kind of "camouflaging" more extensively in autism than in ADHD, so evidence specific to ADHD is still developing. Even so, many adults, especially women diagnosed late, describe the same pattern of high effort and invisible cost. Our guide to [ADHD testing for women](/posts/adhd-test-for-women-self-screening-guide) explores why this goes unnoticed.
+Masking is exhausting because it demands constant self-monitoring on top of the actual job. Researchers have studied this kind of "camouflaging" more extensively in autism than in ADHD, so evidence specific to ADHD is still developing. Even so, many adults, especially women diagnosed late, describe the same pattern of high effort and invisible cost. Our guide to [ADHD testing for women](/posts/adhd-test-for-women-self-screening-guide) explores why this goes unnoticed. For a full breakdown of the signs and how to ease off, see our guide to [ADHD masking in adults](/posts/adhd-masking-in-adults-signs-costs-and-how-to-unmask-guide).
 
 Signs you're masking heavily:
 
