@@ -85,6 +85,10 @@ ADHD rarely travels alone. It often brings friends like Anxiety and Depression. 
 
 ---
 
+Confused by the old "ADD" label? Our explainer on [ADD vs ADHD](/posts/add-vs-adhd-whats-the-difference-explained) shows how the names and presentations fit together.
+
+---
+
 Living in Hong Kong? Our guide to the [adult ADHD assessment in Hong Kong](/posts/adult-adhd-assessment-hong-kong-cost-and-process/) covers local costs, waiting times, and who can diagnose.
 
 ---
