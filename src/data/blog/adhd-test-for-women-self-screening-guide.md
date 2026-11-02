@@ -78,6 +78,10 @@ A self-test — this one or any other — is a reason to seek an evaluation, not
 
 ---
 
+**Related**: Many women hide symptoms for years. Read about [ADHD masking in adults](/posts/adhd-masking-in-adults-signs-costs-and-how-to-unmask-guide) and what it costs.
+
+---
+
 ### FAQ
 
 **Q: Is ADHD really different in women, or is this overstated?**

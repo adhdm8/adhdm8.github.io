@@ -73,6 +73,10 @@ Time-related barriers specifically — missed deadlines, chronic lateness to mee
 
 ---
 
+**Related**: Hiding your symptoms at work is exhausting. See [ADHD masking in adults](/posts/adhd-masking-in-adults-signs-costs-and-how-to-unmask-guide) for how to ease off safely.
+
+---
+
 ### FAQ
 
 **Q: What are examples of reasonable ADHD accommodations at work?**

@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-11-02 · **Published posts**: 73
+> **Last reviewed**: 2026-11-02 · **Published posts**: 74
 
 ---
 
@@ -129,7 +129,8 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-22 | ADHD and caffeine | health | does caffeine help ADHD; why does coffee calm me ADHD; caffeine with ADHD medication; how much caffeine is too much ADHD | ✅ 2026-10-29 |
 | P2-23 | ADHD and alcohol | health | why does alcohol feel different with ADHD; ADHD and drinking risk adults; alcohol and ADHD medication; how to cut back on alcohol with ADHD | ✅ 2026-10-30 |
 | P2-24 | ADHD revenge bedtime procrastination | health | why do I stay up late when tired ADHD; ADHD delayed sleep phase adults; how to stop revenge bedtime procrastination ADHD; ADHD bedtime routine tips | ✅ 2026-10-31 |
-| P2-25 | ADD vs ADHD | diagnosis | is ADD the same as ADHD; inattentive ADHD vs ADD; ADHD presentations adults; why was ADD renamed ADHD | ✅ 2026-11-02 |
+| P2-25 | ADHD masking in adults | work | signs of ADHD masking; why do adults with ADHD mask; ADHD masking women late diagnosis; how to unmask ADHD safely | ✅ 2026-11-01 |
+| P2-26 | ADD vs ADHD | diagnosis | is ADD the same as ADHD; inattentive ADHD vs ADD; ADHD presentations adults; why was ADD renamed ADHD | ✅ 2026-11-02 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -200,6 +201,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-workplace-accommodations-guide` | ADHD workplace accommodations | work |
 | `adhd-and-hong-kong-work-culture` | ADHD Hong Kong work culture | work |
 | `adhd-burnout-symptoms-and-recovery-guide` | ADHD burnout | work |
+| `adhd-masking-in-adults-signs-costs-and-how-to-unmask-guide` | ADHD masking in adults | work |
 | `adhd-and-sleep-hygiene-science-backed-guide` | ADHD sleep hygiene | health |
 | `adhd-and-exercise-how-fitness-helps-the-adhd-brain` | ADHD and exercise | health |
 | `adhd-revenge-bedtime-procrastination-why-you-stay-up-guide` | ADHD revenge bedtime procrastination | health |
