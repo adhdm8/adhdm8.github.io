@@ -91,7 +91,7 @@ Standard screeners like the ASRS-6 sample only a few items from all eighteen DSM
 
 ### This Quiz Is a Screener, Not a Diagnosis
 
-A score of 5 or more is a genuine, evidence-based reason to pursue evaluation, not a diagnosis on its own. Only a clinician can confirm the symptoms have been present since childhood, rule out overlapping conditions like anxiety or depression, and assess how much they're actually impairing your life. Our [Adult ADHD Diagnosis Guide](/posts/adult-adhd-diagnosis-guide/) walks through what that evaluation process looks like end to end.
+A score of 5 or more is a genuine, evidence-based reason to pursue evaluation, not a diagnosis on its own. Only a clinician can confirm the symptoms have been present since childhood, rule out overlapping conditions like anxiety or depression, and assess how much they're actually impairing your life. Our [Adult ADHD Diagnosis Guide](/posts/adult-adhd-diagnosis-guide/) walks through what that evaluation process looks like end to end. Wondering why inattentive ADHD used to be called "ADD"? See [ADD vs ADHD: what's the difference](/posts/add-vs-adhd-whats-the-difference-explained).
 
 ---
 
