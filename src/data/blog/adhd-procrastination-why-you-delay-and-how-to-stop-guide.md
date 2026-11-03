@@ -146,6 +146,10 @@ A: Shrink the first step to two minutes, set a timer, and remove the need to do 
 
 ---
 
+Shame piling up on a task? See the [ADHD wall of awful](/posts/adhd-wall-of-awful-what-it-is-and-how-to-get-past-it).
+
+---
+
 ### Key Takeaways
 
 - ADHD procrastination is a difficulty with starting and sustaining effort on low-reward tasks, not a lack of caring or discipline.
