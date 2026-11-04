@@ -66,6 +66,8 @@ Once you can see time, the next step is planning with it. Our guide to [ADHD tim
 
 ---
 
+Related: when tasks feel emotionally heavy, not just time-distorted, read the [ADHD wall of awful](/posts/adhd-wall-of-awful-what-it-is-and-how-to-get-past-it).
+
 ### **A New Mindset**
 
 The most empowering insight from the sources is that ADHD is a **chronic developmental disability**, much like diabetes of the brain. It requires daily management through "prosthetic environments"—tools and scaffolding that help you show what you truly know.
