@@ -142,6 +142,10 @@ A: Medication may reduce overall distractibility and overwhelm for some people, 
 
 ---
 
+Sound is a common trigger, and steady background sound can mask it. See whether [brown noise helps ADHD focus](/posts/adhd-brown-noise-does-it-help-focus-guide).
+
+---
+
 ### Key Takeaways
 
 - ADHD sensory overload happens when the brain receives more sound, light, touch or movement than it can filter at once.
