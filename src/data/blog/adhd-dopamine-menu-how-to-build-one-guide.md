@@ -143,6 +143,10 @@ A: Novelty fades quickly with ADHD. Rotate items every few weeks and add new one
 
 ---
 
+Want a free, low-effort item for your menu? Try [ADHD brown noise](/posts/adhd-brown-noise-does-it-help-focus-guide) for a focus block.
+
+---
+
 ### Key Takeaways
 
 - An ADHD dopamine menu is a pre-written list of healthy rewards, grouped by effort and time, that you choose from when motivation drops.

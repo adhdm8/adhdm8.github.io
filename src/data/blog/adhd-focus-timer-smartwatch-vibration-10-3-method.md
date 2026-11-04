@@ -75,6 +75,10 @@ If you're using this alongside **body doubling** — working near someone else, 
 
 ---
 
+Pair your timer with background sound to test what works: [ADHD brown noise](/posts/adhd-brown-noise-does-it-help-focus-guide) is an easy A/B experiment.
+
+---
+
 ### Key Takeaways
 
 - The **10-3 method** uses 10-minute work sprints and 3-minute rests on a repeating loop, signaled by smartwatch vibration instead of sound.

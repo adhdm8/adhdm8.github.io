@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-11-02 · **Published posts**: 74
+> **Last reviewed**: 2026-11-03 · **Published posts**: 75
 
 ---
 
@@ -131,6 +131,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-24 | ADHD revenge bedtime procrastination | health | why do I stay up late when tired ADHD; ADHD delayed sleep phase adults; how to stop revenge bedtime procrastination ADHD; ADHD bedtime routine tips | ✅ 2026-10-31 |
 | P2-25 | ADHD masking in adults | work | signs of ADHD masking; why do adults with ADHD mask; ADHD masking women late diagnosis; how to unmask ADHD safely | ✅ 2026-11-01 |
 | P2-26 | ADD vs ADHD | diagnosis | is ADD the same as ADHD; inattentive ADHD vs ADD; ADHD presentations adults; why was ADD renamed ADHD | ✅ 2026-11-02 |
+| P2-27 | ADHD brown noise | focus | does brown noise help ADHD focus; brown noise vs white noise ADHD; best background noise for ADHD | ✅ 2026-11-03 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -183,6 +184,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-coaching-what-it-is-and-is-it-worth-it` | ADHD coaching | focus |
 | `adhd-hyperfocus-how-to-use-it-and-stop-it-guide` | ADHD hyperfocus | focus |
 | `adhd-dopamine-menu-how-to-build-one-guide` | ADHD dopamine menu | focus |
+| `adhd-brown-noise-does-it-help-focus-guide` | ADHD brown noise | focus |
 | `adhd-working-memory-why-you-forget-and-what-helps-guide` | ADHD working memory | focus |
 | `understanding-the-clinical-landscape-of-adhd-a-comprehensive-overview` | ADHD treatment overview | focus |
 | `fueling-the-adhd-brain-a-science-backed-guide-to-supplements` | ADHD supplements | focus |
