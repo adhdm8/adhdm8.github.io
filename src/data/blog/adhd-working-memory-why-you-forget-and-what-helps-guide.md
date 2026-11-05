@@ -82,7 +82,7 @@ Visual cues beat mental ones. Place keys on top of the shoes you'll wear, tape a
 
 #### 3. Use "out of sight, out of mind" in your favour
 
-Because ADHD memory depends so heavily on what's visible, hide the distractions and display the priorities. A clear counter with one important item on it is a reminder in itself.
+Because ADHD memory depends so heavily on what's visible, hide the distractions and display the priorities. A clear counter with one important item on it is a reminder in itself. For the full picture, see [ADHD object permanence](/posts/adhd-object-permanence-why-out-of-sight-means-out-of-mind-guide).
 
 #### 4. Break instructions into single steps
 

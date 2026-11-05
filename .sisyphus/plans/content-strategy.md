@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-11-03 · **Published posts**: 76
+> **Last reviewed**: 2026-11-05 · **Published posts**: 77
 
 ---
 
@@ -133,6 +133,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-26 | ADD vs ADHD | diagnosis | is ADD the same as ADHD; inattentive ADHD vs ADD; ADHD presentations adults; why was ADD renamed ADHD | ✅ 2026-11-02 |
 | P2-27 | ADHD wall of awful | time | wall of awful ADHD meaning; why can't I start tasks ADHD shame; how to overcome wall of awful; ADHD task initiation | ✅ 2026-11-03 |
 | P2-28 | ADHD brown noise | focus | does brown noise help ADHD focus; brown noise vs white noise ADHD; best background noise for ADHD | ✅ 2026-11-03 |
+| P2-29 | ADHD object permanence | focus | ADHD out of sight out of mind; why do I forget friends exist ADHD; ADHD forgetting people adults; ADHD reminders visible cues | ✅ 2026-11-05 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -188,6 +189,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-dopamine-menu-how-to-build-one-guide` | ADHD dopamine menu | focus |
 | `adhd-brown-noise-does-it-help-focus-guide` | ADHD brown noise | focus |
 | `adhd-working-memory-why-you-forget-and-what-helps-guide` | ADHD working memory | focus |
+| `adhd-object-permanence-why-out-of-sight-means-out-of-mind-guide` | ADHD object permanence | focus |
 | `understanding-the-clinical-landscape-of-adhd-a-comprehensive-overview` | ADHD treatment overview | focus |
 | `fueling-the-adhd-brain-a-science-backed-guide-to-supplements` | ADHD supplements | focus |
 | `adult-adhd-diagnosis-guide` | adult ADHD diagnosis | diagnosis |
