@@ -78,7 +78,7 @@ Make the starting action almost embarrassingly small. "Put one plate in the dish
 
 #### 2. Make the task visible
 
-ADHD runs on "out of sight, out of mind." Leave the laundry basket in the doorway, open the document before you stop for the day, and keep the to-do list on a wall, not in an app you forget to open.
+ADHD runs on "out of sight, out of mind." Leave the laundry basket in the doorway, open the document before you stop for the day, and keep the to-do list on a wall, not in an app you forget to open. We dig into this pattern in [ADHD object permanence](/posts/adhd-object-permanence-why-out-of-sight-means-out-of-mind-guide).
 
 #### 3. Add external structure
 
