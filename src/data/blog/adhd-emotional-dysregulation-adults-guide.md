@@ -102,6 +102,10 @@ Therapy approaches such as **cognitive behavioural therapy (CBT)** and **dialect
 
 ---
 
+Big feelings often get soothed with food. See our guide to [ADHD and emotional eating](/posts/adhd-and-emotional-eating-why-it-happens-and-what-helps-guide) for that side of it.
+
+---
+
 ### Does ADHD Medication Help With Emotional Regulation?
 
 Medication can reduce emotional reactivity for some people, mainly by improving the underlying ADHD symptoms, but it isn't guaranteed and it isn't the only tool. Some people notice calmer reactions on treatment; others notice little change, and a few feel more irritable as the dose wears off.

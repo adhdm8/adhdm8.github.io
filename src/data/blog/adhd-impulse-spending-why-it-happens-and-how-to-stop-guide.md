@@ -126,7 +126,7 @@ Persistent financial shame can also overlap with low mood or burnout. If that so
 
 ---
 
-Impulse control slips in other areas too, including drinking. Our guide to [ADHD and alcohol](/posts/adhd-and-alcohol-why-drinking-hits-different-guide) covers the same friction-over-willpower approach.
+Impulse control slips in other areas too, including [emotional eating](/posts/adhd-and-emotional-eating-why-it-happens-and-what-helps-guide) and drinking. Our guide to [ADHD and alcohol](/posts/adhd-and-alcohol-why-drinking-hits-different-guide) covers the same friction-over-willpower approach.
 
 ---
 

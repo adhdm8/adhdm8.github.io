@@ -125,7 +125,7 @@ Coffee on an empty stomach can heighten jitters. A protein-rich breakfast steadi
 
 #### Build other energy sources
 
-Movement is one of the best natural dopamine boosts. See how [exercise helps the ADHD brain](/posts/adhd-and-exercise-how-fitness-helps-the-adhd-brain), and build a list of quick alternatives with our [ADHD dopamine menu](/posts/adhd-dopamine-menu-how-to-build-one-guide).
+If coffee replaces meals, read about [ADHD and emotional eating](/posts/adhd-and-emotional-eating-why-it-happens-and-what-helps-guide) too. Movement is one of the best natural dopamine boosts. See how [exercise helps the ADHD brain](/posts/adhd-and-exercise-how-fitness-helps-the-adhd-brain), and build a list of quick alternatives with our [ADHD dopamine menu](/posts/adhd-dopamine-menu-how-to-build-one-guide).
 
 #### Cut back gradually
 
