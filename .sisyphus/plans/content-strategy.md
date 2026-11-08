@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-11-08 · **Published posts**: 79
+> **Last reviewed**: 2026-11-08 · **Published posts**: 80
 
 ---
 
@@ -135,7 +135,8 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-28 | ADHD brown noise | focus | does brown noise help ADHD focus; brown noise vs white noise ADHD; best background noise for ADHD | ✅ 2026-11-03 |
 | P2-29 | ADHD object permanence | focus | ADHD out of sight out of mind; why do I forget friends exist ADHD; ADHD forgetting people adults; ADHD reminders visible cues | ✅ 2026-11-05 |
 | P2-30 | ADHD and emotional eating | health | ADHD and binge eating; why do I crave sugar ADHD; ADHD medication appetite; boredom eating ADHD | ✅ 2026-11-06 |
-| P2-31 | ADHD perfectionism | health | why does ADHD cause perfectionism; how to stop being a perfectionist with ADHD; ADHD perfectionism vs procrastination; why do I abandon projects when not perfect | ✅ 2026-11-08 |
+| P2-31 | ADHD overthinking | health | ADHD overthinking vs anxiety; why can't I stop ruminating with ADHD; how to stop overthinking with ADHD; overthinking at night ADHD | ✅ 2026-11-07 |
+| P2-32 | ADHD perfectionism | health | why does ADHD cause perfectionism; how to stop being a perfectionist with ADHD; ADHD perfectionism vs procrastination; why do I abandon projects when not perfect | ✅ 2026-11-08 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -216,6 +217,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-and-caffeine-does-coffee-help-or-hurt-guide` | ADHD and caffeine | health |
 | `adhd-and-alcohol-why-drinking-hits-different-guide` | ADHD and alcohol | health |
 | `adhd-and-emotional-eating-why-it-happens-and-what-helps-guide` | ADHD and emotional eating | health |
+| `adhd-overthinking-why-your-mind-wont-stop-and-what-helps-guide` | ADHD overthinking | health |
 | `rejection-sensitive-dysphoria-adhd-symptoms-and-coping-guide` | rejection sensitive dysphoria ADHD | health |
 | `adhd-sensory-overload-adults-signs-and-coping-guide` | ADHD sensory overload | health |
 | `adhd-doomscrolling-why-you-cant-stop-and-how-to-break-the-loop` | ADHD doomscrolling | health |
