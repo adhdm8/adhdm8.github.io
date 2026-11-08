@@ -157,6 +157,8 @@ RSD sits within a wider pattern of intense emotions in ADHD. For the bigger pict
 
 RSD isn't a character flaw or oversensitivity you should "get over." It's what happens when an emotionally intense brain meets a lifetime of criticism. Understanding the pattern turns it from a verdict on you into a signal you can manage.
 
+When a comment replays in your head for days, our guide to [ADHD overthinking](/posts/adhd-overthinking-why-your-mind-wont-stop-and-what-helps-guide) explains how to break the loop.
+
 **Next step**: The next time RSD hits, write down what happened, what your brain concluded, and one alternative explanation in your RSD log.
 
 ---

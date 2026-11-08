@@ -135,6 +135,8 @@ ADHD and anxiety are separate conditions that love to travel together and disgui
 
 If fear of criticism is the part that hurts most, read about [rejection sensitive dysphoria and ADHD](/posts/rejection-sensitive-dysphoria-adhd-symptoms-and-coping-guide). You don't need to figure it out alone. A proper assessment can untangle the two.
 
+If your mind loops on past conversations or worst-case futures, see [ADHD overthinking](/posts/adhd-overthinking-why-your-mind-wont-stop-and-what-helps-guide) for tools that help.
+
 **Next step**: Write down your three worst symptoms and when they started, then bring that list to your next GP or specialist appointment.
 
 ---
