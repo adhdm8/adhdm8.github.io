@@ -134,6 +134,8 @@ Does dread, not blankness, stop you? Read about the [ADHD wall of awful](/posts/
 
 Want the bigger picture behind freezing? See [ADHD executive dysfunction: signs and what helps](/posts/adhd-executive-dysfunction-signs-and-strategies-guide).
 
+Does fear of getting it wrong keep you frozen? Read about [ADHD perfectionism](/posts/adhd-perfectionism-why-good-enough-feels-impossible-guide).
+
 ---
 
 ### Key Takeaways
