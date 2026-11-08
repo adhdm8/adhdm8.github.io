@@ -141,6 +141,8 @@ RSD sits within a wider pattern of intense emotions in ADHD. For the bigger pict
 
 **Related**: Strong feelings often show up in our wallets too. See [ADHD impulse spending](/posts/adhd-impulse-spending-why-it-happens-and-how-to-stop-guide/) for ways to protect your money when emotions run high.
 
+**Related**: Perfectionism is a common armour against rejection. See [ADHD perfectionism](/posts/adhd-perfectionism-why-good-enough-feels-impossible-guide).
+
 ---
 
 ### Key Takeaways
