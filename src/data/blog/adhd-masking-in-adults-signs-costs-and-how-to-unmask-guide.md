@@ -60,7 +60,7 @@ Many people heard "try harder" or "you're so careless" for years. That history o
 
 Women and people with inattentive ADHD are often described as the most likely to mask, and this is one reason ADHD is diagnosed later in them. Research on women with ADHD, such as [Quinn and Madhoo's review](https://pubmed.ncbi.nlm.nih.gov/?term=Quinn+Madhoo+women+ADHD+2014), notes that symptoms are often internalised and mistaken for anxiety or depression.
 
-Anyone can mask, though. Men, high achievers and people raised in strict or high-pressure environments do it too. For a deeper look at screening, see our [ADHD test for women guide](/posts/adhd-test-for-women-self-screening-guide) and our [adult ADHD diagnosis guide](/posts/adult-adhd-diagnosis-guide).
+Anyone can mask, though. Men, high achievers and people raised in strict or high-pressure environments do it too. For a deeper look at screening, see our [ADHD test for women guide](/posts/adhd-test-for-women-self-screening-guide) and our [adult ADHD diagnosis guide](/posts/adult-adhd-diagnosis-guide), plus [ADHD and menopause](/posts/adhd-and-menopause-why-symptoms-get-worse-and-what-helps-guide), where masking often stops working.
 
 ---
 

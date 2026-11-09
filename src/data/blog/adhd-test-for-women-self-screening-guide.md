@@ -25,7 +25,7 @@ This isn't a replacement for a clinical evaluation. It's a self-check built arou
 
 Standard ADHD screening tools were built and validated on study populations that were disproportionately young, hyperactive boys, which means they weight visible, externalized symptoms more heavily than the internalized presentation more common in women. Fidgeting, interrupting, and physical restlessness are easy for a clinician — or a six-question quiz — to spot. Racing thoughts behind a calm exterior, chronic overwhelm hidden by over-preparation, and quietly missed social cues are not.
 
-Add hormonal fluctuation to the mix and the picture gets murkier still: estrogen influences dopamine regulation, so ADHD symptoms in women often intensify around the luteal phase, postpartum, and perimenopause — periods where symptoms are far more likely to be attributed to mood, stress, or "just being a woman having a hard month" than to underlying ADHD.
+Add hormonal fluctuation to the mix and the picture gets murkier still: estrogen influences dopamine regulation, so ADHD symptoms in women often intensify around the luteal phase, postpartum, and [perimenopause](/posts/adhd-and-menopause-why-symptoms-get-worse-and-what-helps-guide) — periods where symptoms are far more likely to be attributed to mood, stress, or "just being a woman having a hard month" than to underlying ADHD.
 
 ---
 

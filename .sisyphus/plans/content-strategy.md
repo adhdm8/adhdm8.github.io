@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-11-08 · **Published posts**: 80
+> **Last reviewed**: 2026-11-09 · **Published posts**: 81
 
 ---
 
@@ -137,6 +137,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-30 | ADHD and emotional eating | health | ADHD and binge eating; why do I crave sugar ADHD; ADHD medication appetite; boredom eating ADHD | ✅ 2026-11-06 |
 | P2-31 | ADHD overthinking | health | ADHD overthinking vs anxiety; why can't I stop ruminating with ADHD; how to stop overthinking with ADHD; overthinking at night ADHD | ✅ 2026-11-07 |
 | P2-32 | ADHD perfectionism | health | why does ADHD cause perfectionism; how to stop being a perfectionist with ADHD; ADHD perfectionism vs procrastination; why do I abandon projects when not perfect | ✅ 2026-11-08 |
+| P2-33 | ADHD and menopause | health | does menopause make ADHD worse; ADHD or menopause brain fog; undiagnosed ADHD at midlife; perimenopause ADHD symptoms | ✅ 2026-11-09 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -223,6 +224,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-doomscrolling-why-you-cant-stop-and-how-to-break-the-loop` | ADHD doomscrolling | health |
 | `adhd-impulse-spending-why-it-happens-and-how-to-stop-guide` | ADHD impulse spending | health |
 | `adhd-perfectionism-why-good-enough-feels-impossible-guide` | ADHD perfectionism | health |
+| `adhd-and-menopause-why-symptoms-get-worse-and-what-helps-guide` | ADHD and menopause | health |
 | `adhd-and-life-expectancy-understanding-the-real-world-risks` | ADHD life expectancy | health |
 | `adhd-and-relationships-why-connection-feels-hard-and-how-to-make-it-easier` | ADHD relationships | health |
 | `navigating-the-road-safely-driving-with-adhd` | driving with ADHD | health |
