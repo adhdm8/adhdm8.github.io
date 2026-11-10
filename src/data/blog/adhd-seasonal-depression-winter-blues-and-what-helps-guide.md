@@ -48,13 +48,13 @@ Winter also removes the easy stuff: outdoor walks, social plans, and sunlight br
 
 ADHD and SAD overlap in symptoms, so the main clue is timing. ADHD symptoms are present year-round and trace back to childhood. SAD follows a seasonal pattern, usually starting in autumn and lifting in spring.
 
-| Clue                | More likely ADHD                         | More likely SAD                          |
-| ------------------- | ---------------------------------------- | ---------------------------------------- |
-| Timing              | Year-round, since childhood              | Returns each autumn or winter            |
-| Sleep               | Late to bed, hard to wake                | Oversleeping, heavy morning fatigue      |
-| Mood                | Reactive, tied to stress or boredom      | Persistently low, flat or hopeless       |
-| Appetite            | Erratic, medication-related              | Carb cravings, weight gain               |
-| Interest in things  | Interest-driven, spikes with novelty     | Loss of interest in things you usually enjoy |
+| Clue               | More likely ADHD                     | More likely SAD                              |
+| ------------------ | ------------------------------------ | -------------------------------------------- |
+| Timing             | Year-round, since childhood          | Returns each autumn or winter                |
+| Sleep              | Late to bed, hard to wake            | Oversleeping, heavy morning fatigue          |
+| Mood               | Reactive, tied to stress or boredom  | Persistently low, flat or hopeless           |
+| Appetite           | Erratic, medication-related          | Carb cravings, weight gain                   |
+| Interest in things | Interest-driven, spikes with novelty | Loss of interest in things you usually enjoy |
 
 You can absolutely have both. If your low mood lasts most of the day for two weeks or more, or you have thoughts of self-harm, contact a doctor or crisis service promptly. The NHS has clear guidance on [seasonal affective disorder](https://www.nhs.uk/mental-health/conditions/seasonal-affective-disorder-sad/overview/), and the NIMH explains [SAD symptoms and treatment](https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder).
 
