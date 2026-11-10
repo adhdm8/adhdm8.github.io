@@ -142,7 +142,6 @@ Staying up late to feel free is a very human response to a day with no space in 
 
 **Next step**: Tonight, set one alarm for 60 minutes before your target bedtime and label it "start winding down."
 
-
 _Winter making things worse? See our guide to [ADHD seasonal depression](/posts/adhd-seasonal-depression-winter-blues-and-what-helps-guide)._
 
 ---
