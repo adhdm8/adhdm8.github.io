@@ -180,6 +180,8 @@ Alcohol is another sleep trap: it can speed up falling asleep but fragments the 
 - Effective strategies include **external time cues, environmental control, stimulant management, and consistent routines**
 - Consider **CBT-I or melatonin** for persistent sleep issues
 
+_Winter making things worse? See our guide to [ADHD seasonal depression](/posts/adhd-seasonal-depression-winter-blues-and-what-helps-guide)._
+
 ---
 
-_What is your biggest sleep challenge with ADHD? Have you found any strategies that work for your brain? Share your experience in the comments or connect on [Instagram](https://instagram.com/adhdm8)._
+_What is your biggest sleep challenge with ADHD? Have you found any strategies that work for your brain? Share your experience with us on [Instagram](https://instagram.com/adhdm8)._

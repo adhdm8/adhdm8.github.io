@@ -144,6 +144,8 @@ Exercise will not cure ADHD. But it is one of the few tools backed by real resea
 
 **Next step**: Pick your three days this week, and do the warm-up and first exercise pair of the Recommended Routine above — just that, nothing more.
 
+_Winter making things worse? See our guide to [ADHD seasonal depression](/posts/adhd-seasonal-depression-winter-blues-and-what-helps-guide)._
+
 ---
 
-_Have you found a workout routine that actually stuck? What made the difference for your ADHD brain? Share your experience in the comments or connect on [Instagram](https://instagram.com/adhdm8)._
+_Have you found a workout routine that actually stuck? What made the difference for your ADHD brain? Share your experience with us on [Instagram](https://instagram.com/adhdm8)._

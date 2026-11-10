@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-11-09 · **Published posts**: 81
+> **Last reviewed**: 2026-11-10 · **Published posts**: 82
 
 ---
 
@@ -138,6 +138,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-31 | ADHD overthinking | health | ADHD overthinking vs anxiety; why can't I stop ruminating with ADHD; how to stop overthinking with ADHD; overthinking at night ADHD | ✅ 2026-11-07 |
 | P2-32 | ADHD perfectionism | health | why does ADHD cause perfectionism; how to stop being a perfectionist with ADHD; ADHD perfectionism vs procrastination; why do I abandon projects when not perfect | ✅ 2026-11-08 |
 | P2-33 | ADHD and menopause | health | does menopause make ADHD worse; ADHD or menopause brain fog; undiagnosed ADHD at midlife; perimenopause ADHD symptoms | ✅ 2026-11-09 |
+| P2-34 | ADHD seasonal depression | health | ADHD and seasonal affective disorder; why does winter make ADHD worse; ADHD winter blues adults; light therapy for ADHD | ✅ 2026-11-10 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -225,6 +226,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-impulse-spending-why-it-happens-and-how-to-stop-guide` | ADHD impulse spending | health |
 | `adhd-perfectionism-why-good-enough-feels-impossible-guide` | ADHD perfectionism | health |
 | `adhd-and-menopause-why-symptoms-get-worse-and-what-helps-guide` | ADHD and menopause | health |
+| `adhd-seasonal-depression-winter-blues-and-what-helps-guide` | ADHD seasonal depression | health |
 | `adhd-and-life-expectancy-understanding-the-real-world-risks` | ADHD life expectancy | health |
 | `adhd-and-relationships-why-connection-feels-hard-and-how-to-make-it-easier` | ADHD relationships | health |
 | `navigating-the-road-safely-driving-with-adhd` | driving with ADHD | health |
