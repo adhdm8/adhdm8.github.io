@@ -142,7 +142,7 @@ A: Medication may reduce overall distractibility and overwhelm for some people, 
 
 ---
 
-Sound is a common trigger, and steady background sound can mask it. See whether [brown noise helps ADHD focus](/posts/adhd-brown-noise-does-it-help-focus-guide).
+Sound is a common trigger, and steady background sound can mask it. Repetitive movement can also calm a flooded system: see [ADHD stimming in adults](/posts/adhd-stimming-in-adults-signs-types-and-what-helps-guide). See whether [brown noise helps ADHD focus](/posts/adhd-brown-noise-does-it-help-focus-guide).
 
 ---
 
