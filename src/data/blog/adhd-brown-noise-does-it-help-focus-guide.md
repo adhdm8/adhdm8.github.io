@@ -53,7 +53,7 @@ The leading idea is that background noise can add just enough stimulation to hel
 
 ADHD is linked to lower baseline dopamine activity, so quiet, boring tasks can leave the brain hunting for something more interesting. Steady noise may fill that gap so your attention stops wandering off to check the fridge. Researchers also point to a mechanism called stochastic resonance, where a small amount of background "noise" helps a weak signal stand out.
 
-There's a second, more practical benefit: **masking**. A constant rumble covers sudden sounds like a neighbour's drill, a notification ping or coworkers chatting, which is a big deal if you're distracted by every sound. If sound is a major problem for you, our guide to [ADHD sensory overload](/posts/adhd-sensory-overload-adults-signs-and-coping-guide) goes deeper.
+There's a second, more practical benefit: **masking**. A constant rumble covers sudden sounds like a neighbour's drill, a notification ping or coworkers chatting, which is a big deal if you're distracted by every sound. If sound is a major problem for you, our guide to [ADHD sensory overload](/posts/adhd-sensory-overload-adults-signs-and-coping-guide) goes deeper. If you also need movement to focus, read our guide to [ADHD stimming in adults](/posts/adhd-stimming-in-adults-signs-types-and-what-helps-guide).
 
 ---
 
