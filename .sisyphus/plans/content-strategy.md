@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-11-11 · **Published posts**: 83
+> **Last reviewed**: 2026-11-12 · **Published posts**: 84
 
 ---
 
@@ -140,6 +140,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-33 | ADHD and menopause | health | does menopause make ADHD worse; ADHD or menopause brain fog; undiagnosed ADHD at midlife; perimenopause ADHD symptoms | ✅ 2026-11-09 |
 | P2-34 | ADHD seasonal depression | health | ADHD and seasonal affective disorder; why does winter make ADHD worse; ADHD winter blues adults; light therapy for ADHD | ✅ 2026-11-10 |
 | P2-35 | ADHD stimming | focus | ADHD stimming in adults; is stimming a sign of ADHD; ADHD vs autism stimming; ADHD fidgeting and skin picking | ✅ 2026-11-11 |
+| P2-36 | AuDHD | diagnosis | AuDHD signs in adults; ADHD and autism together; AuDHD vs ADHD; how is AuDHD diagnosed | ✅ 2026-11-12 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -203,6 +204,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-and-anxiety-how-to-tell-the-difference-guide` | ADHD and anxiety | diagnosis |
 | `adhd-quiz-for-adults-self-screening-test` | ADHD quiz for adults | diagnosis |
 | `add-vs-adhd-whats-the-difference-explained` | ADD vs ADHD | diagnosis |
+| `audhd-adhd-and-autism-together-signs-and-what-helps-guide` | AuDHD | diagnosis |
 | `adhd-test-for-women-self-screening-guide` | ADHD test for women | diagnosis |
 | `inattentive-adhd-quiz-for-adults` | inattentive ADHD quiz | diagnosis |
 | `dr-russell-barkley-adhd-quiz-baars-bdefs-explained` | Barkley ADHD quiz (BAARS-IV) | diagnosis |

@@ -54,7 +54,7 @@ Some of these overlap with [ADHD sensory overload](/posts/adhd-sensory-overload-
 
 ### Is It ADHD Stimming or Autism Stimming?
 
-Stimming appears in both ADHD and autism, and the behaviour alone cannot tell you which. The difference lies in the pattern, the purpose and the wider picture of symptoms.
+Stimming appears in both ADHD and autism, and the behaviour alone cannot tell you which. If you have both, our [AuDHD guide](/posts/audhd-adhd-and-autism-together-signs-and-what-helps-guide) explains how the two interact. The difference lies in the pattern, the purpose and the wider picture of symptoms.
 
 |              | Often more typical of ADHD                        | Often more typical of autism                                      |
 | ------------ | ------------------------------------------------- | ----------------------------------------------------------------- |
