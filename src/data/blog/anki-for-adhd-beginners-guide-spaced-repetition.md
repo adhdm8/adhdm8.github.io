@@ -150,6 +150,8 @@ The goal is a system that survives a bad week, the same principle behind the [po
 **Q:** What if I miss days and my reviews pile up?
 **A:** Set new cards to zero, cap your daily reviews, and do a short session. Anki is forgiving, and you can recover from a missed week without starting over.
 
+For the wider picture of how to study with this brain, read our [ADHD study tips for adults](/posts/adhd-study-tips-for-adults-methods-that-actually-work-guide).
+
 ---
 
 ### Key Takeaways

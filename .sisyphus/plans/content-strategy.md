@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-11-11 · **Published posts**: 83
+> **Last reviewed**: 2026-11-13 · **Published posts**: 84
 
 ---
 
@@ -140,6 +140,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-33 | ADHD and menopause | health | does menopause make ADHD worse; ADHD or menopause brain fog; undiagnosed ADHD at midlife; perimenopause ADHD symptoms | ✅ 2026-11-09 |
 | P2-34 | ADHD seasonal depression | health | ADHD and seasonal affective disorder; why does winter make ADHD worse; ADHD winter blues adults; light therapy for ADHD | ✅ 2026-11-10 |
 | P2-35 | ADHD stimming | focus | ADHD stimming in adults; is stimming a sign of ADHD; ADHD vs autism stimming; ADHD fidgeting and skin picking | ✅ 2026-11-11 |
+| P2-36 | ADHD study tips | focus | ADHD study tips for adults; how to study with ADHD; active recall ADHD; how long should I study with ADHD; ADHD exam preparation | ✅ 2026-11-13 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -197,6 +198,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-stimming-in-adults-signs-types-and-what-helps-guide` | ADHD stimming | focus |
 | `adhd-working-memory-why-you-forget-and-what-helps-guide` | ADHD working memory | focus |
 | `adhd-object-permanence-why-out-of-sight-means-out-of-mind-guide` | ADHD object permanence | focus |
+| `adhd-study-tips-for-adults-methods-that-actually-work-guide` | ADHD study tips | focus |
 | `understanding-the-clinical-landscape-of-adhd-a-comprehensive-overview` | ADHD treatment overview | focus |
 | `fueling-the-adhd-brain-a-science-backed-guide-to-supplements` | ADHD supplements | focus |
 | `adult-adhd-diagnosis-guide` | adult ADHD diagnosis | diagnosis |

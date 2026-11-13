@@ -83,6 +83,8 @@ A: Because they remove the need to accurately judge time passing, a skill that's
 
 If your focus problem is really a "my thoughts keep vanishing" problem, read our guide to [ADHD working memory](/posts/adhd-working-memory-why-you-forget-and-what-helps-guide).
 
+If your focus problem shows up mainly when you have to learn something, see our [ADHD study tips for adults](/posts/adhd-study-tips-for-adults-methods-that-actually-work-guide).
+
 ---
 
 ### Key Takeaways
