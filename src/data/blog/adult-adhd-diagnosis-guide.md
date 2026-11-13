@@ -85,6 +85,10 @@ ADHD rarely travels alone. It often brings friends like Anxiety and Depression. 
 
 ---
 
+Suspect autism as well? Our [AuDHD guide](/posts/audhd-adhd-and-autism-together-signs-and-what-helps-guide) explains how ADHD and autism overlap and how both are assessed.
+
+---
+
 Confused by the old "ADD" label? Our explainer on [ADD vs ADHD](/posts/add-vs-adhd-whats-the-difference-explained) shows how the names and presentations fit together.
 
 ---

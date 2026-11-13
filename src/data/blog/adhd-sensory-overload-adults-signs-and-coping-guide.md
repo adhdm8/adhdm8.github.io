@@ -68,7 +68,7 @@ Some people are over-responsive (everything is too much), while others seek inte
 
 ### Is It ADHD, Autism or Anxiety?
 
-Sensory overload is not unique to ADHD, so it can't be used to diagnose it. Autism, anxiety, migraine, PTSD and sleep deprivation can all cause similar reactions, and ADHD and autism frequently occur together.
+Sensory overload is not unique to ADHD, so it can't be used to diagnose it. Autism, anxiety, migraine, PTSD and sleep deprivation can all cause similar reactions, and ADHD and autism frequently occur together (see our [AuDHD guide](/posts/audhd-adhd-and-autism-together-signs-and-what-helps-guide)).
 
 A few clues can help, but only a qualified professional can sort this out:
 
