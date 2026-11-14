@@ -89,7 +89,7 @@ If your time blindness shows up most at the "big picture" level — weeks and mo
 
 ---
 
-Once your estimates improve, put them to work in your schedule. Our guide to [ADHD time management techniques](/posts/adhd-time-management-techniques-for-adults) shows how to turn better estimates into time blocks that hold up.
+Once your estimates improve, put them to work in your schedule. Our guide to [ADHD time management techniques](/posts/adhd-time-management-techniques-for-adults) shows how to turn better estimates into time blocks that hold up. If you're still arriving late, see [ADHD lateness: why you're always late and what helps](/posts/adhd-lateness-why-youre-always-late-and-what-helps-guide).
 
 ---
 

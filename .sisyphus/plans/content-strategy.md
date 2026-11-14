@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-11-13 · **Published posts**: 85
+> **Last reviewed**: 2026-11-14 · **Published posts**: 86
 
 ---
 
@@ -142,6 +142,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-35 | ADHD stimming | focus | ADHD stimming in adults; is stimming a sign of ADHD; ADHD vs autism stimming; ADHD fidgeting and skin picking | ✅ 2026-11-11 |
 | P2-36 | AuDHD | diagnosis | AuDHD signs in adults; ADHD and autism together; AuDHD vs ADHD; how is AuDHD diagnosed | ✅ 2026-11-12 |
 | P2-37 | ADHD study tips | focus | ADHD study tips for adults; how to study with ADHD; active recall ADHD; how long should I study with ADHD; ADHD exam preparation | ✅ 2026-11-13 |
+| P2-38 | ADHD lateness | time | why am I always late with ADHD; how to stop being late with ADHD; ADHD time blindness lateness; ADHD running late even when leaving early | ✅ 2026-11-14 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -184,6 +185,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-executive-dysfunction-signs-and-strategies-guide` | ADHD executive dysfunction | time |
 | `adhd-morning-routine-for-adults-that-actually-works` | ADHD morning routine | time |
 | `adhd-wall-of-awful-what-it-is-and-how-to-get-past-it` | ADHD wall of awful | time |
+| `adhd-lateness-why-youre-always-late-and-what-helps-guide` | ADHD lateness | time |
 | `bridging-the-knowing-doing-gap-science-backed-tools-for-managing-adhd` | ADHD knowing-doing gap | time |
 | `how-to-read-books-with-adhd` | how to read with ADHD | time |
 | `improve-focus-with-behavioral-tools-and-medication-for-adhd` | ADHD medication and behavioral tools | focus |

@@ -66,7 +66,7 @@ Once you can see time, the next step is planning with it. Our guide to [ADHD tim
 
 ---
 
-Related: when tasks feel emotionally heavy, not just time-distorted, read the [ADHD wall of awful](/posts/adhd-wall-of-awful-what-it-is-and-how-to-get-past-it).
+Related: if time blindness keeps making you late, see [ADHD lateness and what helps](/posts/adhd-lateness-why-youre-always-late-and-what-helps-guide). And when tasks feel emotionally heavy, not just time-distorted, read the [ADHD wall of awful](/posts/adhd-wall-of-awful-what-it-is-and-how-to-get-past-it).
 
 ### **A New Mindset**
 
