@@ -117,6 +117,8 @@ Long-term RSD management works best when it combines treating the underlying ADH
 
 The [Cleveland Clinic](https://my.clevelandclinic.org/health/symptoms/rejection-sensitive-dysphoria) also lists therapy and medication discussions with a healthcare provider as standard starting points.
 
+Fear of saying the wrong thing can also leave messages unanswered for days; see [ADHD not replying to texts](/posts/adhd-not-replying-to-texts-why-it-happens-and-how-to-fix-it-guide).
+
 ---
 
 ### FAQ: Rejection Sensitive Dysphoria
