@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-11-15 · **Published posts**: 87
+> **Last reviewed**: 2026-11-16 · **Published posts**: 88
 
 ---
 
@@ -144,6 +144,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-37 | ADHD study tips | focus | ADHD study tips for adults; how to study with ADHD; active recall ADHD; how long should I study with ADHD; ADHD exam preparation | ✅ 2026-11-13 |
 | P2-38 | ADHD lateness | time | why am I always late with ADHD; how to stop being late with ADHD; ADHD time blindness lateness; ADHD running late even when leaving early | ✅ 2026-11-14 |
 | P2-39 | ADHD not replying to texts | health | why do I never reply to texts ADHD; is ignoring texts a sign of ADHD; how to reply to texts on time with ADHD; ADHD leaving people on read | ✅ 2026-11-15 |
+| P2-40 | ADHD interrupting | health | why do I interrupt people ADHD; how to stop interrupting with ADHD; ADHD blurting out; finishing other people's sentences ADHD | ✅ 2026-11-16 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -234,6 +235,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-doomscrolling-why-you-cant-stop-and-how-to-break-the-loop` | ADHD doomscrolling | health |
 | `adhd-impulse-spending-why-it-happens-and-how-to-stop-guide` | ADHD impulse spending | health |
 | `adhd-not-replying-to-texts-why-it-happens-and-how-to-fix-it-guide` | ADHD not replying to texts | health |
+| `adhd-interrupting-why-you-cut-people-off-and-how-to-stop-guide` | ADHD interrupting | health |
 | `adhd-perfectionism-why-good-enough-feels-impossible-guide` | ADHD perfectionism | health |
 | `adhd-and-menopause-why-symptoms-get-worse-and-what-helps-guide` | ADHD and menopause | health |
 | `adhd-seasonal-depression-winter-blues-and-what-helps-guide` | ADHD seasonal depression | health |

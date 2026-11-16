@@ -237,6 +237,8 @@ Optimizing ADHD treatment (medication, sleep, diet, exercise) improves executive
 
 Slow replies are another everyday strain. Our guide to [ADHD not replying to texts](/posts/adhd-not-replying-to-texts-why-it-happens-and-how-to-fix-it-guide) covers why messages go unanswered and how to fix it.
 
+Interrupting is another one. Our guide to [ADHD interrupting](/posts/adhd-interrupting-why-you-cut-people-off-and-how-to-stop-guide) explains why people with ADHD cut others off and how to stop.
+
 ---
 
 ### Tonight: 3 Small Actions
