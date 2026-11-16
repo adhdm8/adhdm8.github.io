@@ -68,6 +68,10 @@ Outbursts also strain close relationships. If this sounds familiar, our piece on
 
 ---
 
+Strong feelings also thin the filter between thought and speech, which is one reason people blurt and cut others off. See our guide to [ADHD interrupting](/posts/adhd-interrupting-why-you-cut-people-off-and-how-to-stop-guide).
+
+---
+
 ### ADHD or Something Else? Overlaps to Know About
 
 Emotional intensity can come from ADHD, anxiety, depression, trauma or several at once, so it's worth getting assessed rather than guessing. Mood swings that last for days or weeks are less typical of ADHD alone and are worth raising with a clinician.
