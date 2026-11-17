@@ -50,11 +50,11 @@ So what's the honest takeaway? Don't treat decision fatigue as a proven law of p
 
 Decision fatigue is the drained feeling after too many choices, while ADHD paralysis is the frozen feeling when you can't start at all. They often travel together, but they need different fixes.
 
-| | Decision fatigue | ADHD paralysis |
-|---|---|---|
-| Feels like | Mentally flat, "I don't care, anything" | Stuck, tense, can't move |
-| Trigger | Many choices over a day | One task or choice feels huge |
-| Helps | Fewer decisions, defaults | Tiny first step |
+|            | Decision fatigue                        | ADHD paralysis                |
+| ---------- | --------------------------------------- | ----------------------------- |
+| Feels like | Mentally flat, "I don't care, anything" | Stuck, tense, can't move      |
+| Trigger    | Many choices over a day                 | One task or choice feels huge |
+| Helps      | Fewer decisions, defaults               | Tiny first step               |
 
 If you freeze rather than fade, read our guide to [ADHD paralysis and how to get unstuck](/posts/adhd-paralysis-how-to-get-unstuck-guide). If it's a drained "just pick anything" feeling, you're in the right place.
 
