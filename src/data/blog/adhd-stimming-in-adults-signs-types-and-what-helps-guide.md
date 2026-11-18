@@ -147,6 +147,8 @@ A: Stress and boredom both change the brain's arousal level, and movement is a f
 - [NHS: Attention deficit hyperactivity disorder (ADHD)](https://www.nhs.uk/conditions/attention-deficit-hyperactivity-disorder-adhd/)
 - [Sarver et al., hyperactivity in ADHD as impairing deficit or compensatory behaviour (PubMed)](https://pubmed.ncbi.nlm.nih.gov/?term=Sarver+hyperactivity+ADHD+impairing+deficit+or+compensatory+behavior)
 
+Fidgeting can also help you stay present when your mind drifts: see [ADHD zoning out](/posts/adhd-zoning-out-why-your-mind-drifts-and-how-to-stay-present-guide).
+
 ---
 
 ### Key Takeaways

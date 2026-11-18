@@ -132,8 +132,6 @@ A: It often feels like being stuck or frozen, knowing what to do but being unabl
 **Q: Can you fix executive dysfunction?**
 A: Executive dysfunction can be managed, but it usually isn't "cured." Medication, external systems, and supportive routines reduce its impact for most people.
 
-Tired of choosing? Executive dysfunction also drains your decision-making, which we cover in [ADHD decision fatigue](/posts/adhd-decision-fatigue-why-choices-drain-you-and-what-helps-guide).
-
 ---
 
 ### Key Takeaways
