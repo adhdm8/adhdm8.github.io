@@ -136,6 +136,8 @@ Want the bigger picture behind freezing? See [ADHD executive dysfunction: signs 
 
 Does fear of getting it wrong keep you frozen? Read about [ADHD perfectionism](/posts/adhd-perfectionism-why-good-enough-feels-impossible-guide).
 
+Drained by too many small choices rather than one big one? See [ADHD decision fatigue](/posts/adhd-decision-fatigue-why-choices-drain-you-and-what-helps-guide).
+
 ---
 
 ### Key Takeaways

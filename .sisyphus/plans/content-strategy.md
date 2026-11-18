@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-11-16 · **Published posts**: 88
+> **Last reviewed**: 2026-11-18 · **Published posts**: 89
 
 ---
 
@@ -145,6 +145,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-38 | ADHD lateness | time | why am I always late with ADHD; how to stop being late with ADHD; ADHD time blindness lateness; ADHD running late even when leaving early | ✅ 2026-11-14 |
 | P2-39 | ADHD not replying to texts | health | why do I never reply to texts ADHD; is ignoring texts a sign of ADHD; how to reply to texts on time with ADHD; ADHD leaving people on read | ✅ 2026-11-15 |
 | P2-40 | ADHD interrupting | health | why do I interrupt people ADHD; how to stop interrupting with ADHD; ADHD blurting out; finishing other people's sentences ADHD | ✅ 2026-11-16 |
+| P2-41 | ADHD decision fatigue | time | why can't I decide what to eat ADHD; ADHD decision fatigue vs paralysis; how to reduce decision fatigue ADHD; ADHD overwhelmed by choices | ✅ 2026-11-18 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -185,6 +186,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-cleaning-tips-how-to-clean-your-home-guide` | ADHD cleaning tips | time |
 | `adhd-procrastination-why-you-delay-and-how-to-stop-guide` | ADHD procrastination | time |
 | `adhd-executive-dysfunction-signs-and-strategies-guide` | ADHD executive dysfunction | time |
+| `adhd-decision-fatigue-why-choices-drain-you-and-what-helps-guide` | ADHD decision fatigue | time |
 | `adhd-morning-routine-for-adults-that-actually-works` | ADHD morning routine | time |
 | `adhd-wall-of-awful-what-it-is-and-how-to-get-past-it` | ADHD wall of awful | time |
 | `adhd-lateness-why-youre-always-late-and-what-helps-guide` | ADHD lateness | time |
