@@ -132,6 +132,8 @@ A: Stimulant medication can improve attention and may help working memory perfor
 **Q: Is working memory the same as short-term memory?**
 A: They overlap, but short-term memory simply stores information briefly, while working memory also manipulates it, like doing mental maths. ADHD tends to affect the manipulating part more.
 
+Losing the thread mid-conversation? See [ADHD zoning out](/posts/adhd-zoning-out-why-your-mind-drifts-and-how-to-stay-present-guide).
+
 ---
 
 ### Key Takeaways
