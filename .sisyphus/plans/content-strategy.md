@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-11-16 · **Published posts**: 88
+> **Last reviewed**: 2026-11-17 · **Published posts**: 89
 
 ---
 
@@ -145,6 +145,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-38 | ADHD lateness | time | why am I always late with ADHD; how to stop being late with ADHD; ADHD time blindness lateness; ADHD running late even when leaving early | ✅ 2026-11-14 |
 | P2-39 | ADHD not replying to texts | health | why do I never reply to texts ADHD; is ignoring texts a sign of ADHD; how to reply to texts on time with ADHD; ADHD leaving people on read | ✅ 2026-11-15 |
 | P2-40 | ADHD interrupting | health | why do I interrupt people ADHD; how to stop interrupting with ADHD; ADHD blurting out; finishing other people's sentences ADHD | ✅ 2026-11-16 |
+| P2-41 | ADHD decision fatigue | time | why do I get decision fatigue with ADHD; signs of decision fatigue adults; how to make decisions faster with ADHD; decision fatigue vs ADHD paralysis | ✅ 2026-11-17 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -188,6 +189,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-morning-routine-for-adults-that-actually-works` | ADHD morning routine | time |
 | `adhd-wall-of-awful-what-it-is-and-how-to-get-past-it` | ADHD wall of awful | time |
 | `adhd-lateness-why-youre-always-late-and-what-helps-guide` | ADHD lateness | time |
+| `adhd-decision-fatigue-why-every-choice-feels-heavy-and-what-helps-guide` | ADHD decision fatigue | time |
 | `bridging-the-knowing-doing-gap-science-backed-tools-for-managing-adhd` | ADHD knowing-doing gap | time |
 | `how-to-read-books-with-adhd` | how to read with ADHD | time |
 | `improve-focus-with-behavioral-tools-and-medication-for-adhd` | ADHD medication and behavioral tools | focus |
