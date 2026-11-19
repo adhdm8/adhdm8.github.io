@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-11-18 · **Published posts**: 90
+> **Last reviewed**: 2026-11-19 · **Published posts**: 91
 
 ---
 
@@ -147,6 +147,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-40 | ADHD interrupting | health | why do I interrupt people ADHD; how to stop interrupting with ADHD; ADHD blurting out; finishing other people's sentences ADHD | ✅ 2026-11-16 |
 | P2-41 | ADHD decision fatigue | time | why do I get decision fatigue with ADHD; signs of decision fatigue adults; how to make decisions faster with ADHD; decision fatigue vs ADHD paralysis | ✅ 2026-11-17 |
 | P2-42 | ADHD zoning out | focus | why do I zone out with ADHD; ADHD zoning out in conversations; zoning out vs dissociation ADHD; how to stay present with ADHD | ✅ 2026-11-18 |
+| P2-43 | ADHD hygiene | health | why is showering so hard with ADHD; ADHD shower avoidance adults; ADHD hygiene tips; ADHD teeth brushing and self-care; ADHD or depression not showering | ✅ 2026-11-19 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -243,6 +244,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-perfectionism-why-good-enough-feels-impossible-guide` | ADHD perfectionism | health |
 | `adhd-and-menopause-why-symptoms-get-worse-and-what-helps-guide` | ADHD and menopause | health |
 | `adhd-seasonal-depression-winter-blues-and-what-helps-guide` | ADHD seasonal depression | health |
+| `adhd-hygiene-why-showering-feels-hard-and-what-helps-guide` | ADHD hygiene | health |
 | `adhd-and-life-expectancy-understanding-the-real-world-risks` | ADHD life expectancy | health |
 | `adhd-and-relationships-why-connection-feels-hard-and-how-to-make-it-easier` | ADHD relationships | health |
 | `navigating-the-road-safely-driving-with-adhd` | driving with ADHD | health |

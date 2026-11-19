@@ -144,6 +144,8 @@ A: Medication may reduce overall distractibility and overwhelm for some people, 
 
 Sound is a common trigger, and steady background sound can mask it. Repetitive movement can also calm a flooded system: see [ADHD stimming in adults](/posts/adhd-stimming-in-adults-signs-types-and-what-helps-guide). See whether [brown noise helps ADHD focus](/posts/adhd-brown-noise-does-it-help-focus-guide).
 
+Sensory dislikes can also make routines like showering feel unbearable. See our guide to [ADHD hygiene and showering](/posts/adhd-hygiene-why-showering-feels-hard-and-what-helps-guide) for fixes.
+
 ---
 
 ### Key Takeaways
