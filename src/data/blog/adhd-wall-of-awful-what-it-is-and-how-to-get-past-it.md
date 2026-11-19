@@ -123,6 +123,8 @@ A: Each avoided or failed attempt adds shame and stress to the task, and avoidan
 **Q:** Can medication help with the wall of awful?
 A: Medication can improve focus and motivation for some people, which may make starting easier, but it works best alongside skills and support. Talk to your doctor about options.
 
+The wall often builds around daily self-care too. Our [ADHD hygiene guide](/posts/adhd-hygiene-why-showering-feels-hard-and-what-helps-guide) shows how to make showering easier to start.
+
 ---
 
 ### Key Takeaways

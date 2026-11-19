@@ -116,6 +116,8 @@ Persistent trouble with sleep, mood or waking despite good habits is worth raisi
 
 Mornings are also when the dishes and laundry pile up, so pair this with a 10-minute reset from our [ADHD cleaning tips](/posts/adhd-cleaning-tips-how-to-clean-your-home-guide/). If the real struggle is getting out the door on time, read [ADHD lateness: why you're always late](/posts/adhd-lateness-why-youre-always-late-and-what-helps-guide).
 
+If getting clean is the step you skip, read [ADHD hygiene: why showering feels hard](/posts/adhd-hygiene-why-showering-feels-hard-and-what-helps-guide).
+
 ---
 
 ### Key Takeaways
