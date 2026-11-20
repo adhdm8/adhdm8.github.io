@@ -109,7 +109,7 @@ The fastest way to recover from a long silence is to send a short, honest messag
 
 Try something like: "Hey, I'm sorry for going quiet. I dropped the ball, not because I don't care. How are you?" That's enough.
 
-Our post on [ADHD and relationships](/posts/adhd-and-relationships-why-connection-feels-hard-and-how-to-make-it-easier) goes deeper on repairing connections without drowning in shame. If this pattern is damaging your friendships, work or mental health, a clinician or ADHD coach can help. [CHADD](https://chadd.org/) is a good starting point for support, and [ADDitude's guide to rejection sensitive dysphoria](https://www.additudemag.com/rejection-sensitive-dysphoria-adhd/) explains the emotional side.
+For the bigger picture, see our guide to [ADHD friendships](/posts/adhd-friendships-why-keeping-friends-is-hard-and-what-helps-guide). Our post on [ADHD and relationships](/posts/adhd-and-relationships-why-connection-feels-hard-and-how-to-make-it-easier) goes deeper on repairing connections without drowning in shame. If this pattern is damaging your friendships, work or mental health, a clinician or ADHD coach can help. [CHADD](https://chadd.org/) is a good starting point for support, and [ADDitude's guide to rejection sensitive dysphoria](https://www.additudemag.com/rejection-sensitive-dysphoria-adhd/) explains the emotional side.
 
 ---
 
