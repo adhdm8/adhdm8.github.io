@@ -205,6 +205,12 @@ With proper systems and mutual understanding, ADHD couples can and do thrive.
 
 ---
 
+### What About Friendships?
+
+Partners aren't the only relationships ADHD affects. Missed replies, lateness and long silences can quietly erode friendships too. Our guide to [ADHD friendships](/posts/adhd-friendships-why-keeping-friends-is-hard-and-what-helps-guide) covers how to keep friends without burning out.
+
+---
+
 ### Red Flags vs. Normal Friction
 
 **Normal ADHD friction:** Forgetting dates, getting distracted during conversations, losing track of time, emotional intensity, impulsive purchases
