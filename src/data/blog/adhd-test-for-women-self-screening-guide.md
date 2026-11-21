@@ -68,6 +68,8 @@ Diagnosis for women frequently arrives after a major life transition — startin
 
 This is also why so many women are diagnosed only after their own child is diagnosed first — recognizing the pattern in a child's evaluation is what finally makes their own lifelong pattern visible.
 
+Hormones play a role too: if your symptoms spike before your period, see [ADHD and the menstrual cycle](/posts/adhd-and-menstrual-cycle-why-symptoms-change-monthly-guide).
+
 ---
 
 ### What to Do With a Positive Result
