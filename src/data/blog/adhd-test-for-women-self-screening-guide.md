@@ -25,7 +25,7 @@ This isn't a replacement for a clinical evaluation. It's a self-check built arou
 
 Standard ADHD screening tools were built and validated on study populations that were disproportionately young, hyperactive boys, which means they weight visible, externalized symptoms more heavily than the internalized presentation more common in women. Fidgeting, interrupting, and physical restlessness are easy for a clinician — or a six-question quiz — to spot. Racing thoughts behind a calm exterior, chronic overwhelm hidden by over-preparation, and quietly missed social cues are not.
 
-Add hormonal fluctuation to the mix and the picture gets murkier still: estrogen influences dopamine regulation, so ADHD symptoms in women often intensify around the [luteal phase](/posts/adhd-and-menstrual-cycle-why-symptoms-change-monthly-guide), postpartum, and [perimenopause](/posts/adhd-and-menopause-why-symptoms-get-worse-and-what-helps-guide) — periods where symptoms are far more likely to be attributed to mood, stress, or "just being a woman having a hard month" than to underlying ADHD.
+Add hormonal fluctuation to the mix and the picture gets murkier still: estrogen influences dopamine regulation, so ADHD symptoms in women often intensify around the luteal phase, postpartum, and [perimenopause](/posts/adhd-and-menopause-why-symptoms-get-worse-and-what-helps-guide) — periods where symptoms are far more likely to be attributed to mood, stress, or "just being a woman having a hard month" than to underlying ADHD.
 
 ---
 
@@ -67,6 +67,8 @@ For the actual validated clinical screener alongside this, see our [ADHD quiz fo
 Diagnosis for women frequently arrives after a major life transition — starting university, having a first child, or a promotion that removes the structure that was quietly holding everything together — because those transitions strip away the external scaffolding that was compensating for undiagnosed ADHD. A rigid school schedule, a supportive parent managing logistics, or a highly structured entry-level job can mask ADHD symptoms for years. Remove that scaffolding, and symptoms that were always there suddenly become impossible to keep compensating for.
 
 This is also why so many women are diagnosed only after their own child is diagnosed first — recognizing the pattern in a child's evaluation is what finally makes their own lifelong pattern visible.
+
+Hormones play a role too: if your symptoms spike before your period, see [ADHD and the menstrual cycle](/posts/adhd-and-menstrual-cycle-why-symptoms-change-monthly-guide).
 
 ---
 

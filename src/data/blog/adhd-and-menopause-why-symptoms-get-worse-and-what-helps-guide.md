@@ -40,7 +40,7 @@ Perimenopause affects ADHD symptoms because estrogen influences dopamine and nor
 
 Think of estrogen as a volume knob for your brain's dopamine system. If your ADHD brain already runs on a lower baseline, turning that knob down leaves less margin for error.
 
-Reviews such as Quinn and Madhoo's paper on ADHD in women and girls describe how hormonal fluctuations across the lifespan can shift symptom severity. This also explains why many women notice ADHD flaring around their period or after giving birth, as we cover in our [ADHD test for women self-screening guide](/posts/adhd-test-for-women-self-screening-guide) and in [ADHD and the menstrual cycle](/posts/adhd-and-menstrual-cycle-why-symptoms-change-monthly-guide).
+Reviews such as Quinn and Madhoo's paper on ADHD in women and girls describe how hormonal fluctuations across the lifespan can shift symptom severity. This also explains why many women notice ADHD flaring around their period (see our guide to [ADHD and the menstrual cycle](/posts/adhd-and-menstrual-cycle-why-symptoms-change-monthly-guide)) or after giving birth, as we cover in our [ADHD test for women self-screening guide](/posts/adhd-test-for-women-self-screening-guide).
 
 ---
 
