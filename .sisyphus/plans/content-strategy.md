@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-11-20 · **Published posts**: 92
+> **Last reviewed**: 2026-11-23 · **Published posts**: 93
 
 ---
 
@@ -149,6 +149,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-42 | ADHD zoning out | focus | why do I zone out with ADHD; ADHD zoning out in conversations; zoning out vs dissociation ADHD; how to stay present with ADHD | ✅ 2026-11-18 |
 | P2-43 | ADHD hygiene | health | why is showering so hard with ADHD; ADHD shower avoidance adults; ADHD hygiene tips; ADHD teeth brushing and self-care; ADHD or depression not showering | ✅ 2026-11-19 |
 | P2-44 | ADHD friendships | health | why do I lose friends with ADHD; ADHD and keeping friends; how to make friends as an adult with ADHD; ADHD ghosting friends | ✅ 2026-11-20 |
+| P2-45 | ADHD and menstrual cycle | health | why is my ADHD worse before my period; ADHD PMS vs PMDD; ADHD symptoms luteal phase; how to track ADHD symptoms across your cycle | ✅ 2026-11-23 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -247,6 +248,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-seasonal-depression-winter-blues-and-what-helps-guide` | ADHD seasonal depression | health |
 | `adhd-hygiene-why-showering-feels-hard-and-what-helps-guide` | ADHD hygiene | health |
 | `adhd-friendships-why-keeping-friends-is-hard-and-what-helps-guide` | ADHD friendships | health |
+| `adhd-and-menstrual-cycle-why-symptoms-change-monthly-guide` | ADHD and menstrual cycle | health |
 | `adhd-and-life-expectancy-understanding-the-real-world-risks` | ADHD life expectancy | health |
 | `adhd-and-relationships-why-connection-feels-hard-and-how-to-make-it-easier` | ADHD relationships | health |
 | `navigating-the-road-safely-driving-with-adhd` | driving with ADHD | health |

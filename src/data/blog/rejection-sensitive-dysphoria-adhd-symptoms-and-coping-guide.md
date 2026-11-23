@@ -107,7 +107,7 @@ Ask three questions:
 
 ### Long-Term Strategies for Rejection Sensitivity
 
-Long-term RSD management works best when it combines treating the underlying ADHD, building emotional skills, and changing the situations that trigger you. Small and consistent beats heroic and short-lived.
+Long-term RSD management works best when it combines treating the underlying ADHD, building emotional skills, and changing the situations that trigger you. Small and consistent beats heroic and short-lived. If your rejection sensitivity spikes at a predictable point each month, see [ADHD and the menstrual cycle](/posts/adhd-and-menstrual-cycle-why-symptoms-change-monthly-guide).
 
 - **Treat the ADHD itself.** Many people report that RSD eases when their ADHD is well treated, though the evidence is still developing. Medication choices are a clinician's call. Our [ADHD medication guide for adults](/posts/adhd-medication-for-adults-what-to-expect-guide) explains what to expect.
 - **Try therapy.** CBT and DBT-style skills target the thought spirals and emotional intensity behind RSD. Look for a therapist who understands adult ADHD.
