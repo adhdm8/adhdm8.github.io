@@ -126,7 +126,7 @@ A few tips that help:
 
 Reach out to a professional if friendship difficulties leave you lonely, anxious or low for weeks. Loneliness and ADHD often feed each other, and conditions such as anxiety or depression can sit alongside ADHD ([NHS: ADHD in adults](https://www.nhs.uk/conditions/attention-deficit-hyperactivity-disorder-adhd/)).
 
-A therapist or [ADHD coach](/posts/adhd-coaching-what-it-is-and-is-it-worth-it) can help you build social routines that fit your brain. For wider relationship patterns, including partners and family, see [ADHD and relationships](/posts/adhd-and-relationships-why-connection-feels-hard-and-how-to-make-it-easier).
+A therapist or [ADHD coach](/posts/adhd-coaching-what-it-is-and-is-it-worth-it) can help you build social routines that fit your brain. Looking for romance rather than friendship? Read our guide to [ADHD dating](/posts/adhd-dating-why-it-feels-hard-and-how-to-date-with-adhd-guide). For wider relationship patterns, including partners and family, see [ADHD and relationships](/posts/adhd-and-relationships-why-connection-feels-hard-and-how-to-make-it-easier).
 
 ---
 

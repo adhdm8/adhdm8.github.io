@@ -151,6 +151,10 @@ Your partner may need to process by talking. You may need to process by writing 
 
 ---
 
+Single and dating? See our guide to [ADHD dating](/posts/adhd-dating-why-it-feels-hard-and-how-to-date-with-adhd-guide) for first-date and texting strategies.
+
+---
+
 ### Sexual Intimacy & ADHD
 
 ADHD impacts intimacy in often-overlooked ways:

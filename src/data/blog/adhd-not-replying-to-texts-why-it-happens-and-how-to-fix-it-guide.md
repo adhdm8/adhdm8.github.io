@@ -15,7 +15,7 @@ description: "ADHD not replying to texts isn't ghosting or not caring. Learn why
 
 ADHD not replying to texts is one of the most common, and most painful, relationship friction points for adults with ADHD. You read the message, fully intend to answer, and then three days later you find it still sitting there, glowing with guilt.
 
-To the other person, it looks like ignoring them. To you, it feels like a task that quietly turned into a mountain. This guide explains why it happens and how to fix it without turning into a different person.
+To the other person, it looks like ignoring them. To you, it feels like a task that quietly turned into a mountain. This guide explains why it happens and how to fix it without turning into a different person. If the person waiting on your reply is a date, see [ADHD dating](/posts/adhd-dating-why-it-feels-hard-and-how-to-date-with-adhd-guide) too.
 
 ---
 
