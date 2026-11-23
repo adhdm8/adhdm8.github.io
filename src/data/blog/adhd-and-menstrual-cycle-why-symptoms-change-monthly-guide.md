@@ -42,12 +42,12 @@ Hormones affect the ADHD brain across the month because estrogen rises in the fi
 
 Here is the simple version of the four phases:
 
-| Phase                        | What hormones do                             | What many people with ADHD report                         |
-| ---------------------------- | -------------------------------------------- | --------------------------------------------------------- |
-| Menstrual (days 1-5)         | Estrogen and progesterone are low            | Tired, but fog often starts lifting as the period ends    |
-| Follicular (days 6-13)       | Estrogen climbs                              | Better focus, motivation and mood                         |
-| Ovulation (around day 14)    | Estrogen peaks                               | Often the "best brain" window                             |
-| Luteal (days 15-28)          | Estrogen falls, progesterone rises then drops | Fog, irritability, low motivation, especially late phase  |
+| Phase                     | What hormones do                              | What many people with ADHD report                        |
+| ------------------------- | --------------------------------------------- | -------------------------------------------------------- |
+| Menstrual (days 1-5)      | Estrogen and progesterone are low             | Tired, but fog often starts lifting as the period ends   |
+| Follicular (days 6-13)    | Estrogen climbs                               | Better focus, motivation and mood                        |
+| Ovulation (around day 14) | Estrogen peaks                                | Often the "best brain" window                            |
+| Luteal (days 15-28)       | Estrogen falls, progesterone rises then drops | Fog, irritability, low motivation, especially late phase |
 
 Think of estrogen as a volume knob for your brain's dopamine signal. In the follicular phase the volume goes up. In the late luteal phase it drops quickly, and an ADHD brain feels that drop more.
 
@@ -77,12 +77,12 @@ If you ever have thoughts of harming yourself, please contact a doctor or local 
 
 ADHD and PMS overlap on focus, mood and memory, so the best clue is timing. ADHD traits are present across the whole month and trace back to childhood, while PMS and PMDD symptoms appear in a predictable window and then lift.
 
-| Clue                  | More likely ADHD                              | More likely PMS / PMDD                             |
-| --------------------- | --------------------------------------------- | -------------------------------------------------- |
-| When it started       | Childhood, school reports, lifelong pattern   | Often after puberty, can shift with life stages    |
+| Clue                   | More likely ADHD                               | More likely PMS / PMDD                             |
+| ---------------------- | ---------------------------------------------- | -------------------------------------------------- |
+| When it started        | Childhood, school reports, lifelong pattern    | Often after puberty, can shift with life stages    |
 | Pattern over the month | Present all month, varies with interest/stress | Clear window before period, relief after it starts |
-| Other symptoms        | Time blindness, impulsivity, disorganisation  | Bloating, breast tenderness, cramps, mood crashes  |
-| Between periods       | Symptoms still there                          | Often symptom-free or much better                  |
+| Other symptoms         | Time blindness, impulsivity, disorganisation   | Bloating, breast tenderness, cramps, mood crashes  |
+| Between periods        | Symptoms still there                           | Often symptom-free or much better                  |
 
 The tricky part is that you can have both. ADHD may also make PMS harder to cope with, because emotional regulation is already effortful. If strong emotional swings are your main struggle, read our guides on [ADHD emotional dysregulation](/posts/adhd-emotional-dysregulation-adults-guide) and [rejection sensitive dysphoria](/posts/rejection-sensitive-dysphoria-adhd-symptoms-and-coping-guide).
 
