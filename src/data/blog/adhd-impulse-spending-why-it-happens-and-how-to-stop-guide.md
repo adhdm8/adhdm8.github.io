@@ -146,6 +146,8 @@ ADHD impulse spending is a brain-wiring issue, not a moral failing. The goal isn
 
 **Next step**: Tonight, delete your saved card from the one shopping app or site you use most, and write "48-hour list" at the top of a note.
 
+Gift season is peak spending danger. See [ADHD holiday stress](/posts/adhd-holiday-stress-why-the-festive-season-overwhelms-and-what-helps-guide) for a low-effort Christmas shopping system.
+
 ---
 
 ### Sources
