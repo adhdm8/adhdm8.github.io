@@ -64,7 +64,7 @@ If you freeze rather than fade, read our guide to [ADHD paralysis and how to get
 
 Signs of decision fatigue in adults with ADHD include avoiding choices, impulsive "whatever" decisions and a sharp drop in judgement late in the day. Common patterns:
 
-- Eating the same meal on repeat because choosing is too tiring
+- Eating the same meal on repeat because choosing is too tiring (a default menu can help, see [ADHD meal planning](/posts/adhd-meal-planning-how-to-eat-well-without-the-overwhelm-guide))
 - Opening ten tabs to compare options, then buying nothing (or the wrong thing)
 - Saying "I don't mind, you pick" and resenting the result
 - Impulse buying at night when your willpower is at its lowest
