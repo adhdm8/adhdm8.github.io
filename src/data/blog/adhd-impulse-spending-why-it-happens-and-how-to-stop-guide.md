@@ -105,6 +105,10 @@ You can't always prevent the urge, so give yourself a short script for when it h
 
 ---
 
+Grocery runs are a common impulse-buy trap. See [ADHD meal planning and cooking](/posts/adhd-meal-planning-and-cooking-why-dinner-feels-hard-guide) for a shopping-list approach that helps.
+
+---
+
 ### When to Get More Support
 
 If impulse spending is causing serious debt, relationship strain or distress, talk to a qualified professional. Treatment of core ADHD symptoms can reduce impulsivity for some people, and our guide to [ADHD medication for adults](/posts/adhd-medication-for-adults-what-to-expect-guide/) covers what to expect. A coach can also help you build money routines, and [ADHD coaching](/posts/adhd-coaching-what-it-is-and-is-it-worth-it/) explains what that looks like.

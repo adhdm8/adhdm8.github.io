@@ -125,6 +125,10 @@ Tired brains crave sugar and have less self-control. Late nights also fuel the A
 
 ---
 
+If dinner itself is the sticking point, our guide to [ADHD meal planning and cooking](/posts/adhd-meal-planning-and-cooking-why-dinner-feels-hard-guide) shows how to make regular meals easier.
+
+---
+
 ### When to Get Professional Help
 
 Seek help when eating feels out of control, causes distress, affects your health, or involves purging, extreme restriction or secrecy. ADHD treatment and eating disorder treatment often need to be coordinated, and a clinician can do that.

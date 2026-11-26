@@ -129,6 +129,10 @@ That's it. You're not finishing, you're resetting.
 
 ---
 
+The kitchen is often the hardest room. Our guide to [ADHD meal planning and cooking](/posts/adhd-meal-planning-and-cooking-why-dinner-feels-hard-guide) covers how to make dinner and the dishes less of a battle.
+
+---
+
 ### When Cleaning Feels Impossible
 
 If cleaning feels impossible most days, it may be a sign of something bigger than a messy habit. Exhaustion, low mood, anxiety and [ADHD burnout](/posts/adhd-burnout-symptoms-and-recovery-guide/) can all make basic tasks feel out of reach.
