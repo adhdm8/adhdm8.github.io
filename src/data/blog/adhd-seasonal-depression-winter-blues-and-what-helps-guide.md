@@ -112,6 +112,8 @@ A winter plan works best when it is small and decided in advance, before your mo
 
 > **Pro-tip from ADHD m8:** Put the plan on your phone lock screen. Winter-you will not remember it, but you will see it.
 
+December adds its own load on top of winter dips. Our guide to [ADHD holiday stress](/posts/adhd-holiday-stress-why-the-festive-season-overwhelms-and-what-helps-guide) covers gifts, gatherings and routines.
+
 ---
 
 ### Sources
