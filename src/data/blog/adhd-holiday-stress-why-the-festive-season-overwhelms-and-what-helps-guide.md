@@ -121,6 +121,8 @@ If this sounds familiar, you may also be dealing with [ADHD seasonal depression]
 
 > **Pro-tip from ADHD m8:** Instead of a "what I failed to do this year" list, write three things you handled that you wouldn't have managed five years ago.
 
+When you're ready to look ahead, our guide to [ADHD New Year's resolutions](/posts/adhd-new-years-resolutions-why-they-fail-and-goals-that-stick-guide) shows how to set goals small enough to survive January.
+
 ---
 
 ### An 8-Step ADHD Holiday Survival Plan
