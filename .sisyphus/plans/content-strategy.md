@@ -2,7 +2,7 @@
 
 > **Single source of truth** for SEO and content planning. Replaces the old
 > `traffic-optimization.md` and per-post plan files.
-> **Last reviewed**: 2026-11-24 · **Published posts**: 95
+> **Last reviewed**: 2026-11-28 · **Published posts**: 96
 
 ---
 
@@ -152,6 +152,7 @@ starting points — confirm against GSC once P0-02 is done.
 | P2-45 | ADHD and menstrual cycle | health | why does ADHD get worse before my period; ADHD PMS vs PMDD; ADHD symptoms during luteal phase; cycle syncing for ADHD | ✅ 2026-11-21 |
 | P2-46 | ADHD dating | health | why is dating so hard with ADHD; ADHD dating tips for adults; should I tell a date I have ADHD; ADHD ghosting dating | ✅ 2026-11-22 |
 | P2-47 | ADHD holiday stress | health | why do holidays overwhelm ADHD; ADHD Christmas shopping procrastination; ADHD family gatherings overstimulation; how to survive the holidays with ADHD | ✅ 2026-11-24 |
+| P2-49 | ADHD resolution ideas | time | ADHD New Year's resolution ideas for adults; realistic goals ADHD; small habits ADHD; how to choose one resolution ADHD | ✅ 2026-11-28 |
 
 **Deprioritized** (don't write unless the user asks): more pen/stationery
 reviews, generic productivity posts, parenting/children (off-audience for now).
@@ -196,6 +197,7 @@ correct them when GSC data (P0-02) shows what each post actually ranks for.
 | `adhd-wall-of-awful-what-it-is-and-how-to-get-past-it` | ADHD wall of awful | time |
 | `adhd-lateness-why-youre-always-late-and-what-helps-guide` | ADHD lateness | time |
 | `adhd-decision-fatigue-why-every-choice-feels-heavy-and-what-helps-guide` | ADHD decision fatigue | time |
+| `adhd-resolution-ideas-small-new-year-goals-that-fit-your-brain-guide` | ADHD resolution ideas | time |
 | `bridging-the-knowing-doing-gap-science-backed-tools-for-managing-adhd` | ADHD knowing-doing gap | time |
 | `how-to-read-books-with-adhd` | how to read with ADHD | time |
 | `improve-focus-with-behavioral-tools-and-medication-for-adhd` | ADHD medication and behavioral tools | focus |
