@@ -76,6 +76,8 @@ By accepting that you are **"delay averse"** and "time blind," you can stop blam
 
 Stuck even when you know the plan? Read our guide to [ADHD paralysis and how to get unstuck](/posts/adhd-paralysis-how-to-get-unstuck-guide).
 
+Year-long goals are especially hard for a time-blind brain, which is why [ADHD New Year's resolutions](/posts/adhd-new-years-resolutions-why-they-fail-and-what-works-guide) so often fizzle by February.
+
 Time blindness is one piece of a bigger picture. Read about [ADHD executive dysfunction](/posts/adhd-executive-dysfunction-signs-and-strategies-guide) for the full set of signs and fixes.
 
 And if choosing itself wears you out, read about [ADHD decision fatigue](/posts/adhd-decision-fatigue-why-every-choice-feels-heavy-and-what-helps-guide).
