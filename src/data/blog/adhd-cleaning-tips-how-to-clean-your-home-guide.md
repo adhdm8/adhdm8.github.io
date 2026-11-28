@@ -129,7 +129,7 @@ That's it. You're not finishing, you're resetting.
 
 ---
 
-The kitchen is often the hardest room. Our guide to [ADHD meal planning and cooking](/posts/adhd-meal-planning-and-cooking-why-dinner-feels-hard-guide) covers how to make dinner and the dishes less of a battle.
+The kitchen is often the hardest room. Our guide to [ADHD cooking](/posts/adhd-cooking-why-starting-dinner-feels-hard-and-what-helps-guide) covers how to make dinner and the dishes less of a battle.
 
 ---
 

@@ -2,25 +2,25 @@
 author: ADHD m8
 pubDatetime: 2026-11-26T08:00:00+08:00
 modDatetime: 2026-11-26T08:00:00+08:00
-title: "ADHD Meal Planning: Why Dinner Feels Hard and What Helps"
-slug: adhd-meal-planning-and-cooking-why-dinner-feels-hard-guide
+title: "ADHD Cooking: Why Starting Dinner Feels Hard and What Helps"
+slug: adhd-cooking-why-starting-dinner-feels-hard-and-what-helps-guide
 featured: true
 draft: false
 tags:
   - adhd
   - health
-description: "ADHD meal planning is hard because dinner needs planning, memory and task initiation. Learn why cooking with ADHD feels heavy and 8 low-effort fixes."
+description: "ADHD cooking is hard because dinner demands starting, sequencing and timing at once. Learn why cooking with ADHD feels heavy, plus 8 low-effort kitchen fixes."
 ---
 
-ADHD meal planning sounds simple until it's 7pm, you're starving, the fridge holds three random vegetables and a jar of mustard, and you somehow end up eating cereal over the sink. Again.
+ADHD cooking sounds simple until it's 7pm, you're starving, the fridge holds three random vegetables and a jar of mustard, and you somehow end up eating cereal over the sink. Again.
 
-If you've wondered why cooking with ADHD feels so much harder than it looks for everyone else, you're not lazy and you're not hopeless. This guide explains what makes dinner such a tough job for the ADHD brain, and gives you practical, low-effort ways to eat well without a perfect system.
+If you've wondered why cooking with ADHD feels so much harder than it looks for everyone else, you're not lazy and you're not hopeless. This guide focuses on the kitchen itself: why starting and finishing dinner is so hard for the ADHD brain, and the low-effort tricks that help. For the planning side, see our [ADHD meal planning guide](/posts/adhd-meal-planning-how-to-eat-well-without-the-overwhelm-guide).
 
 ---
 
-### Why Is Meal Planning So Hard With ADHD?
+### Why Is Cooking So Hard With ADHD?
 
-ADHD meal planning is hard because "what's for dinner?" quietly asks for six executive function skills at once: planning, remembering, deciding, starting, sequencing and timing. Each one is a known weak spot with ADHD.
+ADHD cooking is hard because "what's for dinner?" quietly asks for six executive function skills at once: planning, remembering, deciding, starting, sequencing and timing. Each one is a known weak spot with ADHD.
 
 The [National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd) describes ADHD as a pattern of inattention and impulsivity that interferes with everyday functioning. Feeding yourself is everyday functioning, and it happens three times a day, every day.
 
@@ -81,9 +81,9 @@ Plan meals for 6pm you, not Sunday-afternoon-motivated you. Choose meals under 2
 
 ---
 
-### What Are the Best Cooking Strategies for ADHD Brains?
+### How to Cook With ADHD: 5 Strategies That Cut the Overwhelm
 
-The best cooking strategies for ADHD brains cut steps, make food visible and add time cues. You're designing the kitchen to do some of the remembering for you.
+The best way to cook with ADHD is to cut steps, make food visible and add time cues. You're designing the kitchen to do some of the remembering for you.
 
 #### Make food visible
 
@@ -149,7 +149,7 @@ An [ADHD coach](/posts/adhd-coaching-what-it-is-and-is-it-worth-it) can also hel
 
 ---
 
-### FAQ: ADHD Meal Planning and Cooking
+### FAQ: ADHD Cooking
 
 **Q: Why is it so hard to decide what to eat with ADHD?**
 A: Choosing what to eat is hard with ADHD because it combines open-ended decisions, planning and memory in one moment. Having a short list of default meals reduces the choices your brain has to make.
@@ -167,7 +167,7 @@ A: No. Takeaway or ready meals can be a sensible tool on low-energy days. The ai
 
 ### Key Takeaways
 
-- ADHD meal planning is hard because dinner relies on planning, working memory, decision-making, task initiation and timing, which are all executive functions affected by ADHD.
+- ADHD cooking is hard because dinner relies on planning, working memory, decision-making, task initiation and timing, which are all executive functions affected by ADHD.
 - Forgetting to eat with ADHD is common and can come from hyperfocus, time blindness or reduced appetite from stimulant medication.
 - A list of 7 to 10 default meals plus theme nights removes most of the daily decision load.
 - Timers, visible food and micro-prep work better for ADHD brains than long, rigid meal-prep sessions.

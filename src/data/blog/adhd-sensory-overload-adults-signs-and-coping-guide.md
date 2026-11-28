@@ -146,6 +146,8 @@ Sound is a common trigger, and steady background sound can mask it. Repetitive m
 
 Sensory dislikes can also make routines like showering feel unbearable. See our guide to [ADHD hygiene and showering](/posts/adhd-hygiene-why-showering-feels-hard-and-what-helps-guide) for fixes.
 
+Crowded festive events are a classic trigger. See [ADHD holiday stress](/posts/adhd-holiday-stress-why-the-festive-season-overwhelms-and-what-helps-guide) for gathering and exit-plan tips.
+
 ---
 
 ### Key Takeaways

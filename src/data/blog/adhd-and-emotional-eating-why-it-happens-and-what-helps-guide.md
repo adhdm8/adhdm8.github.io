@@ -125,7 +125,7 @@ Tired brains crave sugar and have less self-control. Late nights also fuel the A
 
 ---
 
-If dinner itself is the sticking point, our guide to [ADHD meal planning and cooking](/posts/adhd-meal-planning-and-cooking-why-dinner-feels-hard-guide) shows how to make regular meals easier.
+If dinner itself is the sticking point, our guide to [ADHD cooking](/posts/adhd-cooking-why-starting-dinner-feels-hard-and-what-helps-guide) shows how to make regular meals easier.
 
 ---
 
