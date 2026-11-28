@@ -115,6 +115,8 @@ Perfectionism often drives the quitting. If "all or nothing" sounds like you, ou
 
 The best resolutions for ADHD adults are ones that support your brain's basics rather than demand a personality overhaul. Sleep, movement, a daily capture habit and fewer commitments tend to pay off across everything else.
 
+For a longer menu of options, see our list of [12 ADHD resolution ideas](/posts/adhd-resolution-ideas-small-new-year-goals-that-fit-your-brain-guide).
+
 Some good starter ideas:
 
 - **Protect sleep:** Pick a consistent wake-up time. See [ADHD sleep hygiene](/posts/adhd-and-sleep-hygiene-science-backed-guide).
