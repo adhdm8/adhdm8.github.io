@@ -76,7 +76,7 @@ Stimulant ADHD medication commonly suppresses appetite, which can reduce eating 
 
 This can help or hurt. Some people find fewer cravings. Others undereat all day, crash in the evening, and eat heavily at night.
 
-If this is you, tell your prescriber. Options such as timing doses around meals, adjusting the dose, or discussing alternatives are medical decisions, not DIY ones. Our [guide to ADHD medication for adults](/posts/adhd-medication-for-adults-what-to-expect-guide) covers side effects and the questions worth asking.
+If this is you, tell your prescriber. Options such as timing doses around meals, adjusting the dose, or discussing alternatives are medical decisions, not DIY ones. Our [guide to ADHD medication for adults](/posts/adhd-medication-for-adults-what-to-expect-guide) covers side effects and the questions worth asking. For the practical side of feeding yourself, see our guide to [ADHD meal planning](/posts/adhd-meal-planning-how-to-eat-well-without-the-overwhelm-guide).
 
 ---
 
