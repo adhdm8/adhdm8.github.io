@@ -138,6 +138,8 @@ Cooking gets easier with ADHD when you add stimulation instead of forcing focus.
 - Clean as you go in small bursts, using the tricks from our [ADHD cleaning tips guide](/posts/adhd-cleaning-tips-how-to-clean-your-home-guide)
 - Reward yourself afterwards with something from your [dopamine menu](/posts/adhd-dopamine-menu-how-to-build-one-guide)
 
+For more kitchen-level help on starting and finishing dinner, read our guide to [ADHD cooking](/posts/adhd-cooking-why-starting-dinner-feels-hard-and-what-helps-guide).
+
 ---
 
 ### If Medication Changes Your Appetite

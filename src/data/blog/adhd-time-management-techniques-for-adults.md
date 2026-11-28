@@ -143,6 +143,8 @@ Mornings are where most time plans break first. Our [ADHD morning routine guide]
 
 If you consistently cannot keep up despite good systems, or you suspect undiagnosed ADHD, our [adult ADHD diagnosis guide](/posts/adult-adhd-diagnosis-guide) explains the assessment process.
 
+Planning a fresh start for the new year? See [ADHD New Year's resolutions](/posts/adhd-new-years-resolutions-why-they-fail-and-goals-that-stick-guide) for goals small enough to stick.
+
 ---
 
 ### FAQ: ADHD Time Management

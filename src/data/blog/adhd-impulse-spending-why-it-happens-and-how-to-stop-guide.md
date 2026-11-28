@@ -105,6 +105,10 @@ You can't always prevent the urge, so give yourself a short script for when it h
 
 ---
 
+Grocery runs are a common impulse-buy trap. See [ADHD cooking](/posts/adhd-cooking-why-starting-dinner-feels-hard-and-what-helps-guide) for a shopping-list approach that helps.
+
+---
+
 ### When to Get More Support
 
 If impulse spending is causing serious debt, relationship strain or distress, talk to a qualified professional. Treatment of core ADHD symptoms can reduce impulsivity for some people, and our guide to [ADHD medication for adults](/posts/adhd-medication-for-adults-what-to-expect-guide/) covers what to expect. A coach can also help you build money routines, and [ADHD coaching](/posts/adhd-coaching-what-it-is-and-is-it-worth-it/) explains what that looks like.
@@ -145,6 +149,8 @@ Impulse control slips in other areas too, including [emotional eating](/posts/ad
 ADHD impulse spending is a brain-wiring issue, not a moral failing. The goal isn't to become a perfect saver; it's to build a setup where your impulsive moments can't do much damage and your future self still gets looked after.
 
 **Next step**: Tonight, delete your saved card from the one shopping app or site you use most, and write "48-hour list" at the top of a note.
+
+Gift season is peak spending danger. See [ADHD holiday stress](/posts/adhd-holiday-stress-why-the-festive-season-overwhelms-and-what-helps-guide) for a low-effort Christmas shopping system.
 
 ---
 
