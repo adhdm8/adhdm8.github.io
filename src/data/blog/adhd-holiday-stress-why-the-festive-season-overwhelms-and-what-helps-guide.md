@@ -119,7 +119,7 @@ The end of the year feels heavy with ADHD because it invites reflection, and an 
 
 If this sounds familiar, you may also be dealing with [ADHD seasonal depression](/posts/adhd-seasonal-depression-winter-blues-and-what-helps-guide). Persistent low mood, loss of interest or hopelessness are worth raising with a doctor or mental health professional, and the [NHS guide to depression](https://www.nhs.uk/mental-health/conditions/clinical-depression/overview/) explains what to look out for.
 
-Looking ahead to January? Our guide to [ADHD New Year's resolutions](/posts/adhd-new-years-resolutions-why-they-fail-and-what-works-guide) shows how to set goals small enough to survive February.
+Looking ahead to January? Our guide to [ADHD resolution ideas](/posts/adhd-resolution-ideas-small-new-year-goals-that-fit-your-brain-guide) shows how to set goals small enough to survive February.
 
 > **Pro-tip from ADHD m8:** Instead of a "what I failed to do this year" list, write three things you handled that you wouldn't have managed five years ago.
 
